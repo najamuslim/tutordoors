@@ -1,0 +1,133 @@
+ERROR - 20150811053307 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150811053307 --> Unable to connect to the database
+ERROR - 20150811053434 --> 404 Page Not Found: Cms/product_view
+ERROR - 20150811055010 --> 404 Page Not Found: Cms/post_view
+ERROR - 20150811055014 --> 404 Page Not Found: Cms/post_view
+ERROR - 20150811055020 --> 404 Page Not Found: Cms/index
+ERROR - 20150811055026 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 61
+ERROR - 20150811055033 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 61
+ERROR - 20150811055040 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 61
+ERROR - 20150811055435 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 61
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055534 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\post_view_all.php 46
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811055703 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\post_view_all.php 45
+ERROR - 20150811064054 --> 404 Page Not Found: Cms/view_post?ty=post
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811064121 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\product_view_all.php 46
+ERROR - 20150811072614 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$result C:\xampp\htdocs\makanenak\application\controllers\cms.php 70
+ERROR - 20150811072614 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\controllers\cms.php 207
+ERROR - 20150811072614 --> Severity: Notice --> Undefined variable: product C:\xampp\htdocs\makanenak\application\controllers\cms.php 212
+ERROR - 20150811072632 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$result C:\xampp\htdocs\makanenak\application\controllers\cms.php 70
+ERROR - 20150811072632 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\controllers\cms.php 207
+ERROR - 20150811072632 --> Severity: Notice --> Undefined variable: product C:\xampp\htdocs\makanenak\application\controllers\cms.php 212
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073028 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073041 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073041 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073235 --> Severity: Notice --> Undefined index: price C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 61
+ERROR - 20150811073235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_view_all.php 62
+ERROR - 20150811073319 --> Severity: Error --> Cannot use object of type stdClass as array C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073349 --> Severity: Error --> Cannot use object of type stdClass as array C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811073357 --> Severity: Error --> Cannot use object of type stdClass as array C:\xampp\htdocs\makanenak\application\views\product_view_all.php 60
+ERROR - 20150811223213 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 122
+ERROR - 20150811223345 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\controllers\cms.php 124
+ERROR - 20150811223345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 124
+ERROR - 20150811223357 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\controllers\cms.php 124
+ERROR - 20150811223357 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 124
+ERROR - 20150811223409 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\controllers\cms.php 124
+ERROR - 20150811223409 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 124
+ERROR - 20150811223556 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_creation.php 102

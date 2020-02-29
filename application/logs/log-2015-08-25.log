@@ -1,0 +1,90 @@
+ERROR - 20150825051730 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 103
+ERROR - 20150825062103 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 39
+ERROR - 20150825063348 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 39
+ERROR - 20150825063348 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 174
+ERROR - 20150825063348 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 174
+ERROR - 20150825063348 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 175
+ERROR - 20150825063348 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 175
+ERROR - 20150825063348 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 176
+ERROR - 20150825063348 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 176
+ERROR - 20150825063348 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 177
+ERROR - 20150825063348 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 177
+ERROR - 20150825063348 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\makanenak\system\core\Exceptions.php:272) C:\xampp\htdocs\makanenak\system\helpers\url_helper.php 564
+ERROR - 20150825063404 --> Query error: Duplicate entry 'lagi@gmail.com' for key 'email_UNIQUE' - Invalid query: INSERT INTO `users` (`email_login`, `password`, `first_name`, `last_name`, `user_level`, `user_id`) VALUES ('lagi@gmail.com', 'ef4a678e9c8268a479fb2936955e537b', 'Ocky', 'Harliansyah', 'customer', 'ROzpj93944')
+ERROR - 20150825063404 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 39
+ERROR - 20150825063404 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 174
+ERROR - 20150825063404 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 174
+ERROR - 20150825063404 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 175
+ERROR - 20150825063404 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 175
+ERROR - 20150825063404 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 176
+ERROR - 20150825063404 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 176
+ERROR - 20150825063404 --> Severity: Notice --> Undefined variable: user_data C:\xampp\htdocs\makanenak\application\controllers\Users.php 177
+ERROR - 20150825063404 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 177
+ERROR - 20150825063404 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\makanenak\system\core\Exceptions.php:272) C:\xampp\htdocs\makanenak\system\helpers\url_helper.php 564
+ERROR - 20150825063623 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 103
+ERROR - 20150825063634 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 103
+ERROR - 20150825063858 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 103
+ERROR - 20150825063936 --> Query error: Duplicate entry 'lagi@gmail.com' for key 'email_UNIQUE' - Invalid query: INSERT INTO `users` (`email_login`, `password`, `first_name`, `last_name`, `user_level`, `user_id`) VALUES ('lagi@gmail.com', 'ef4a678e9c8268a479fb2936955e537b', 'Ocky', 'h', 'customer', 'EweRb05019')
+ERROR - 20150825063936 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 103
+ERROR - 20150825064044 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 103
+ERROR - 20150825064624 --> Severity: Notice --> Undefined property: Users::$ci C:\xampp\htdocs\makanenak\application\controllers\Users.php 179
+ERROR - 20150825064624 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 179
+ERROR - 20150825064624 --> Severity: Error --> Call to a member function set_flashdata() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 179
+ERROR - 20150825064703 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 108
+ERROR - 20150825064735 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 108
+ERROR - 20150825064828 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 108
+ERROR - 20150825065015 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 108
+ERROR - 20150825065121 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 108
+ERROR - 20150825070402 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 108
+ERROR - 20150825070457 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825070553 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825070620 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825070824 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825070850 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825070914 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825073825 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825073907 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074050 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074300 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074424 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074524 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074543 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074621 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074828 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825074944 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825202638 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825213944 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825214106 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825220512 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825222846 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825223410 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825223715 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825223811 --> Severity: Warning --> Missing argument 1 for Order_m::get_latest_order_id_this_month(), called in C:\xampp\htdocs\makanenak\application\controllers\Order.php on line 128 and defined C:\xampp\htdocs\makanenak\application\models\Order_m.php 16
+ERROR - 20150825223811 --> Severity: Notice --> Undefined variable: prefix C:\xampp\htdocs\makanenak\application\models\Order_m.php 18
+ERROR - 20150825224605 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224617 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224637 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224830 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224836 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224917 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224943 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825224950 --> 404 Page Not Found: Frontpage/order_received
+ERROR - 20150825225352 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225357 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225404 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225431 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225641 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225823 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225831 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825225945 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825230018 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825230018 --> Severity: Notice --> Undefined variable: date C:\xampp\htdocs\makanenak\application\views\organique\order_received.php 11
+ERROR - 20150825230018 --> Severity: Error --> Function name must be a string C:\xampp\htdocs\makanenak\application\views\organique\order_received.php 11
+ERROR - 20150825230025 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825230033 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825230832 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825230832 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\order_received.php 14
+ERROR - 20150825230922 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825230922 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\order_received.php 14
+ERROR - 20150825230959 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150825231020 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109

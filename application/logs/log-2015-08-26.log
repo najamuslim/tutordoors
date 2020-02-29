@@ -1,0 +1,246 @@
+ERROR - 20150826064118 --> Severity: Notice --> Undefined property: Frontpage::$db_trans C:\xampp\htdocs\makanenak\system\core\Model.php 77
+ERROR - 20150826064118 --> Severity: Error --> Call to a member function return_select() on a non-object C:\xampp\htdocs\makanenak\application\models\Bank_m.php 18
+ERROR - 20150826064129 --> Severity: Notice --> Undefined property: stdClass::$bank_holder_number C:\xampp\htdocs\makanenak\application\views\organique\order_received.php 35
+ERROR - 20150826064129 --> Severity: Notice --> Undefined property: stdClass::$bank_holder_number C:\xampp\htdocs\makanenak\application\views\organique\order_received.php 35
+ERROR - 20150826193052 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150826193052 --> Unable to connect to the database
+ERROR - 20150826193054 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150826193056 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150826193056 --> Unable to connect to the database
+ERROR - 20150826193057 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20150826195719 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 38
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 52
+ERROR - 20150826200925 --> Severity: Notice --> Undefined property: stdClass::$id C:\xampp\htdocs\makanenak\application\views\admin_order_view_all.php 57
+ERROR - 20150826202009 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826204844 --> 404 Page Not Found: Order/change_order_statusRTW-2015-08-0006
+ERROR - 20150826204859 --> 404 Page Not Found: Order/change_order_statusRTW-2015-08-0006
+ERROR - 20150826204917 --> Severity: Warning --> Illegal string offset 'status' C:\xampp\htdocs\makanenak\application\controllers\Order.php 205
+ERROR - 20150826205357 --> Unable to load the requested class: Common
+ERROR - 20150826205421 --> Severity: Notice --> Undefined property: Order::$common C:\xampp\htdocs\makanenak\application\controllers\Order.php 199
+ERROR - 20150826205421 --> Severity: Error --> Call to a member function update_data_on_table() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 199
+ERROR - 20150826211151 --> Severity: Notice --> Undefined property: Cms::$order C:\xampp\htdocs\makanenak\application\controllers\Cms.php 550
+ERROR - 20150826211151 --> Severity: Error --> Call to a member function get_order_header() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 550
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 19
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 24
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 31
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 37
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 45
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 52
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 58
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 64
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 72
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 79
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 85
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 91
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 99
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 106
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 113
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 122
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 129
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 135
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 143
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 150
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 157
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 166
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 173
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 178
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 14
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 25
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 30
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 32
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 41
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 45
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 53
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 62
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 70
+ERROR - 20150826211235 --> Severity: Notice --> Undefined variable: root_category C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 83
+ERROR - 20150826211235 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 83
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 19
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 24
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 31
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 37
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 45
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 52
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 58
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 64
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 72
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 79
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 85
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 91
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 99
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 106
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 113
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 122
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 129
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 135
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 143
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 150
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 157
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 166
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 173
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 178
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 25
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 30
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 32
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 41
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 45
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 53
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 62
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 70
+ERROR - 20150826211329 --> Severity: Notice --> Undefined variable: root_category C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 83
+ERROR - 20150826211329 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 83
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 19
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 24
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 31
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 37
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 45
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 52
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 58
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 64
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 72
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 79
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 85
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 91
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 99
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 106
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 113
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 122
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 129
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 135
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 143
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 150
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 157
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 166
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 173
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 178
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 30
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 32
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 41
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 45
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 53
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 62
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 70
+ERROR - 20150826211400 --> Severity: Notice --> Undefined variable: root_category C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 83
+ERROR - 20150826211400 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 83
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 19
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 24
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 31
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 37
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 45
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 52
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 58
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 64
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 72
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 79
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 85
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 91
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 99
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 106
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 113
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 122
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 129
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 135
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 143
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 150
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 157
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 166
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 173
+ERROR - 20150826211444 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 178
+ERROR - 20150826213142 --> Severity: Notice --> Undefined variable: header C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 32
+ERROR - 20150826213142 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 32
+ERROR - 20150826213635 --> Severity: Notice --> Undefined property: stdClass::$email_login C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 45
+ERROR - 20150826213635 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213635 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213635 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213635 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213755 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213755 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213755 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826213755 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 48
+ERROR - 20150826214529 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 69
+ERROR - 20150826215025 --> Severity: Error --> Cannot use object of type stdClass as array C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 77
+ERROR - 20150826215046 --> Severity: Notice --> Undefined property: stdClass::$image C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 77
+ERROR - 20150826215113 --> Severity: Notice --> Undefined property: stdClass::$primary_image C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 77
+ERROR - 20150826215158 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150826215736 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826220011 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220049 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220105 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 71
+ERROR - 20150826220352 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 71
+ERROR - 20150826220524 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220532 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220551 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220558 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220609 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220619 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826220700 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826221442 --> Severity: Notice --> Undefined property: Cms::$content C:\xampp\htdocs\makanenak\application\controllers\Cms.php 223
+ERROR - 20150826221442 --> Severity: Error --> Call to a member function get_post_data() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 223
+ERROR - 20150826221510 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 248
+ERROR - 20150826221510 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 249
+ERROR - 20150826221510 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 237
+ERROR - 20150826221510 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 238
+ERROR - 20150826221510 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 241
+ERROR - 20150826221510 --> Severity: Notice --> Undefined variable: price C:\xampp\htdocs\makanenak\application\controllers\Cms.php 241
+ERROR - 20150826221510 --> Severity: Notice --> Undefined index: orders C:\xampp\htdocs\makanenak\application\controllers\Cms.php 260
+ERROR - 20150826221618 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 250
+ERROR - 20150826221618 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 239
+ERROR - 20150826221618 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 242
+ERROR - 20150826221618 --> Severity: Notice --> Undefined variable: price C:\xampp\htdocs\makanenak\application\controllers\Cms.php 242
+ERROR - 20150826221618 --> Severity: Notice --> Undefined index: orders C:\xampp\htdocs\makanenak\application\controllers\Cms.php 261
+ERROR - 20150826221634 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 239
+ERROR - 20150826221634 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\makanenak\application\controllers\Cms.php 242
+ERROR - 20150826221634 --> Severity: Notice --> Undefined variable: price C:\xampp\htdocs\makanenak\application\controllers\Cms.php 242
+ERROR - 20150826221634 --> Severity: Notice --> Undefined index: orders C:\xampp\htdocs\makanenak\application\controllers\Cms.php 261
+ERROR - 20150826221653 --> Severity: Notice --> Undefined index: orders C:\xampp\htdocs\makanenak\application\controllers\Cms.php 260
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 77
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 79
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 81
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 77
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 79
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 81
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 77
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 79
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 81
+ERROR - 20150826222017 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 79
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 81
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 79
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 81
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 79
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 80
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 81
+ERROR - 20150826222100 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222231 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222231 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222231 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 82
+ERROR - 20150826222754 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826223359 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826223504 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826223903 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826223920 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109
+ERROR - 20150826224000 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 109

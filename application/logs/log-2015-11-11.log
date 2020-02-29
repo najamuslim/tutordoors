@@ -1,0 +1,108 @@
+ERROR - 20151111051914 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\raboda\order_succeed.php 55
+ERROR - 20151111061940 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062016 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062045 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062218 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062345 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062416 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\midaonline\application\views\raboda\header.php 14
+ERROR - 20151111062417 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062640 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111062804 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111072055 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111072113 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111081902 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111082109 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111082140 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111082725 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111083329 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111083456 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084046 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084141 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084245 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084315 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084338 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084353 --> Severity: Warning --> Missing argument 1 for Order::lookup_order() C:\xampp\htdocs\midaonline\application\controllers\Order.php 405
+ERROR - 20151111084353 --> Severity: Notice --> Undefined variable: order_id C:\xampp\htdocs\midaonline\application\controllers\Order.php 408
+ERROR - 20151111084404 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\controllers\Order.php 415
+ERROR - 20151111084548 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084615 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084713 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111084824 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111085103 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111085201 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111085355 --> Severity: Notice --> Undefined index: sender_id C:\xampp\htdocs\midaonline\application\libraries\Notification.php 38
+ERROR - 20151111085356 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111091601 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111092224 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111092253 --> Severity: Parsing Error --> syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\midaonline\application\controllers\Order.php 416
+ERROR - 20151111092313 --> Query error: Duplicate entry 'MD1511927733' for key 'order_id' - Invalid query: INSERT INTO `payment_transfer` (`order_id`, `sender_name`, `bank_dest_id`, `transfer_date`, `total_paid`, `note`, `status`) VALUES ('MD1511927733', 'wackymedia.id', '11', '2015-11-12', '68000', '', 'Open')
+ERROR - 20151111092313 --> Severity: Warning --> array_push() expects at least 2 parameters, 1 given C:\xampp\htdocs\midaonline\application\controllers\Order.php 407
+ERROR - 20151111092314 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111092406 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111093529 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\midaonline\application\controllers\Order.php 395
+ERROR - 20151111093550 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111093657 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111093714 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111094528 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151111094528 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151111094603 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_all.php 45
+ERROR - 20151111095851 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\controllers\Order.php 323
+ERROR - 20151111100511 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 375
+ERROR - 20151111120945 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 358
+ERROR - 20151111120945 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111132646 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 358
+ERROR - 20151111132646 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111140309 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\controllers\Cms.php 345
+ERROR - 20151111140309 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111140949 --> Severity: Notice --> Undefined variable: value C:\xampp\htdocs\midaonline\application\controllers\Cms.php 343
+ERROR - 20151111140949 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`NULL`
+AND `discount` <> '0'
+AND `post_id` = '64'
+ORDER BY `on_quantity` desc' at line 4 - Invalid query: SELECT *
+FROM `product_discounts`
+WHERE `on_quantity` <> '0'
+AND `on_quantity` < `IS` `NULL`
+AND `discount` <> '0'
+AND `post_id` = '64'
+ORDER BY `on_quantity` desc
+ERROR - 20151111140949 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151111141146 --> Severity: Notice --> Undefined variable: key C:\xampp\htdocs\midaonline\application\controllers\Cms.php 362
+ERROR - 20151111141146 --> Severity: Notice --> Undefined variable: item_discount C:\xampp\htdocs\midaonline\application\controllers\Cms.php 368
+ERROR - 20151111141146 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111141146 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 91
+ERROR - 20151111141146 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 93
+ERROR - 20151111141146 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 94
+ERROR - 20151111141231 --> Severity: Notice --> Undefined variable: item_discount C:\xampp\htdocs\midaonline\application\controllers\Cms.php 368
+ERROR - 20151111141231 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111141231 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 91
+ERROR - 20151111141231 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 93
+ERROR - 20151111141231 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 94
+ERROR - 20151111141233 --> Severity: Notice --> Undefined variable: item_discount C:\xampp\htdocs\midaonline\application\controllers\Cms.php 368
+ERROR - 20151111141233 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111141233 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 91
+ERROR - 20151111141233 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 93
+ERROR - 20151111141233 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 94
+ERROR - 20151111141248 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111141248 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 91
+ERROR - 20151111141248 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 93
+ERROR - 20151111141248 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 94
+ERROR - 20151111141251 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 37
+ERROR - 20151111141251 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 91
+ERROR - 20151111141251 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 93
+ERROR - 20151111141251 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 94
+ERROR - 20151111141318 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 91
+ERROR - 20151111141318 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 93
+ERROR - 20151111141318 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\midaonline\application\views\admin\order_view_detail.php 94
+ERROR - 20151111142746 --> Severity: Notice --> Undefined property: stdClass::$price_on_sell C:\xampp\htdocs\midaonline\application\controllers\Cms.php 346
+ERROR - 20151111142746 --> Severity: Notice --> Undefined property: stdClass::$discount_on_sell C:\xampp\htdocs\midaonline\application\controllers\Cms.php 347
+ERROR - 20151111191022 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151111191022 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151111191249 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 368
+ERROR - 20151111192628 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193259 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193342 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193348 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193545 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193627 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193721 --> 404 Page Not Found: Assets/themes
+ERROR - 20151111193734 --> 404 Page Not Found: Assets/themes

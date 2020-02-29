@@ -1,0 +1,119 @@
+ERROR - 20160205061725 --> Severity: Notice --> Undefined variable: level C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 26
+ERROR - 20160205061725 --> Severity: Notice --> Undefined variable: level C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 27
+ERROR - 20160205061725 --> Severity: Notice --> Undefined variable: running_course C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 37
+ERROR - 20160205062418 --> Query error: Unknown column 'u.student_first_name' in 'field list' - Invalid query: 
+						select cea.*, u.student_first_name, u.student_last_name, ui.phone_1, 
+								(select nominal from teacher_commissions where enroll_id = cea.enroll_id and termin = 1) as paid_termin_1,
+								(select nominal from teacher_commissions where enroll_id = cea.enroll_id and termin = 2) as paid_termin_2
+						from course_enrollment cea
+						join users u on cea.student_id = u.user_id
+						join user_info_data ui on u.user_id = ui.user_id
+						where cea.teacher_id = "qsRIG09146" and cea.enroll_id in 
+							(
+							select ce.enroll_id from course_enrollment ce
+							left join teacher_commissions tc on ce.enroll_id = tc.enroll_id
+							group by ce.enroll_id
+							order by ce.entry_timestamp
+							)
+								
+ERROR - 20160205062418 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205062447 --> Query error: Unknown column 'u.student_first_name' in 'field list' - Invalid query: 
+						select cea.*, u.student_first_name, u.student_last_name, ui.phone_1, 
+								(select nominal from teacher_commissions where enroll_id = cea.enroll_id and termin = 1) as paid_termin_1,
+								(select nominal from teacher_commissions where enroll_id = cea.enroll_id and termin = 2) as paid_termin_2
+						from course_enrollment cea
+						join users u on cea.student_id = u.user_id
+						join user_info_data ui on u.user_id = ui.user_id
+						where cea.teacher_id = "qsRIG09146" and cea.enroll_id in 
+							(
+							select ce.enroll_id from course_enrollment ce
+							left join teacher_commissions tc on ce.enroll_id = tc.enroll_id
+							group by ce.enroll_id
+							order by ce.entry_timestamp
+							)
+								
+ERROR - 20160205062447 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205062524 --> Severity: Notice --> Undefined variable: student_last_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205062524 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 37
+ERROR - 20160205062524 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205062524 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205062524 --> Severity: Notice --> Undefined variable: student_last_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205062524 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 37
+ERROR - 20160205062524 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205062524 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205062601 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 37
+ERROR - 20160205062601 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205062601 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205062601 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 37
+ERROR - 20160205062601 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205062601 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063244 --> Severity: Notice --> Undefined variable: query C:\xampp\htdocs\guruprivat\application\models\Payment_m.php 95
+ERROR - 20160205063244 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205063307 --> Query error: Unknown column 'cea.teacher_id' in 'where clause' - Invalid query: SELECT `tc`.*, `o`.`grand_total`, `p`.`category`, `u`.`first_name`, `u`.`last_name`
+FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id` = `ce`.`enroll_id`
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `users` `u` ON `ce`.`student_id` = `u`.`user_id`
+WHERE `cea`.`teacher_id` = 'qsRIG09146'
+ORDER BY `ce`.`entry_timestamp` desc
+ERROR - 20160205063307 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$student_first_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$student_last_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$student_first_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$student_last_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$student_first_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$student_last_name C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 36
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205063330 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063357 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205063357 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063357 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205063357 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063357 --> Severity: Notice --> Undefined property: stdClass::$termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205063357 --> Severity: Notice --> Undefined property: stdClass::$termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 39
+ERROR - 20160205063900 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id' at line 2 - Invalid query: SELECT `tc`.`enroll_id`, (select nominal from teacher_commissions where enroll_id = tc.enroll_id and termin = 1) as termin_1, ifnull((select nominal from teacher_commissions where enroll_id = tc.enroll_id and termin = 2), `0)` as `termin_2`, `o`.`grand_total`, `p`.`category`, `u`.`first_name` as `student_first_name`, `u`.`last_name` as `student_last_name`
+FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id` = `ce`.`enroll_id`
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `users` `u` ON `ce`.`student_id` = `u`.`user_id`
+WHERE `ce`.`teacher_id` = 'qsRIG09146'
+ORDER BY `ce`.`entry_timestamp` desc
+ERROR - 20160205063900 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205063920 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id' at line 2 - Invalid query: SELECT `tc`.`enroll_id`, (select nominal from teacher_commissions where enroll_id = tc.enroll_id and termin = 1) as termin_1, ifnull((select nominal from teacher_commissions where enroll_id = tc.enroll_id and termin = 2), `0)` as `termin_2`, `o`.`grand_total`, `p`.`category`, `u`.`first_name` as `student_first_name`, `u`.`last_name` as `student_last_name`
+FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id` = `ce`.`enroll_id`
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `users` `u` ON `ce`.`student_id` = `u`.`user_id`
+WHERE `ce`.`teacher_id` = 'qsRIG09146'
+GROUP BY `tc`.`enroll_id`
+ORDER BY `ce`.`entry_timestamp` desc
+ERROR - 20160205063920 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205063948 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id' at line 2 - Invalid query: SELECT `tc`.`enroll_id`, (select nominal from teacher_commissions where enroll_id = tc.enroll_id and termin = 1) as termin_1, ifnull((select nominal from teacher_commissions where enroll_id = tc.enroll_id and termin = 2), `0)` as `termin_2`, `o`.`grand_total`, `p`.`category`, `u`.`first_name` as `student_first_name`, `u`.`last_name` as `student_last_name`
+FROM `teacher_commissions` `tc`
+JOIN `course_enrollment` `ce` ON `tc`.`enroll_id` = `ce`.`enroll_id`
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `users` `u` ON `ce`.`student_id` = `u`.`user_id`
+WHERE `ce`.`teacher_id` = 'qsRIG09146'
+GROUP BY `tc`.`enroll_id`
+ORDER BY `ce`.`entry_timestamp` desc
+ERROR - 20160205063948 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160205064331 --> Severity: Parsing Error --> syntax error, unexpected 'qsRIG09146' (T_STRING) C:\xampp\htdocs\guruprivat\application\models\Payment_m.php 96
+ERROR - 20160205065915 --> Severity: Notice --> Undefined property: stdClass::$transfer_termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205065915 --> Severity: Notice --> Undefined property: stdClass::$transfer_termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 42
+ERROR - 20160205065915 --> Severity: Notice --> Undefined property: stdClass::$transfer_termin_1 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 38
+ERROR - 20160205065915 --> Severity: Notice --> Undefined property: stdClass::$transfer_termin_2 C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_commission.php 42

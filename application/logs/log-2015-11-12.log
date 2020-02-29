@@ -1,0 +1,729 @@
+ERROR - 20151112043358 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151112043359 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151112045616 --> Severity: Error --> Call to a member function affected_rows() on a non-object C:\xampp\htdocs\midaonline\application\models\Order_m.php 164
+ERROR - 20151112045752 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 378
+ERROR - 20151112060100 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071232 --> Severity: Notice --> Undefined property: mysqli::$coupon_code C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071232 --> Severity: Notice --> Undefined property: mysqli::$start_time C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Undefined property: mysqli::$description C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Undefined property: mysqli_result::$coupon_code C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Undefined property: mysqli_result::$start_time C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Undefined property: mysqli_result::$description C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 241
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071233 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 245
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071234 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071339 --> Severity: Notice --> Undefined property: mysqli::$coupon_code C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Undefined property: mysqli::$start_time C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Undefined property: mysqli::$description C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Undefined property: mysqli_result::$coupon_code C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Undefined property: mysqli_result::$start_time C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Undefined property: mysqli_result::$description C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 242
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 243
+ERROR - 20151112071339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\coupon.php 246
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071343 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071401 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071402 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071524 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071525 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071634 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071634 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071709 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071714 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071752 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071755 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071908 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071909 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071951 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112071956 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112071956 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072135 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072135 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072135 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072135 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072135 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072135 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072136 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072136 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072202 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072211 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072226 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072227 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072326 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072327 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072344 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072345 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072425 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072426 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Img/cat-tab
+ERROR - 20151112072536 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112072616 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073002 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073402 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073405 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073423 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073435 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073453 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073614 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\midaonline\application\views\raboda\header.php 14
+ERROR - 20151112073614 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073744 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\midaonline\application\views\raboda\header.php 14
+ERROR - 20151112073746 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073752 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112073819 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112074102 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112074134 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112074227 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112082727 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112094712 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151112094712 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151112102450 --> Severity: Warning --> Missing argument 2 for Cms::set_session_response_no_redirect(), called in C:\xampp\htdocs\midaonline\application\controllers\Cms.php on line 626 and defined C:\xampp\htdocs\midaonline\application\controllers\Cms.php 536
+ERROR - 20151112102450 --> Severity: Notice --> Undefined variable: trans_result C:\xampp\htdocs\midaonline\application\controllers\Cms.php 537
+ERROR - 20151112102450 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 537
+ERROR - 20151112102450 --> Severity: Warning --> array_push() expects at least 2 parameters, 1 given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 543
+ERROR - 20151112102450 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\message_after_transaction.php 18
+ERROR - 20151112102716 --> 404 Page Not Found: Cms/update_page
+ERROR - 20151112103349 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\midaonline\application\views\raboda\header.php 14
+ERROR - 20151112103514 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\midaonline\application\views\raboda\header.php 14
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104312 --> 404 Page Not Found: Page/img
+ERROR - 20151112104348 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112104349 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105025 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 7
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105032 --> 404 Page Not Found: Page/img
+ERROR - 20151112105033 --> 404 Page Not Found: Page/img
+ERROR - 20151112105033 --> 404 Page Not Found: Page/img
+ERROR - 20151112105033 --> 404 Page Not Found: Page/img
+ERROR - 20151112105033 --> 404 Page Not Found: Page/img
+ERROR - 20151112105033 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105215 --> 404 Page Not Found: Page/img
+ERROR - 20151112105216 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105240 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Page/img
+ERROR - 20151112105241 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105328 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Page/img
+ERROR - 20151112105330 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105402 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105403 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105455 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Page/img
+ERROR - 20151112105457 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105743 --> 404 Page Not Found: Page/img
+ERROR - 20151112105744 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105801 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Page/img
+ERROR - 20151112105802 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105903 --> 404 Page Not Found: Page/img
+ERROR - 20151112105904 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110054 --> 404 Page Not Found: Page/img
+ERROR - 20151112110842 --> 404 Page Not Found: User_guides/index
+ERROR - 20151112122825 --> Severity: Notice --> Undefined property: Frontpage::$content C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 545
+ERROR - 20151112122825 --> Severity: Error --> Call to a member function get_post_data() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 545
+ERROR - 20151112122846 --> Severity: Notice --> Undefined property: Frontpage::$content C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 545
+ERROR - 20151112122846 --> Severity: Error --> Call to a member function get_post_data() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 545
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 553
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 554
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 555
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 556
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 557
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 558
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 559
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 560
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 561
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 562
+ERROR - 20151112122908 --> Severity: Notice --> Undefined variable: discount C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 563
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 563
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 564
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 553
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 554
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 555
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 556
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 557
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 558
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 559
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 560
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 561
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 562
+ERROR - 20151112122908 --> Severity: Notice --> Undefined variable: discount C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 563
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 563
+ERROR - 20151112122908 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 564
+ERROR - 20151112122939 --> Severity: Notice --> Undefined variable: discount C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 564
+ERROR - 20151112122939 --> Severity: Notice --> Undefined variable: discount C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 564
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123012 --> 404 Page Not Found: Page/img
+ERROR - 20151112123013 --> 404 Page Not Found: Page/img
+ERROR - 20151112123013 --> 404 Page Not Found: Page/img
+ERROR - 20151112123013 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123119 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123128 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123416 --> Severity: Notice --> Undefined property: stdClass::$any_discount C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 86
+ERROR - 20151112123416 --> Severity: Notice --> Undefined property: stdClass::$any_discount C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 86
+ERROR - 20151112123417 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123419 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123450 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123451 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123451 --> 404 Page Not Found: Page/img
+ERROR - 20151112123503 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123505 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112123506 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112123506 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124551 --> 404 Page Not Found: Page/img
+ERROR - 20151112124552 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112124750 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112151438 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151112151438 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151112152228 --> Severity: Notice --> Undefined variable: add_page C:\xampp\htdocs\midaonline\application\controllers\Cms.php 568
+ERROR - 20151112152228 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 537
+ERROR - 20151112152228 --> Severity: Warning --> array_push() expects at least 2 parameters, 1 given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 543
+ERROR - 20151112152228 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\message_after_transaction.php 18
+ERROR - 20151112154554 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 108
+ERROR - 20151112154554 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 108
+ERROR - 20151112154554 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 113
+ERROR - 20151112154554 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 108
+ERROR - 20151112154554 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 108
+ERROR - 20151112154554 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 113
+ERROR - 20151112154555 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112154624 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112154707 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112154834 --> Severity: Notice --> Undefined variable: testimonials C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 21
+ERROR - 20151112154835 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112154902 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112154952 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112155230 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112160049 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112160137 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 194
+ERROR - 20151112160137 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 199
+ERROR - 20151112160143 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112160224 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112162201 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112162234 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112162329 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112162454 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112162711 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112163002 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112163310 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112163347 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112164339 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\post_creation.php 44
+ERROR - 20151112164339 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\post_creation.php 44
+ERROR - 20151112164417 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\post_creation.php 44
+ERROR - 20151112164417 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\post_creation.php 44
+ERROR - 20151112165136 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 237
+ERROR - 20151112165222 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 237
+ERROR - 20151112165235 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112165640 --> Severity: Notice --> Undefined index: title C:\xampp\htdocs\midaonline\application\views\raboda\home.php 238
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 239
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 240
+ERROR - 20151112165640 --> Severity: Notice --> Undefined index: title C:\xampp\htdocs\midaonline\application\views\raboda\home.php 238
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 239
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 240
+ERROR - 20151112165640 --> Severity: Notice --> Undefined index: title C:\xampp\htdocs\midaonline\application\views\raboda\home.php 238
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 239
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 240
+ERROR - 20151112165640 --> Severity: Notice --> Undefined index: title C:\xampp\htdocs\midaonline\application\views\raboda\home.php 238
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 239
+ERROR - 20151112165640 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\midaonline\application\views\raboda\home.php 240
+ERROR - 20151112165643 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112165707 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112165814 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112165922 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112170221 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112170353 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112170437 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112170455 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112171010 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112171032 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112182743 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151112182743 --> Unable to connect to the database
+ERROR - 20151112182746 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151112182748 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151112182748 --> Unable to connect to the database
+ERROR - 20151112182748 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20151112183216 --> 404 Page Not Found: Frontpage/cms
+ERROR - 20151112183451 --> 404 Page Not Found: Frontpage/my-account.html
+ERROR - 20151112183857 --> 404 Page Not Found: My-accounthtml/index
+ERROR - 20151112184551 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 47
+ERROR - 20151112184551 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 89
+ERROR - 20151112184551 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 145
+ERROR - 20151112192314 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 47
+ERROR - 20151112192314 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 89
+ERROR - 20151112192314 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 145
+ERROR - 20151112192422 --> Severity: Notice --> Undefined property: stdClass::$total_price C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 89
+ERROR - 20151112192422 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 145
+ERROR - 20151112192434 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 145
+ERROR - 20151112192724 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 275
+ERROR - 20151112192927 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112193005 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112195151 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112195152 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112195235 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112195236 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112200034 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112200039 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112200622 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112200646 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112200744 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112200744 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112200756 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 161
+ERROR - 20151112200757 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112201547 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 165
+ERROR - 20151112201616 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112201648 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 165
+ERROR - 20151112201725 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112201801 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 165
+ERROR - 20151112201945 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 165
+ERROR - 20151112201945 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202253 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 165
+ERROR - 20151112202253 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202444 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 168
+ERROR - 20151112202445 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202603 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 168
+ERROR - 20151112202604 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202623 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 169
+ERROR - 20151112202624 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202634 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 169
+ERROR - 20151112202635 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202700 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\raboda\my_account.php 168
+ERROR - 20151112202701 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202922 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112202952 --> 404 Page Not Found: Assets/themes
+ERROR - 20151112203204 --> 404 Page Not Found: Assets/themes

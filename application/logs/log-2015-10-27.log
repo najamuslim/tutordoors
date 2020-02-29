@@ -1,0 +1,110 @@
+ERROR - 20151027124230 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027124702 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151027131308 --> Severity: Parsing Error --> syntax error, unexpected 'show' (T_STRING) C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 112
+ERROR - 20151027140840 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027140929 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027140958 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141031 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141054 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141233 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141308 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141327 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141337 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 158
+ERROR - 20151027141337 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 163
+ERROR - 20151027141540 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141615 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 75
+ERROR - 20151027141615 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 79
+ERROR - 20151027141615 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 81
+ERROR - 20151027141615 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 84
+ERROR - 20151027141625 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 51
+ERROR - 20151027141625 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 55
+ERROR - 20151027141625 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 57
+ERROR - 20151027141625 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 60
+ERROR - 20151027141626 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027141745 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142135 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142252 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 75
+ERROR - 20151027142252 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 79
+ERROR - 20151027142252 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 81
+ERROR - 20151027142252 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 84
+ERROR - 20151027142506 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 61
+ERROR - 20151027142506 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 63
+ERROR - 20151027142506 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 66
+ERROR - 20151027142520 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Order.php 66
+ERROR - 20151027142644 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142711 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142808 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142819 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142857 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142916 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027142953 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027150903 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027151319 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027151349 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027152406 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027152446 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027153143 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027153358 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027153440 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027153535 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027154147 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027155230 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027155349 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027155503 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027155619 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027155632 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027160437 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027161416 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027162225 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027162435 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027162504 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027162531 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027163125 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027163202 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027163318 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027163333 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027165342 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027170049 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027170711 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\raboda\checkout.php 342
+ERROR - 20151027170712 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027170754 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\raboda\checkout.php 342
+ERROR - 20151027170756 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027170914 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027171005 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027171039 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027171058 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027192003 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027192356 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027192814 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027192959 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027193054 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027193412 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027194744 --> 404 Page Not Found: Frontpage/my-account.html
+ERROR - 20151027194756 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027204852 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027204950 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027205910 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027220453 --> 404 Page Not Found: Frontpage/%3C
+ERROR - 20151027220457 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027220501 --> 404 Page Not Found: Frontpage/%3C
+ERROR - 20151027220650 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027221013 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222022 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222214 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222259 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222429 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222445 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222513 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222541 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222601 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222626 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027222841 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223024 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223139 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223301 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223412 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223524 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223646 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223732 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223742 --> 404 Page Not Found: Assets/themes
+ERROR - 20151027223806 --> 404 Page Not Found: Assets/themes

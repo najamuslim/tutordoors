@@ -1,0 +1,524 @@
+ERROR - 20150909051936 --> 404 Page Not Found: Blog/images
+ERROR - 20150909051938 --> 404 Page Not Found: Blog/images
+ERROR - 20150909054152 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 354
+ERROR - 20150909054153 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 365
+ERROR - 20150909054153 --> Severity: Notice --> Undefined variable: posts C:\xampp\htdocs\makanenak\application\views\organique\blog_view.php 6
+ERROR - 20150909054251 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054255 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054357 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054400 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054447 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\blog_view.php 14
+ERROR - 20150909054447 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\blog_view.php 14
+ERROR - 20150909054448 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054451 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054504 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054507 --> 404 Page Not Found: Blog/cat
+ERROR - 20150909054707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 364
+ERROR - 20150909054728 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 365
+ERROR - 20150909054808 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 364
+ERROR - 20150909055021 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 365
+ERROR - 20150909055049 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 365
+ERROR - 20150909062543 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441754743,6737, '::1', '8031')
+ERROR - 20150909063115 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755074,9994, '::1', '9964')
+ERROR - 20150909063115 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\makanenak\application\views\organique\blog_view.php 19
+ERROR - 20150909063115 --> Severity: Notice --> A non well formed numeric value encountered C:\xampp\htdocs\makanenak\application\views\organique\blog_view.php 19
+ERROR - 20150909063150 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755110,9667, '::1', '4044')
+ERROR - 20150909063231 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755151,582, '::1', '7825')
+ERROR - 20150909063404 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755244,9525, '::1', '6576')
+ERROR - 20150909063433 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755273,3243, '::1', '6759')
+ERROR - 20150909063452 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755292,0971, '::1', '5540')
+ERROR - 20150909063550 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755350,1089, '::1', '6008')
+ERROR - 20150909063827 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755507,5157, '::1', '2912')
+ERROR - 20150909063918 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755558,2371, '::1', '8833')
+ERROR - 20150909063949 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755589,3592, '::1', '6590')
+ERROR - 20150909064059 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755659,4892, '::1', '8798')
+ERROR - 20150909064130 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755690,5468, '::1', '4043')
+ERROR - 20150909064148 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755708,9691, '::1', '1975')
+ERROR - 20150909064229 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755749,5807, '::1', '6877')
+ERROR - 20150909064327 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441755807,2719, '::1', '1035')
+ERROR - 20150909064704 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441756024,6188, '::1', '6033')
+ERROR - 20150909064724 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441756044,7146, '::1', '2171')
+ERROR - 20150909064743 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441756063,3883, '::1', '6765')
+ERROR - 20150909064905 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441756145,3037, '::1', '6169')
+ERROR - 20150909065029 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441756229,0493, '::1', '2758')
+ERROR - 20150909065059 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441756259,058, '::1', '2843')
+ERROR - 20150909070230 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%M %Y')' at line 3 - Invalid query: select date_format(creation_datetime, '%M %Y') as group_date, count(*) as count from posts
+					where type='post' 
+					group by date_format(creation_datetime, %M %Y')
+ERROR - 20150909070230 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Content_m.php 171
+ERROR - 20150909070311 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%M %Y')' at line 3 - Invalid query: select date_format(creation_datetime, '%M %Y') as group_date, count(*) as count from posts
+					where type='post' 
+					group by date_format(creation_datetime, %M %Y')
+ERROR - 20150909070311 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Content_m.php 172
+ERROR - 20150909070345 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441757025,3417, '::1', '4972')
+ERROR - 20150909070430 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441757070,9836, '::1', '2448')
+ERROR - 20150909070639 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441757199,1202, '::1', '3743')
+ERROR - 20150909070721 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441757241,8394, '::1', '4390')
+ERROR - 20150909203846 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `captcha` (`captcha_time`, `ip_address`, `word`) VALUES (1441805926,08, '::1', '6063')
+ERROR - 20150909204600 --> Severity: Compile Error --> Cannot redeclare Cms::post_new() C:\xampp\htdocs\makanenak\application\controllers\Cms.php 285
+ERROR - 20150909204927 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 53
+ERROR - 20150909204954 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 53
+ERROR - 20150909205344 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 53
+ERROR - 20150909205437 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 53
+ERROR - 20150909213331 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 306
+ERROR - 20150909213440 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 307
+ERROR - 20150909213455 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 40
+ERROR - 20150909213455 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 40
+ERROR - 20150909213455 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 44
+ERROR - 20150909213455 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 44
+ERROR - 20150909213455 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 48
+ERROR - 20150909213455 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_page_creation.php 48
+ERROR - 20150909214252 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215349 --> Severity: Notice --> Undefined variable: query C:\xampp\htdocs\makanenak\application\models\Content_m.php 183
+ERROR - 20150909215349 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Content_m.php 183
+ERROR - 20150909215422 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215422 --> Severity: Notice --> Undefined variable: group_month C:\xampp\htdocs\makanenak\application\views\organique\page_view.php 41
+ERROR - 20150909215447 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215521 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215532 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215542 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215817 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909215826 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909220144 --> Severity: Parsing Error --> syntax error, unexpected '?' C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 161
+ERROR - 20150909220241 --> Severity: Parsing Error --> syntax error, unexpected '?' C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 161
+ERROR - 20150909220304 --> Severity: Parsing Error --> syntax error, unexpected '?' C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 161
+ERROR - 20150909220313 --> Severity: Parsing Error --> syntax error, unexpected '?' C:\xampp\htdocs\makanenak\application\views\admin_sidebar_left.php 161
+ERROR - 20150909221232 --> 404 Page Not Found: Cms/set_commerce
+ERROR - 20150909221902 --> 404 Page Not Found: Frontpage/forgot_password
+ERROR - 20150909225116 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$user_id C:\xampp\htdocs\makanenak\application\controllers\Users.php 350
+ERROR - 20150909225120 --> Severity: Notice --> Undefined property: Users::$logging C:\xampp\htdocs\makanenak\application\controllers\Users.php 383
+ERROR - 20150909225120 --> Severity: Error --> Call to a member function insert_event_logging() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 383
+ERROR - 20150909230105 --> 404 Page Not Found: Users/reset
+ERROR - 20150909230931 --> Query error: Unknown column 'password' in 'field list' - Invalid query: UPDATE `user_data` SET `password` = '19bc370133e037cd2fa3e9a58b722d46'
+WHERE `user_id` = 'TLWxx49854'
+ERROR - 20150909231335 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150909234827 --> Severity: Notice --> Undefined variable: selling_points C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 55
+ERROR - 20150909234827 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 55
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 87
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 89
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 94
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 96
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 101
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 104
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 128
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 130
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 135
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 137
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 142
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 144
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 149
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 151
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 156
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 158
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 163
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 165
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 170
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 172
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 177
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 179
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 184
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 186
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 191
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 193
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 198
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 200
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 205
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 207
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 212
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 214
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 219
+ERROR - 20150909234840 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 221
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 88
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 90
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 95
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 97
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 102
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 105
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 129
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 131
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 136
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 138
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 143
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 145
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 150
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 152
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 157
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 159
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 164
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 166
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 171
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 173
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 178
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 180
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 185
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 187
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 192
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 194
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 199
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 201
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 206
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 208
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 213
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 215
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 220
+ERROR - 20150909235053 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 222
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 88
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 90
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 95
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 97
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 102
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 105
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 129
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 131
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 136
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 138
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 143
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 145
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 150
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 152
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 157
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 159
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 164
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 166
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 171
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 173
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 178
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 180
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 185
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 187
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 192
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 194
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 199
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 201
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 206
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 208
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 213
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 215
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 220
+ERROR - 20150909235107 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 222
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 88
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 90
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 95
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 97
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 102
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 105
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 129
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 131
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 136
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 138
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 143
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 145
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 150
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 152
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 157
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 159
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 164
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 166
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 171
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 173
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 178
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 180
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 185
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 187
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 192
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 194
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 199
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 201
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 206
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 208
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 213
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 215
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 220
+ERROR - 20150909235139 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 222
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 88
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 90
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 95
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 97
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 102
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 105
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 129
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 131
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 136
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 138
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 143
+ERROR - 20150909235221 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 145
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 150
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 152
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 157
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 159
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 164
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 166
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 171
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 173
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 178
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 180
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 185
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 187
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 192
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 194
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 199
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 201
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 206
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 208
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 213
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 215
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 220
+ERROR - 20150909235222 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 222
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 84
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 86
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 91
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 93
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 98
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 101
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 125
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 127
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 132
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 134
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 139
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 141
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 146
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 148
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 153
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 155
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 160
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 162
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 167
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 169
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 174
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 176
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 181
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 183
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 188
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 190
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 195
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 197
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 202
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 204
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 209
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 211
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 216
+ERROR - 20150909235250 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 218
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 84
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 86
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 91
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 93
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 98
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 101
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 125
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 127
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 132
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 134
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 139
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 141
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 146
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 148
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 153
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 155
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 160
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 162
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 167
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 169
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 174
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 176
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 181
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 183
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 188
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 190
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 195
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 197
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 202
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 204
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 209
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 211
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 216
+ERROR - 20150909235341 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 218
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 84
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 86
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 91
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 93
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 98
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 101
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 125
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 127
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 132
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 134
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 139
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 141
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 146
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 148
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 153
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 155
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 160
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 162
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 167
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 169
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 174
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 176
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 181
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 183
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 188
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 190
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 195
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 197
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 202
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 204
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 209
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 211
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 216
+ERROR - 20150909235413 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 218
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 84
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 86
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 91
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 93
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 98
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 101
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 125
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 127
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 132
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 134
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 139
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 141
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 146
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 148
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 153
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 155
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 160
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 162
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 167
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 169
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 174
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 176
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 181
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 183
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 188
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 190
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 195
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 197
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 202
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 204
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 209
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 211
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 216
+ERROR - 20150909235512 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 218
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 89
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 91
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 96
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 98
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 103
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 106
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 130
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 132
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 137
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 139
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 144
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 146
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 151
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 153
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 158
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 160
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 165
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 167
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 172
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 174
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 179
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 181
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 186
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 188
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 193
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 195
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 200
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 202
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 207
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 209
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 214
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 216
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 221
+ERROR - 20150909235541 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 223
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 96
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 98
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 103
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 106
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 130
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 132
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 137
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 139
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 144
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 146
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 151
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 153
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 158
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 160
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 165
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 167
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 172
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 174
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 179
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 181
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 186
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 188
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 193
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 195
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 200
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 202
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 207
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 209
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 214
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 216
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 221
+ERROR - 20150909235706 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 223
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 127
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 129
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 134
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 136
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 141
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 143
+ERROR - 20150909235809 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 148
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 150
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 155
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 157
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 162
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 164
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 169
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 171
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 176
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 178
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 183
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 185
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 190
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 192
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 197
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 199
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 204
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 206
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 211
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 213
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 218
+ERROR - 20150909235810 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 220
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 127
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 129
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 134
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 136
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 141
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 143
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 148
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 150
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 155
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 157
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 162
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 164
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 169
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 171
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 176
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 178
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 183
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 185
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 190
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 192
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 197
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 199
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 204
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 206
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 211
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 213
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 218
+ERROR - 20150909235833 --> Severity: Notice --> Undefined variable: options C:\xampp\htdocs\makanenak\application\views\admin_setting_commerce.php 220

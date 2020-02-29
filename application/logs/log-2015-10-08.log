@@ -1,0 +1,1 @@
+ERROR - 20151008203624 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 45

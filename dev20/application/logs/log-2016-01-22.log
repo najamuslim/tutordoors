@@ -1,0 +1,3 @@
+ERROR - 20160122141540 --> 404 Page Not Found: Frontpage/get_my_calendar
+ERROR - 20160122202814 --> Severity: Parsing Error --> syntax error, unexpected 'microtime' (T_STRING) C:\xampp\htdocs\guruprivat\application\controllers\Course.php 149
+ERROR - 20160122203154 --> Severity: Parsing Error --> syntax error, unexpected 'microtime' (T_STRING) C:\xampp\htdocs\guruprivat\application\controllers\Course.php 149

@@ -1,0 +1,40 @@
+ERROR - 20150824065425 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = 18
+ORDER BY `id` desc
+ERROR - 20150824065425 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150824065521 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 27
+ERROR - 20150824065521 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = 18
+ORDER BY `id` desc
+ERROR - 20150824065521 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150824065603 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = 18
+ORDER BY `id` desc
+ERROR - 20150824065603 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150824065614 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\makanenak\application\views\organique\header.php 167
+ERROR - 20150824065614 --> Severity: Notice --> Undefined index: total C:\xampp\htdocs\makanenak\application\views\organique\header.php 178
+ERROR - 20150824162737 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 51
+ERROR - 20150824162737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 52
+ERROR - 20150824162737 --> Severity: Notice --> Undefined variable: price C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 59
+ERROR - 20150824162840 --> Severity: Notice --> Undefined variable: price C:\xampp\htdocs\makanenak\application\controllers\Order.php 40
+ERROR - 20150824162852 --> Severity: Notice --> Undefined variable: price C:\xampp\htdocs\makanenak\application\controllers\Order.php 40
+ERROR - 20150824165429 --> 404 Page Not Found: Assets/themes
+ERROR - 20150824193141 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO) C:\xampp\htdocs\makanenak\application\views\organique\header.php 198
+ERROR - 20150824193210 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\makanenak\application\views\organique\header.php 198
+ERROR - 20150824195549 --> 404 Page Not Found: Order/checkout_page
+ERROR - 20150824200204 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 124
+ERROR - 20150824212216 --> Severity: Compile Error --> Cannot use isset() on the result of a function call (you can use "null !== func()" instead) C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 64
+ERROR - 20150824214721 --> 404 Page Not Found: Frontpage/checkout.html
+ERROR - 20150824215207 --> 404 Page Not Found: Frontpage/post
+ERROR - 20150824215224 --> 404 Page Not Found: Frontpage/post
+ERROR - 20150824215714 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\makanenak\application\controllers\Order.php 102
+ERROR - 20150824215714 --> Severity: Notice --> Undefined index: qty C:\xampp\htdocs\makanenak\application\controllers\Order.php 102

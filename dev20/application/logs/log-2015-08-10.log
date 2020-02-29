@@ -1,0 +1,8 @@
+ERROR - 20150810212608 --> Query error: Unknown column 'category_part' in 'where clause' - Invalid query: SELECT *
+FROM `post_categories`
+WHERE `category_part` = 'post'
+ORDER BY `category`
+ERROR - 20150810215137 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\makanenak\application\controllers\cms.php 157
+ERROR - 20150810220519 --> Severity: Error --> Call to undefined method Db_trans::insert() C:\xampp\htdocs\makanenak\application\controllers\cms.php 157
+ERROR - 20150810224710 --> You did not select a file to upload.
+ERROR - 20150810224854 --> You did not select a file to upload.

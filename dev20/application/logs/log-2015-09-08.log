@@ -1,0 +1,18 @@
+ERROR - 20150908051622 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150908051627 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150908051634 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150908051651 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150908055301 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150908055351 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150908061305 --> Severity: Notice --> Undefined property: Frontpage::$get_slug C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 350
+ERROR - 20150908061305 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 350
+ERROR - 20150908062451 --> 404 Page Not Found: Blog/index
+ERROR - 20150908063444 --> Severity: Error --> Call to undefined method Content_m::get_post_category_like() C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 354
+ERROR - 20150908063516 --> Query error: Column 'category' in where clause is ambiguous - Invalid query: SELECT `p`.*, `pc`.`category` as `category_name`, `pc`.`slug`
+FROM `posts` `p`
+JOIN `post_categories` `pc` ON `p`.`category`=`pc`.`id`
+WHERE `type` = 'post'
+AND `category` = 'resep'
+ LIMIT 10
+ERROR - 20150908063516 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Content_m.php 161
+ERROR - 20150908064109 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114

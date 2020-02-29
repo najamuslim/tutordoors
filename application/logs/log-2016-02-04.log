@@ -1,0 +1,40 @@
+ERROR - 20160204051321 --> Severity: Notice --> Undefined variable: course_id C:\xampp\htdocs\guruprivat\application\models\Course_m.php 113
+ERROR - 20160204051321 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 777
+ERROR - 20160204051341 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 777
+ERROR - 20160204051523 --> Severity: Notice --> Undefined variable: sub_page_title C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 4
+ERROR - 20160204053501 --> Severity: Notice --> Undefined property: stdClass::$course_category C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 25
+ERROR - 20160204053501 --> Severity: Notice --> Undefined property: stdClass::$course_id C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 32
+ERROR - 20160204061721 --> Query error: Unknown column 'distinct toc.id' in 'field list' - Invalid query: SELECT `distinct toc`.`id` as `course_id`, `toc`.`user_id`, `toc`.`tariff_hourly`, `p`.`category` as `course_category`, `pb`.`category` as `education_level`, `u`.`first_name`, `u`.`last_name`, `ui`.`about_me`, `m`.`file_name`
+FROM `teacher_open_courses` `toc`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `post_categories` `pb` ON `p`.`parent_id` = `pb`.`id`
+JOIN `teacher_open_course_cities` `occ` ON `toc`.`user_id` = `occ`.`user_id`
+JOIN `users` `u` ON `toc`.`user_id` = `u`.`user_id`
+JOIN `user_info_data` `ui` ON `u`.`user_id` = `ui`.`user_id`
+LEFT JOIN `media_files` `m` ON `ui`.`photo_primary_id` = `m`.`id`
+WHERE `u`.`first_name` LIKE '%guru%' ESCAPE '!'
+OR  `u`.`last_name` LIKE '%guru%' ESCAPE '!'
+ORDER BY `u`.`first_name`
+ERROR - 20160204061721 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160204061748 --> Query error: Unknown column 'distinct toc.id' in 'field list' - Invalid query: SELECT `distinct toc`.`id` as `course_id`, `toc`.`user_id`, `toc`.`tariff_hourly`, `p`.`category` as `course_category`, `pb`.`category` as `education_level`, `u`.`first_name`, `u`.`last_name`, `ui`.`about_me`, `m`.`file_name`
+FROM `teacher_open_courses` `toc`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `post_categories` `pb` ON `p`.`parent_id` = `pb`.`id`
+JOIN `teacher_open_course_cities` `occ` ON `toc`.`user_id` = `occ`.`user_id`
+JOIN `users` `u` ON `toc`.`user_id` = `u`.`user_id`
+JOIN `user_info_data` `ui` ON `u`.`user_id` = `ui`.`user_id`
+LEFT JOIN `media_files` `m` ON `ui`.`photo_primary_id` = `m`.`id`
+WHERE `u`.`first_name` LIKE '%guru%' ESCAPE '!'
+OR  `u`.`last_name` LIKE '%guru%' ESCAPE '!'
+ORDER BY `u`.`first_name`
+ERROR - 20160204061748 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160204072547 --> Severity: Notice --> Undefined property: stdClass::$education_level C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 25
+ERROR - 20160204072547 --> Severity: Notice --> Undefined property: stdClass::$course_category C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 25
+ERROR - 20160204072547 --> Severity: Notice --> Undefined property: stdClass::$about_me C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 26
+ERROR - 20160204072547 --> Severity: Notice --> Undefined property: stdClass::$course_id C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 32
+ERROR - 20160204072746 --> Severity: Notice --> Undefined property: stdClass::$category C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 781
+ERROR - 20160204155917 --> 404 Page Not Found: Course/complete_course
+ERROR - 20160204160334 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\fill_course_monitoring.php 37
+ERROR - 20160204160334 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\fill_course_monitoring.php 37
+ERROR - 20160204160411 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\guruprivat\application\views\iknow\fill_course_monitoring.php 37
+ERROR - 20160204163020 --> Severity: Notice --> Undefined variable: complete_course C:\xampp\htdocs\guruprivat\application\views\iknow\completed_course.php 35

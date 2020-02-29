@@ -1,0 +1,227 @@
+ERROR - 20151016044240 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151016044240 --> Unable to connect to the database
+ERROR - 20151016044242 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151016044244 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151016044244 --> Unable to connect to the database
+ERROR - 20151016044244 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20151016045113 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 50
+ERROR - 20151016084349 --> Severity: Parsing Error --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 608
+ERROR - 20151016084850 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 607
+ERROR - 20151016084950 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 607
+ERROR - 20151016085231 --> Severity: Notice --> Undefined index: quantity-get-discount[] C:\xampp\htdocs\midaonline\application\controllers\Cms.php 607
+ERROR - 20151016085231 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 607
+ERROR - 20151016085251 --> Severity: Notice --> Undefined index: quantity-get-discount[] C:\xampp\htdocs\midaonline\application\controllers\Cms.php 607
+ERROR - 20151016085251 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 607
+ERROR - 20151016085503 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 608
+ERROR - 20151016085503 --> Severity: Notice --> Undefined offset: 3 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 608
+ERROR - 20151016085541 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 608
+ERROR - 20151016085541 --> Severity: Notice --> Undefined offset: 3 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 608
+ERROR - 20151016095413 --> Severity: Notice --> Undefined variable: mapped_category C:\xampp\htdocs\midaonline\application\controllers\Cms.php 894
+ERROR - 20151016095413 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 894
+ERROR - 20151016095413 --> Severity: Notice --> Undefined variable: mapped_category C:\xampp\htdocs\midaonline\application\controllers\Cms.php 894
+ERROR - 20151016095413 --> Severity: Warning --> in_array() expects parameter 2 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 894
+ERROR - 20151016100319 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\midaonline\application\models\Common.php 31
+ERROR - 20151016100333 --> Severity: Error --> Class 'stdObject' not found C:\xampp\htdocs\midaonline\application\models\Common.php 22
+ERROR - 20151016100413 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 627
+ERROR - 20151016100413 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 630
+ERROR - 20151016100413 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 639
+ERROR - 20151016100414 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 646
+ERROR - 20151016100607 --> You did not select a file to upload.
+ERROR - 20151016100607 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\application\controllers\Cms.php 649
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 123
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 123
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 126
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 126
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 134
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 134
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 137
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 137
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 147
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 147
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 150
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 150
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 158
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 158
+ERROR - 20151016100607 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 161
+ERROR - 20151016100607 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 161
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 59
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 59
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100707 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100729 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016100729 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016100729 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 123
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 123
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 126
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 126
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 134
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 134
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 137
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 137
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 147
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 147
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 150
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 150
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 158
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 158
+ERROR - 20151016100737 --> Severity: Notice --> Undefined variable: discount_detail C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 161
+ERROR - 20151016100737 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 161
+ERROR - 20151016102824 --> Severity: Error --> Call to undefined method Content_m::get_discount() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 182
+ERROR - 20151016102840 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$result C:\xampp\htdocs\midaonline\application\models\Content_m.php 260
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 123
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 126
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 134
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 137
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 147
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 150
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 158
+ERROR - 20151016102840 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 161
+ERROR - 20151016103555 --> Severity: Error --> Call to undefined method Common::insert_data() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 726
+ERROR - 20151016103616 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1440
+ERROR - 20151016103616 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 45' at line 2 - Invalid query: UPDATE `posts` SET `primary_image` = 
+WHERE `id` = 45
+ERROR - 20151016103616 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016103616 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (45, )
+ERROR - 20151016103616 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016103616 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (45, )
+ERROR - 20151016103616 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016103616 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (45, )
+ERROR - 20151016103938 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1440
+ERROR - 20151016103938 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 46' at line 2 - Invalid query: UPDATE `posts` SET `primary_image` = 
+WHERE `id` = 46
+ERROR - 20151016103938 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016103938 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (46, )
+ERROR - 20151016103938 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016103938 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (46, )
+ERROR - 20151016103939 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016103939 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (46, )
+ERROR - 20151016104403 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016104403 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (47, )
+ERROR - 20151016104403 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016104403 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (47, )
+ERROR - 20151016104403 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\system\database\DB_driver.php 1392
+ERROR - 20151016104403 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 - Invalid query: INSERT INTO `post_media` (`post_id`, `media_id`) VALUES (47, )
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151016104743 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151016105054 --> Severity: Notice --> Undefined variable: add_post C:\xampp\htdocs\midaonline\application\controllers\Cms.php 691
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 691
+ERROR - 20151016105054 --> Severity: Notice --> Undefined variable: add_post C:\xampp\htdocs\midaonline\application\controllers\Cms.php 699
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 699
+ERROR - 20151016105054 --> You did not select a file to upload.
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 123
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 126
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 134
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 137
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 147
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 150
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 158
+ERROR - 20151016105054 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 161
+ERROR - 20151016105449 --> Severity: Notice --> Undefined variable: add_post C:\xampp\htdocs\midaonline\application\controllers\Cms.php 702
+ERROR - 20151016105449 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 702
+ERROR - 20151016105449 --> You did not select a file to upload.
+ERROR - 20151016105516 --> Severity: Notice --> Undefined variable: add_post C:\xampp\htdocs\midaonline\application\controllers\Cms.php 702
+ERROR - 20151016105516 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 702
+ERROR - 20151016110422 --> Severity: Notice --> Undefined variable: primary_image C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110422 --> Severity: Notice --> Undefined variable: primary_image C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110422 --> Severity: Notice --> Undefined variable: primary_image C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110422 --> Severity: Notice --> Undefined variable: primary_image C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110422 --> Severity: Notice --> Undefined variable: primary_image C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110422 --> Severity: Notice --> Undefined variable: primary_image C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110611 --> Severity: Notice --> Undefined index: primary_image C:\xampp\htdocs\midaonline\application\controllers\Cms.php 126
+ERROR - 20151016110738 --> Severity: Notice --> Undefined index: $row->id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110738 --> Severity: Notice --> Undefined index: $row->id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110738 --> Severity: Notice --> Undefined index: $row->id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110738 --> Severity: Notice --> Undefined index: $row->id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110738 --> Severity: Notice --> Undefined index: $row->id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110738 --> Severity: Notice --> Undefined index: $row->id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 43
+ERROR - 20151016110927 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 519
+ERROR - 20151016110927 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 523
+ERROR - 20151016110942 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 519
+ERROR - 20151016110942 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 523
+ERROR - 20151016110954 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 519
+ERROR - 20151016110954 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 523
+ERROR - 20151016111458 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 118
+ERROR - 20151016124045 --> You did not select a file to upload.
+ERROR - 20151016124130 --> Severity: Notice --> Undefined index: cats C:\xampp\htdocs\midaonline\application\controllers\Cms.php 119
+ERROR - 20151016124130 --> Severity: Notice --> Undefined offset: 48 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 119
+ERROR - 20151016124130 --> Severity: Notice --> Undefined offset: 47 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 119
+ERROR - 20151016124130 --> Severity: Notice --> Undefined offset: 43 C:\xampp\htdocs\midaonline\application\controllers\Cms.php 119
+ERROR - 20151016125928 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 56
+ERROR - 20151016130035 --> You did not select a file to upload.
+ERROR - 20151016130409 --> Severity: Notice --> Undefined property: stdClass::$stock_qty C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151016130409 --> Severity: Notice --> Undefined property: stdClass::$stock_qty C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151016130409 --> Severity: Notice --> Undefined property: stdClass::$stock_qty C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151016130410 --> Severity: Notice --> Undefined property: stdClass::$stock_qty C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151016130410 --> Severity: Notice --> Undefined property: stdClass::$stock_qty C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151016130410 --> Severity: Notice --> Undefined property: stdClass::$stock_qty C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151016150857 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 530
+ERROR - 20151016150857 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 534
+ERROR - 20151016155412 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 131
+ERROR - 20151016155417 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 50
+ERROR - 20151016155619 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 50

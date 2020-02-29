@@ -1,0 +1,62 @@
+ERROR - 20151113043601 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 347
+ERROR - 20151113044811 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 347
+ERROR - 20151113044811 --> Severity: Notice --> Undefined variable: order_id C:\xampp\htdocs\midaonline\application\views\raboda\order_detail.php 14
+ERROR - 20151113044811 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\raboda\order_detail.php 87
+ERROR - 20151113052111 --> Severity: Notice --> Undefined variable: order_id C:\xampp\htdocs\midaonline\application\views\raboda\order_detail.php 14
+ERROR - 20151113052111 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\raboda\order_detail.php 87
+ERROR - 20151113052136 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\raboda\order_detail.php 87
+ERROR - 20151113063649 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113063731 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113063751 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113063755 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113063807 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113063812 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113063823 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113064129 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113064137 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113064142 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113064146 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113100359 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113100359 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113102235 --> Severity: Notice --> Undefined variable: image_slider C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 8
+ERROR - 20151113102235 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 8
+ERROR - 20151113135653 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`13:56:53` > 'end_time'' at line 4 - Invalid query: SELECT *
+FROM `coupon_codes`
+WHERE `status` = 'Running'
+AND `2015-11-13` `13:56:53` > 'end_time'
+ERROR - 20151113135653 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\models\Commerce_m.php 98
+ERROR - 20151113135724 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`13:57:24` > 'end_time'' at line 4 - Invalid query: SELECT *
+FROM `coupon_codes`
+WHERE `status` = 'Running'
+AND `2015-11-13` `13:57:24` > 'end_time'
+ERROR - 20151113135724 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\models\Commerce_m.php 99
+ERROR - 20151113151904 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113151906 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113153043 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113153052 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113153734 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113153746 --> Severity: Notice --> Undefined property: Order::$content C:\xampp\htdocs\midaonline\application\controllers\Order.php 21
+ERROR - 20151113153746 --> Severity: Error --> Call to a member function get_post_data() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 21
+ERROR - 20151113153846 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113153958 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113154045 --> 404 Page Not Found: Assets/themes
+ERROR - 20151113202204 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113202204 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113202211 --> Severity: Notice --> Undefined property: Users::$not_admin_granted C:\xampp\htdocs\midaonline\application\controllers\Users.php 12
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113202632 --> Severity: Notice --> Undefined property: stdClass::$point_balance C:\xampp\htdocs\midaonline\application\views\admin\user_view_all.php 48
+ERROR - 20151113203307 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203307 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203323 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203323 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203333 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203333 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203601 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113203601 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151113210033 --> 404 Page Not Found: Assets/themes

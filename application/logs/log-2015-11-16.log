@@ -1,0 +1,96 @@
+ERROR - 20151116135609 --> Severity: Error --> Call to undefined method CI_DB_mysqli_driver::where_string() C:\xampp\htdocs\midaonline\application\models\Content_m.php 309
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 454
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 455
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: post_per_page C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 457
+ERROR - 20151116140221 --> Severity: Warning --> Division by zero C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 457
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 460
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 462
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 464
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 466
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: img_slider_cat C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 468
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 481
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: root_cat C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 141
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 152
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 162
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 243
+ERROR - 20151116140221 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 257
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 454
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 148
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 148
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 148
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 152
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 162
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 162
+ERROR - 20151116140529 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 162
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 148
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 148
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 148
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 152
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 162
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: total_pages C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 162
+ERROR - 20151116140543 --> Severity: Notice --> Undefined variable: page_selected C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 162
+ERROR - 20151116140606 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116141231 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116141238 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116163441 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116163458 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116163525 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116163813 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116163926 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116164357 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116164405 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116164520 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116164909 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116164922 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116164923 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116164949 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116164951 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165000 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165004 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165308 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165314 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165327 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165328 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165340 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165341 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165555 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165555 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165601 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165601 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165611 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165612 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165618 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165619 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165623 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165624 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165641 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165643 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165647 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165647 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116165653 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116165654 --> 404 Page Not Found: Assets/themes
+ERROR - 20151116183441 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151116184441 --> Could not find the language line "bank_ac_number"
+ERROR - 20151116193650 --> 404 Page Not Found: Cms/track_shipping
+ERROR - 20151116193923 --> Could not find the language line "bank_ac_number"
+ERROR - 20151116193955 --> Could not find the language line "bank_ac_number"
+ERROR - 20151116210259 --> Could not find the language line "bank_ac_number"
+ERROR - 20151116210335 --> Could not find the language line "bank_ac_number"
+ERROR - 20151116213421 --> Could not find the language line "latest_update"
+ERROR - 20151116215310 --> Could not find the language line "latest_update"
+ERROR - 20151116215310 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 64
+ERROR - 20151116215627 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 62
+ERROR - 20151116220211 --> Query error: Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '=' - Invalid query: SELECT *
+FROM `shipping_track` `st`
+JOIN `users` `u` ON `st`.`user_entry`=`u`.`user_id`
+ORDER BY `st`.`order_id`, `st`.`time_update` desc
+ERROR - 20151116220211 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\models\Order_m.php 195
+ERROR - 20151116220255 --> Query error: Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '=' - Invalid query: SELECT *
+FROM `shipping_track` `st`
+JOIN `users` `u` ON `st`.`user_entry`=`u`.`user_id`
+ORDER BY `st`.`order_id`, `st`.`time_update` desc
+ERROR - 20151116220255 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\models\Order_m.php 196
+ERROR - 20151116220607 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 250
+ERROR - 20151116220716 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 250
+ERROR - 20151116220736 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 250

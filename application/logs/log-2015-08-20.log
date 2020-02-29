@@ -1,0 +1,140 @@
+ERROR - 20150820000512 --> The filetype you are attempting to upload is not allowed.
+ERROR - 20150820002752 --> Severity: Notice --> Undefined variable: type C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 52
+ERROR - 20150820004812 --> Severity: Parsing Error --> syntax error, unexpected 'clearfix' (T_STRING), expecting ',' or ';' C:\xampp\htdocs\makanenak\application\views\organique\home.php 431
+ERROR - 20150820054235 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 995
+ERROR - 20150820054533 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 996
+ERROR - 20150820054702 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\makanenak\application\views\organique\home.php 526
+ERROR - 20150820054809 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 994
+ERROR - 20150820055133 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 996
+ERROR - 20150820055749 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 996
+ERROR - 20150820060156 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 713
+ERROR - 20150820060338 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\makanenak\application\views\organique\home.php 485
+ERROR - 20150820060357 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\makanenak\application\views\organique\home.php 485
+ERROR - 20150820060411 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 488
+ERROR - 20150820060411 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 488
+ERROR - 20150820060411 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 492
+ERROR - 20150820060411 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 492
+ERROR - 20150820060411 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 509
+ERROR - 20150820060411 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 509
+ERROR - 20150820060411 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 514
+ERROR - 20150820060411 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 514
+ERROR - 20150820060411 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 519
+ERROR - 20150820060411 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 519
+ERROR - 20150820063403 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 488
+ERROR - 20150820063403 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 488
+ERROR - 20150820063403 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 492
+ERROR - 20150820063403 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 492
+ERROR - 20150820063403 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 509
+ERROR - 20150820063403 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 509
+ERROR - 20150820063403 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 514
+ERROR - 20150820063403 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 514
+ERROR - 20150820063403 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 519
+ERROR - 20150820063403 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 519
+ERROR - 20150820063515 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 716
+ERROR - 20150820063703 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 716
+ERROR - 20150820064241 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 717
+ERROR - 20150820064430 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 718
+ERROR - 20150820064610 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 718
+ERROR - 20150820064654 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 719
+ERROR - 20150820064749 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 719
+ERROR - 20150820064818 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 720
+ERROR - 20150820064902 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 721
+ERROR - 20150820065209 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 721
+ERROR - 20150820065232 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065232 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065232 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065232 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065232 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065232 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065232 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065232 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065232 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065232 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065249 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 721
+ERROR - 20150820065300 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065300 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065300 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065300 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065300 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065300 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065300 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065300 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065300 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065300 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065328 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065328 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065328 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065328 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065328 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065328 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065328 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065328 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065328 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065328 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065408 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 495
+ERROR - 20150820065408 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 495
+ERROR - 20150820065408 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 499
+ERROR - 20150820065408 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 499
+ERROR - 20150820065408 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 516
+ERROR - 20150820065408 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 516
+ERROR - 20150820065408 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 521
+ERROR - 20150820065408 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 521
+ERROR - 20150820065408 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 526
+ERROR - 20150820065408 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 526
+ERROR - 20150820065544 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065544 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 494
+ERROR - 20150820065544 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065544 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 498
+ERROR - 20150820065544 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065544 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 515
+ERROR - 20150820065544 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065544 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 520
+ERROR - 20150820065544 --> Severity: Notice --> Undefined variable: idx C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065544 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\makanenak\application\views\organique\home.php 525
+ERROR - 20150820065616 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\makanenak\application\views\organique\home.php 721
+ERROR - 20150820214213 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820214213 --> You did not select a file to upload.
+ERROR - 20150820214213 --> Severity: Notice --> Undefined variable: pr_id C:\xampp\htdocs\makanenak\application\controllers\Cms.php 483
+ERROR - 20150820214425 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820214425 --> You did not select a file to upload.
+ERROR - 20150820214523 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820214523 --> You did not select a file to upload.
+ERROR - 20150820214641 --> Severity: Notice --> Undefined property: Cms::$db_trans C:\xampp\htdocs\makanenak\application\controllers\Cms.php 473
+ERROR - 20150820214641 --> Severity: Error --> Call to a member function insert_data() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 473
+ERROR - 20150820215140 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820215140 --> You did not select a file to upload.
+ERROR - 20150820220251 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820220251 --> You did not select a file to upload.
+ERROR - 20150820220428 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820220428 --> You did not select a file to upload.
+ERROR - 20150820220806 --> Severity: Warning --> is_uploaded_file() expects parameter 1 to be string, array given C:\xampp\htdocs\makanenak\system\libraries\Upload.php 412
+ERROR - 20150820220806 --> You did not select a file to upload.
+ERROR - 20150820221400 --> You did not select a file to upload.
+ERROR - 20150820221400 --> You did not select a file to upload.
+ERROR - 20150820221514 --> You did not select a file to upload.
+ERROR - 20150820221514 --> You did not select a file to upload.
+ERROR - 20150820221539 --> You did not select a file to upload.
+ERROR - 20150820221539 --> You did not select a file to upload.
+ERROR - 20150820221558 --> You did not select a file to upload.
+ERROR - 20150820221558 --> You did not select a file to upload.
+ERROR - 20150820221632 --> You did not select a file to upload.
+ERROR - 20150820221632 --> You did not select a file to upload.
+ERROR - 20150820221926 --> Severity: Notice --> Undefined index: more_images C:\xampp\htdocs\makanenak\application\controllers\Cms.php 451
+ERROR - 20150820221926 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\controllers\Cms.php 451
+ERROR - 20150820221959 --> You did not select a file to upload.
+ERROR - 20150820221959 --> You did not select a file to upload.
+ERROR - 20150820222351 --> You did not select a file to upload.
+ERROR - 20150820222351 --> You did not select a file to upload.
+ERROR - 20150820224333 --> 404 Page Not Found: Cms/media_delete
+ERROR - 20150820225450 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\makanenak\application\controllers\Cms.php 499
+ERROR - 20150820225651 --> Severity: Warning --> unlink(): http does not allow unlinking C:\xampp\htdocs\makanenak\application\controllers\Cms.php 500
+ERROR - 20150820225744 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 498
+ERROR - 20150820225744 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\makanenak\application\controllers\Cms.php 500
+ERROR - 20150820225928 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 498
+ERROR - 20150820225928 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\makanenak\application\controllers\Cms.php 500
+ERROR - 20150820230010 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 498
+ERROR - 20150820230010 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\makanenak\application\controllers\Cms.php 499
+ERROR - 20150820230315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 496
+ERROR - 20150820230315 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\makanenak\application\controllers\Cms.php 497
+ERROR - 20150820230342 --> Severity: Notice --> Undefined variable: more_images C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 125
+ERROR - 20150820230406 --> Severity: Notice --> Undefined variable: more_images C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 125

@@ -1,0 +1,897 @@
+ERROR - 20150902060806 --> 404 Page Not Found: Frontpage/display_ready_to_eat
+ERROR - 20150902141410 --> Severity: Notice --> Undefined variable: menu_rte C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 10
+ERROR - 20150902141857 --> Severity: Notice --> Undefined variable: menu_rte C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 17
+ERROR - 20150902141924 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 7
+ERROR - 20150902141924 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 7
+ERROR - 20150902141924 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 7
+ERROR - 20150902141924 --> Severity: Notice --> Undefined variable: menu_rte C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 17
+ERROR - 20150902141958 --> Severity: Notice --> Undefined variable: menu_rte C:\xampp\htdocs\makanenak\application\views\organique\catering_product.php 17
+ERROR - 20150902162436 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163046 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163138 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163245 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163333 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163413 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163457 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163642 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163723 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163741 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902163940 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164052 --> Severity: Parsing Error --> syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\makanenak\application\models\Content_m.php 115
+ERROR - 20150902164104 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164155 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164318 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164330 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164346 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164401 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164638 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164654 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164735 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902164752 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172218 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172236 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172510 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172510 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172510 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172510 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172510 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172510 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172510 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172515 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172524 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172548 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172549 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172553 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172604 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172734 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172744 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172754 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172755 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172802 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172812 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172813 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172849 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902172849 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172849 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172849 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172849 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172849 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172850 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172855 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902172907 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173447 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902173447 --> Severity: Notice --> Undefined property: mysqli::$category C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Undefined property: mysqli_result::$category C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173449 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173454 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173506 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173524 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902173524 --> Severity: Notice --> Undefined property: mysqli::$category C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Undefined property: mysqli_result::$category C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173524 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\readytoeat_product.php 15
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173525 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173530 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173542 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173609 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173610 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173615 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902173626 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902215834 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150902215834 --> Unable to connect to the database
+ERROR - 20150902215837 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150902215839 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150902215839 --> Unable to connect to the database
+ERROR - 20150902215839 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220724 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220725 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220725 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220725 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220725 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220725 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902220726 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221230 --> Severity: Parsing Error --> syntax error, unexpected 'ready' (T_STRING) C:\xampp\htdocs\makanenak\application\models\Content_m.php 146
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221313 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221314 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221314 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221314 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221314 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221314 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221314 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221315 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221401 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221402 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221403 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221511 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221513 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902221517 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 237
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 240
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 241
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 244
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 258
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 258
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 263
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 9 C:\xampp\htdocs\makanenak\application\views\organique\home.php 268
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 237
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 240
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 241
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 244
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 258
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 258
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 263
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 10 C:\xampp\htdocs\makanenak\application\views\organique\home.php 268
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 237
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 240
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 241
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 244
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 258
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 258
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 263
+ERROR - 20150902224732 --> Severity: Notice --> Undefined offset: 11 C:\xampp\htdocs\makanenak\application\views\organique\home.php 268
+ERROR - 20150902224852 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\makanenak\application\views\organique\home.php 286
+ERROR - 20150902225729 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902225731 --> 404 Page Not Found: Images/dummy
+ERROR - 20150902225737 --> 404 Page Not Found: Images/dummy

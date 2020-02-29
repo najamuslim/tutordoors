@@ -1,0 +1,39 @@
+ERROR - 20151203124733 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 517
+ERROR - 20151203124733 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 518
+ERROR - 20151203124733 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 26
+ERROR - 20151203124733 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 30
+ERROR - 20151203132731 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 13
+ERROR - 20151203195600 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203195856 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203200334 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203203011 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203203214 --> Severity: Notice --> Undefined variable: img_slider_cat C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 221
+ERROR - 20151203203215 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203205017 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203205056 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203205437 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203205504 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203205548 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203210420 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203210433 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212137 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212141 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212149 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212152 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212431 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212438 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212443 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203212454 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203220448 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203220452 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203220502 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203220522 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203220916 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203221832 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203222156 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203222208 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 510
+ERROR - 20151203222208 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 511
+ERROR - 20151203222208 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 26
+ERROR - 20151203222208 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\page_view.php 30
+ERROR - 20151203222210 --> 404 Page Not Found: Assets/themes
+ERROR - 20151203222218 --> 404 Page Not Found: Assets/themes

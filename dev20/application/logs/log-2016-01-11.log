@@ -1,0 +1,6 @@
+ERROR - 20160111155341 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 649
+ERROR - 20160111155341 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160111160626 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 649
+ERROR - 20160111160626 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160111161524 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 649
+ERROR - 20160111161524 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11

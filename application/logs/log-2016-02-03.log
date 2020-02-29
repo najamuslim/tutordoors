@@ -1,0 +1,14 @@
+ERROR - 20160203154009 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160203154009 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160203154009 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160203154009 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160203160431 --> Severity: Notice --> Undefined property: stdClass::$title C:\xampp\htdocs\guruprivat\application\views\admin\teacher_commission.php 73
+ERROR - 20160203163007 --> 404 Page Not Found: Assets/themes
+ERROR - 20160203163012 --> 404 Page Not Found: Assets/themes
+ERROR - 20160203164252 --> 404 Page Not Found: Cms/submit_teacher_commission
+ERROR - 20160203200325 --> Query error: Column 'enroll_id' cannot be null - Invalid query: INSERT INTO `teacher_commissions` (`enroll_id`, `termin`, `nominal`, `transfer_date`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20160203200325 --> Severity: Error --> Call to undefined method Course::set_session_response_no_redirect() C:\xampp\htdocs\guruprivat\application\controllers\Course.php 280
+ERROR - 20160203200542 --> Could not find the language line "response_add_ok"
+ERROR - 20160203210757 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 772
+ERROR - 20160203211243 --> Severity: Parsing Error --> syntax error, unexpected ',' C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 773
+ERROR - 20160203211427 --> Severity: Error --> Call to undefined method stdClass::result() C:\xampp\htdocs\guruprivat\application\controllers\Cms.php 1351

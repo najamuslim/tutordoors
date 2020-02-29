@@ -1,0 +1,64 @@
+ERROR - 20151029053617 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029053619 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029053632 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029053738 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029053958 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054025 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054047 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054115 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054150 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054205 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054218 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054318 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054342 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054641 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054701 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029054750 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055156 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055340 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055351 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055522 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055531 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055558 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055613 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055702 --> Severity: Notice --> Undefined variable: current_page C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 20
+ERROR - 20151029055703 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055734 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029055950 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060036 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060045 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060101 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060130 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060153 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060423 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029060452 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061119 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061142 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061210 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061341 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061459 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061642 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029061733 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029074149 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029075837 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029075921 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029080004 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029114220 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029114350 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029114418 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029114719 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029114805 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029115135 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029115742 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029115803 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151029115917 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029121946 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151029122056 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029122144 --> Severity: Notice --> Undefined property: Users::$not_admin_granted C:\xampp\htdocs\midaonline\application\controllers\Users.php 12
+ERROR - 20151029122241 --> Severity: Notice --> Undefined property: Users::$not_admin_granted C:\xampp\htdocs\midaonline\application\controllers\Users.php 12
+ERROR - 20151029123258 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029123352 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029202946 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029203307 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029203353 --> 404 Page Not Found: Assets/themes
+ERROR - 20151029203530 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62

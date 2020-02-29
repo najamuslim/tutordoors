@@ -1,0 +1,64 @@
+ERROR - 20151110042503 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151110042503 --> Unable to connect to the database
+ERROR - 20151110042506 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151110042508 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151110042508 --> Unable to connect to the database
+ERROR - 20151110042508 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20151110064359 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110070238 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110070534 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110070541 --> Severity: Compile Error --> Can't use method return value in write context C:\xampp\htdocs\midaonline\application\controllers\Order.php 84
+ERROR - 20151110072139 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110073104 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110073112 --> Severity: Notice --> Undefined variable: cart C:\xampp\htdocs\midaonline\application\controllers\Order.php 100
+ERROR - 20151110073112 --> Severity: Notice --> Undefined variable: cart C:\xampp\htdocs\midaonline\application\controllers\Order.php 103
+ERROR - 20151110073112 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 232
+ERROR - 20151110073217 --> Severity: Notice --> Undefined variable: cart C:\xampp\htdocs\midaonline\application\controllers\Order.php 102
+ERROR - 20151110073217 --> Severity: Notice --> Undefined variable: cart C:\xampp\htdocs\midaonline\application\controllers\Order.php 105
+ERROR - 20151110073217 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 234
+ERROR - 20151110073244 --> Severity: Notice --> Undefined index: total_after_discount C:\xampp\htdocs\midaonline\application\controllers\Order.php 102
+ERROR - 20151110073244 --> Severity: Notice --> Undefined index: total_weight C:\xampp\htdocs\midaonline\application\controllers\Order.php 105
+ERROR - 20151110073244 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 234
+ERROR - 20151110073500 --> Severity: Notice --> Undefined index: total_after_discount C:\xampp\htdocs\midaonline\application\controllers\Order.php 102
+ERROR - 20151110073500 --> Severity: Notice --> Undefined index: total_weight C:\xampp\htdocs\midaonline\application\controllers\Order.php 105
+ERROR - 20151110073500 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 234
+ERROR - 20151110073945 --> Severity: Notice --> Undefined index: total_after_discount C:\xampp\htdocs\midaonline\application\controllers\Order.php 139
+ERROR - 20151110073945 --> Severity: Notice --> Undefined index: total_weight C:\xampp\htdocs\midaonline\application\controllers\Order.php 142
+ERROR - 20151110073945 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 271
+ERROR - 20151110073958 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 270
+ERROR - 20151110082901 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110084613 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110084621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 148
+ERROR - 20151110084621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 151
+ERROR - 20151110084621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 164
+ERROR - 20151110084811 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 156
+ERROR - 20151110084811 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Order.php 170
+ERROR - 20151110153004 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151110153005 --> Unable to connect to the database
+ERROR - 20151110153007 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151110153009 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151110153009 --> Unable to connect to the database
+ERROR - 20151110153009 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20151110194605 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110194625 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110194810 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110195158 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110195206 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110195851 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110195913 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110200316 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110202156 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110202205 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110202715 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110203630 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110204051 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 293
+ERROR - 20151110204123 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110204356 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110204441 --> 404 Page Not Found: Assets/themes
+ERROR - 20151110204504 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Order.php 295

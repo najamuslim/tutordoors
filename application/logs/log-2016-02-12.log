@@ -1,0 +1,24 @@
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: icon C:\xampp\htdocs\guruprivat\application\views\admin\header.php 96
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160212072620 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160212072620 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160212072620 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160212072823 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160212072823 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160212072823 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160212072823 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160212072924 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 45
+ERROR - 20160212072924 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 50
+ERROR - 20160212072924 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 45
+ERROR - 20160212072924 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 50
+ERROR - 20160212072924 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 45
+ERROR - 20160212072924 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 50

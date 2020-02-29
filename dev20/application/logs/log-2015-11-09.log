@@ -1,0 +1,62 @@
+ERROR - 20151109102704 --> 404 Page Not Found: Frontpage/get_ship_cost
+ERROR - 20151109102706 --> 404 Page Not Found: Frontpage/get_ship_cost
+ERROR - 20151109111359 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109111402 --> 404 Page Not Found: Frontpage/get_ship_cost
+ERROR - 20151109121758 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109124833 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109124849 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109132640 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109132651 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109133305 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109133356 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109133442 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109133913 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134044 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134143 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134310 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134420 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134506 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134554 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109134912 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109135110 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109135205 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109140405 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109141956 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109142915 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109142942 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109193210 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109193245 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109194735 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109194912 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109195328 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109195445 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109200230 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109201914 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109202457 --> Severity: Warning --> number_format() expects parameter 2 to be long, string given C:\xampp\htdocs\midaonline\application\views\raboda\checkout.php 224
+ERROR - 20151109202458 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109203222 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109203347 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109203358 --> Severity: Warning --> Missing argument 1 for Commerce_m::check_coupon_status(), called in C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php on line 486 and defined C:\xampp\htdocs\midaonline\application\models\Commerce_m.php 53
+ERROR - 20151109203358 --> Severity: Notice --> Undefined variable: code C:\xampp\htdocs\midaonline\application\models\Commerce_m.php 56
+ERROR - 20151109203358 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 487
+ERROR - 20151109203358 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 487
+ERROR - 20151109203358 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 492
+ERROR - 20151109203358 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 505
+ERROR - 20151109203431 --> Severity: Warning --> Missing argument 1 for Commerce_m::check_coupon_status(), called in C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php on line 486 and defined C:\xampp\htdocs\midaonline\application\models\Commerce_m.php 53
+ERROR - 20151109203431 --> Severity: Notice --> Undefined variable: code C:\xampp\htdocs\midaonline\application\models\Commerce_m.php 56
+ERROR - 20151109203431 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 487
+ERROR - 20151109203431 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 487
+ERROR - 20151109203431 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 492
+ERROR - 20151109203431 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 505
+ERROR - 20151109203450 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 487
+ERROR - 20151109203450 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 487
+ERROR - 20151109203450 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 492
+ERROR - 20151109203450 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 505
+ERROR - 20151109204737 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109205138 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109205452 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109210757 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109211001 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109211109 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109211154 --> 404 Page Not Found: Assets/themes
+ERROR - 20151109211325 --> 404 Page Not Found: Assets/themes

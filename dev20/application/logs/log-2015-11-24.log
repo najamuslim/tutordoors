@@ -1,0 +1,39 @@
+ERROR - 20151124055312 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055416 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055555 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055657 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 133
+ERROR - 20151124055725 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 135
+ERROR - 20151124055725 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 135
+ERROR - 20151124055726 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055746 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055824 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055849 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124055941 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124060451 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124060551 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124060714 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124060728 --> 404 Page Not Found: Product/root_cat
+ERROR - 20151124060731 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124061221 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124061354 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124061552 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124613 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124618 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151124124620 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124636 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151124124637 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124646 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124718 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124725 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151124124727 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124124736 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124130320 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124130458 --> Severity: Notice --> Undefined variable: banners C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 132
+ERROR - 20151124130458 --> Severity: Notice --> Undefined variable: banners C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 135
+ERROR - 20151124130459 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124130536 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124130645 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124130811 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124130907 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124131133 --> 404 Page Not Found: Assets/themes
+ERROR - 20151124131228 --> 404 Page Not Found: Assets/themes

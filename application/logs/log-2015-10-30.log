@@ -1,0 +1,105 @@
+ERROR - 20151030052621 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151030052626 --> Severity: Notice --> Undefined variable: ship_cost C:\xampp\htdocs\midaonline\application\views\admin\setting_commerce.php 207
+ERROR - 20151030054956 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030055145 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030055223 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030055223 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030055503 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030055656 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030055744 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030060218 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030060218 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030060353 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030060353 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030060749 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030060749 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030060817 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030060817 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030060845 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030060845 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030061051 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030061051 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030061116 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030061116 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030061429 --> Query error: Column 'company' cannot be null - Invalid query: INSERT INTO `shipping_costs` (`company`, `destination`, `package`, `cost_per_kg`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151030061429 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\message_after_transaction.php 18
+ERROR - 20151030061429 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030061429 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030061719 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030061719 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030061749 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030061749 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030061809 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030061809 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030063328 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030063328 --> Could not find the language line "update_shipping_cost_setting"
+ERROR - 20151030063348 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030063627 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030063736 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030064805 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030065633 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030065703 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030065726 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030065900 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030070330 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030070417 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030070635 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030070658 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030070722 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030070748 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030074913 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030075721 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030075741 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030083332 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030083410 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030083757 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030083820 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030084320 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030084515 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030084543 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030085009 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030085041 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030090738 --> Severity: Compile Error --> Can't use method return value in write context C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 160
+ERROR - 20151030090752 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 162
+ERROR - 20151030090752 --> Severity: Notice --> Object of class stdClass to string conversion C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 162
+ERROR - 20151030090752 --> Severity: Notice --> Undefined variable: Object C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 162
+ERROR - 20151030090752 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 162
+ERROR - 20151030090754 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030090936 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030091532 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030092644 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030093438 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030093837 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030094634 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030094702 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030094738 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030095330 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030095447 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030095711 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030095923 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030095952 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030100045 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030100113 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030100135 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030100158 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030100353 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030100705 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030101817 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151030101826 --> Could not find the language line "bank_ac_number"
+ERROR - 20151030101842 --> Could not find the language line "discount"
+ERROR - 20151030102250 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030102317 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030102418 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030102446 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030102807 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030103337 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 163
+ERROR - 20151030103403 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' C:\xampp\htdocs\midaonline\application\views\raboda\footer.php 163
+ERROR - 20151030103434 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030103513 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151030103640 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 65
+ERROR - 20151030103659 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151030103659 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151030122858 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151030122858 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\views\admin\dashboard.php 82
+ERROR - 20151030123551 --> 404 Page Not Found: Assets/themes
+ERROR - 20151030124909 --> 404 Page Not Found: Assets/themes

@@ -1,0 +1,34 @@
+ERROR - 20160104100904 --> 404 Page Not Found: My_/index
+ERROR - 20160104140758 --> 404 Page Not Found: Users/update_user_primary_photo
+ERROR - 20160104211430 --> You did not select a file to upload.
+ERROR - 20160104211451 --> You did not select a file to upload.
+ERROR - 20160104211749 --> You did not select a file to upload.
+ERROR - 20160104211823 --> Severity: Notice --> Undefined variable: map_post_media C:\xampp\htdocs\guruprivat\application\controllers\Users.php 520
+ERROR - 20160104211823 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 166
+ERROR - 20160104211823 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 167
+ERROR - 20160104212653 --> The path to the image is not correct.
+ERROR - 20160104212653 --> Your server does not support the GD function required to process this type of image.
+ERROR - 20160104214250 --> 404 Page Not Found: Assets/uploadsuru2_thumb.png
+ERROR - 20160104214309 --> 404 Page Not Found: Assets/uploads
+ERROR - 20160104221722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 316
+ERROR - 20160104221722 --> Severity: Warning --> getimagesize(C:/xampp/htdocs/guruprivat/assets/uploads): failed to open stream: Permission denied C:\xampp\htdocs\guruprivat\system\libraries\Image_lib.php 1637
+ERROR - 20160104221722 --> Your server does not support the GD function required to process this type of image.
+ERROR - 20160104221722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 330
+ERROR - 20160104221722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 330
+ERROR - 20160104221722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 330
+ERROR - 20160104221722 --> 404 Page Not Found: Assets/uploads
+ERROR - 20160104221833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 316
+ERROR - 20160104221833 --> Severity: Warning --> getimagesize(C:/xampp/htdocs/guruprivat/assets/uploads): failed to open stream: Permission denied C:\xampp\htdocs\guruprivat\system\libraries\Image_lib.php 1637
+ERROR - 20160104221833 --> Your server does not support the GD function required to process this type of image.
+ERROR - 20160104221833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 341
+ERROR - 20160104221833 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 4
+ERROR - 20160104221852 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 316
+ERROR - 20160104221852 --> Severity: Warning --> getimagesize(C:/xampp/htdocs/guruprivat/assets/uploads): failed to open stream: Permission denied C:\xampp\htdocs\guruprivat\system\libraries\Image_lib.php 1637
+ERROR - 20160104221852 --> Your server does not support the GD function required to process this type of image.
+ERROR - 20160104221852 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 341
+ERROR - 20160104221852 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 4
+ERROR - 20160104222031 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 343
+ERROR - 20160104222031 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 4
+ERROR - 20160104222117 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 4
+ERROR - 20160104222227 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 362
+ERROR - 20160104222227 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 4

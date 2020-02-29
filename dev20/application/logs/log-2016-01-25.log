@@ -1,0 +1,13 @@
+ERROR - 20160125102205 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160125102205 --> Unable to connect to the database
+ERROR - 20160125102208 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160125102210 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160125102210 --> Unable to connect to the database
+ERROR - 20160125102210 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20160125131510 --> Severity: Error --> Call to undefined method CI_URI::segmnet() C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 1
+ERROR - 20160125175305 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 147
+ERROR - 20160125175312 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 147
+ERROR - 20160125211242 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 696

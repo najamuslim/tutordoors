@@ -1,0 +1,5 @@
+ERROR - 20160108100133 --> Severity: 4096 --> Object of class CI_DB_mysqli_result could not be converted to string C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 50
+ERROR - 20160108173005 --> Severity: Warning --> Missing argument 2 for Course_m::get_course_by_city_or_course(), called in C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php on line 627 and defined C:\xampp\htdocs\guruprivat\application\models\Course_m.php 72
+ERROR - 20160108173005 --> Severity: Notice --> Undefined variable: root_id C:\xampp\htdocs\guruprivat\application\models\Course_m.php 82
+ERROR - 20160108173037 --> Severity: Warning --> Missing argument 2 for Course_m::get_course_by_city_or_course(), called in C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php on line 627 and defined C:\xampp\htdocs\guruprivat\application\models\Course_m.php 72
+ERROR - 20160108173037 --> Severity: Notice --> Undefined variable: root_id C:\xampp\htdocs\guruprivat\application\models\Course_m.php 82

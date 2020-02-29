@@ -1,0 +1,42 @@
+ERROR - 20160202050030 --> Severity: Notice --> Undefined variable: payments C:\xampp\htdocs\guruprivat\application\views\admin\teacher_commission.php 83
+ERROR - 20160202050030 --> Severity: Notice --> Undefined variable: payments C:\xampp\htdocs\guruprivat\application\views\admin\teacher_commission.php 126
+ERROR - 20160202102431 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\guruprivat\application\controllers\Course.php 170
+ERROR - 20160202102504 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\guruprivat\application\controllers\Course.php 170
+ERROR - 20160202102507 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\guruprivat\application\controllers\Course.php 170
+ERROR - 20160202102527 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 133
+ERROR - 20160202102700 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 133
+ERROR - 20160202102759 --> Severity: Notice --> Undefined variable: response C:\xampp\htdocs\guruprivat\application\controllers\Course.php 170
+ERROR - 20160202102950 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 133
+ERROR - 20160202103153 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 133
+ERROR - 20160202104120 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160202104120 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160202104120 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160202104120 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160202104234 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 45
+ERROR - 20160202104234 --> Severity: Notice --> Undefined property: stdClass::$coupon_code C:\xampp\htdocs\guruprivat\application\views\admin\invoice.php 50
+ERROR - 20160202135303 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\guruprivat\application\views\iknow\my_account.php 61
+ERROR - 20160202141555 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 440
+ERROR - 20160202141717 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\views\iknow\message.php 50
+ERROR - 20160202142236 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 133
+ERROR - 20160202142319 --> Severity: Error --> Call to undefined method Course_m::get_open_city_by_user_city() C:\xampp\htdocs\guruprivat\application\controllers\Course.php 27
+ERROR - 20160202142453 --> Severity: Error --> Call to undefined method Course_m::get_course_data() C:\xampp\htdocs\guruprivat\application\controllers\Course.php 79
+ERROR - 20160202142453 --> Severity: Error --> Call to undefined method Course_m::get_course_data() C:\xampp\htdocs\guruprivat\application\controllers\Course.php 79
+ERROR - 20160202142644 --> Query error: Duplicate entry 'cnJSb40212-2' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('cnJSb40212', '2', '50000')
+ERROR - 20160202142645 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 83
+ERROR - 20160202142645 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 84
+ERROR - 20160202142645 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 85
+ERROR - 20160202142645 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 86
+ERROR - 20160202142649 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 83
+ERROR - 20160202142649 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 84
+ERROR - 20160202142649 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 85
+ERROR - 20160202142649 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 86
+ERROR - 20160202142823 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 132
+ERROR - 20160202143146 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 134
+ERROR - 20160202143235 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 135
+ERROR - 20160202143412 --> Query error: Column 'user_id' in where clause is ambiguous - Invalid query: SELECT *
+FROM `user_calendars` `uc`
+JOIN `users` `u` ON `uc`.`user_id` = `u`.`user_id`
+WHERE `user_id` = 'cnJSb40212'
+ORDER BY `open_date_start`
+ERROR - 20160202143412 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160202214016 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 134

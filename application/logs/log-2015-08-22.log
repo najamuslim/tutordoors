@@ -1,0 +1,89 @@
+ERROR - 20150822111259 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 149
+ERROR - 20150822111315 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 149
+ERROR - 20150822113245 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 57
+ERROR - 20150822113839 --> Severity: Notice --> Undefined variable: cats C:\xampp\htdocs\makanenak\application\views\admin_post_view_all.php 45
+ERROR - 20150822114520 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Undefined property: mysqli::$category C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Undefined property: mysqli_result::$category C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 87
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 97
+ERROR - 20150822114520 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_product_creation.php 98
+ERROR - 20150822120007 --> Severity: Warning --> Missing argument 1 for Cms::get_category_under_root() C:\xampp\htdocs\makanenak\application\controllers\Cms.php 512
+ERROR - 20150822120007 --> Severity: Notice --> Undefined variable: root_id C:\xampp\htdocs\makanenak\application\controllers\Cms.php 515
+ERROR - 20150822125051 --> Severity: Parsing Error --> syntax error, unexpected ';', expecting ')' C:\xampp\htdocs\makanenak\application\controllers\Cms.php 222
+ERROR - 20150822125126 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '21'
+ORDER BY `id` desc
+ERROR - 20150822125126 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822125214 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '21'
+ORDER BY `id` desc
+ERROR - 20150822125214 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822125226 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '21'
+ORDER BY `id` desc
+ERROR - 20150822125226 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822125313 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '21'
+ORDER BY `id` desc
+ERROR - 20150822125313 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822125413 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '21'
+ORDER BY `id` desc
+ERROR - 20150822125413 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822130051 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 49
+ERROR - 20150822130051 --> Severity: Notice --> Undefined variable: menu_today C:\xampp\htdocs\makanenak\application\views\organique\home.php 213
+ERROR - 20150822130051 --> Severity: Notice --> Undefined variable: menu_other C:\xampp\htdocs\makanenak\application\views\organique\home.php 303
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: post_id C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 91
+ERROR - 20150822141149 --> Severity: Notice --> Undefined variable: menu_other C:\xampp\htdocs\makanenak\application\views\organique\home.php 303
+ERROR - 20150822141223 --> Severity: Notice --> Undefined variable: menu_other C:\xampp\htdocs\makanenak\application\views\organique\home.php 303
+ERROR - 20150822141605 --> Severity: Notice --> Undefined index: customer_phone C:\xampp\htdocs\makanenak\application\views\organique\home.php 79
+ERROR - 20150822141915 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '18'
+ORDER BY `id` desc
+ERROR - 20150822141915 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822142044 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'product'
+AND `id` = '18'
+ORDER BY `id` desc
+ERROR - 20150822142044 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150822142552 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 515
+ERROR - 20150822142812 --> Severity: Error --> Cannot use object of type CI_DB_mysqli_result as array C:\xampp\htdocs\makanenak\application\views\organique\home.php 311

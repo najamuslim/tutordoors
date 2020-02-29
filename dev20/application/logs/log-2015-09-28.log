@@ -1,0 +1,75 @@
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 19
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 24
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 31
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 37
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 45
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 52
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 58
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 64
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 70
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 93
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 100
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 106
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 112
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 120
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 127
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 133
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 141
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 148
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 154
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 160
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 168
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 175
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 182
+ERROR - 20150928193612 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 187
+ERROR - 20150928193612 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928193612 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928193612 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928193705 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928193705 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928193705 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194509 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194509 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194509 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194737 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194737 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194737 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194844 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194844 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194844 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194932 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194932 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928194932 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195008 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195008 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195008 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195016 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195016 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195016 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195039 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195039 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195039 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195116 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195116 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928195116 --> 404 Page Not Found: Cms/dist
+ERROR - 20150928235643 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235643 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235643 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156
+ERROR - 20150928235657 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235657 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235657 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156
+ERROR - 20150928235709 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235709 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235709 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156
+ERROR - 20150928235725 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235725 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235725 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156
+ERROR - 20150928235748 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235748 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235748 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156
+ERROR - 20150928235800 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235800 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235800 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156
+ERROR - 20150928235805 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 148
+ERROR - 20150928235805 --> Severity: Notice --> Undefined variable: notif_unread C:\xampp\htdocs\indokatering\application\views\admin_header.php 151
+ERROR - 20150928235805 --> Severity: Notice --> Undefined variable: notifications C:\xampp\htdocs\indokatering\application\views\admin_header.php 156

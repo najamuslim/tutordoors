@@ -1,0 +1,49 @@
+ERROR - 20150828054240 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\controllers\Cms.php 209
+ERROR - 20150828054240 --> Severity: Notice --> Undefined variable: detail C:\xampp\htdocs\makanenak\application\controllers\Cms.php 257
+ERROR - 20150828054240 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\views\admin_order_view_detail.php 71
+ERROR - 20150828055838 --> 404 Page Not Found: Fp/payment_confirmation
+ERROR - 20150828061129 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828061211 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828062539 --> Severity: Notice --> Undefined property: Order::$order C:\xampp\htdocs\makanenak\application\controllers\Order.php 257
+ERROR - 20150828062539 --> Severity: Error --> Call to a member function get_order_header() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 257
+ERROR - 20150828062704 --> Severity: Notice --> Undefined property: Order::$order C:\xampp\htdocs\makanenak\application\controllers\Order.php 257
+ERROR - 20150828062704 --> Severity: Error --> Call to a member function get_order_header() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 257
+ERROR - 20150828062801 --> Severity: Notice --> Undefined property: Order::$content C:\xampp\htdocs\makanenak\application\controllers\Order.php 269
+ERROR - 20150828062801 --> Severity: Error --> Call to a member function get_root_category_by_post_id() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 269
+ERROR - 20150828062941 --> Severity: Notice --> Undefined property: Order::$ci C:\xampp\htdocs\makanenak\system\core\Model.php 77
+ERROR - 20150828062941 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\models\Commerce_m.php 34
+ERROR - 20150828062941 --> Severity: Error --> Call to a member function error() on a non-object C:\xampp\htdocs\makanenak\application\models\Commerce_m.php 34
+ERROR - 20150828063735 --> Severity: Notice --> Undefined property: Order::$comm C:\xampp\htdocs\makanenak\application\controllers\Order.php 272
+ERROR - 20150828063735 --> Severity: Error --> Call to a member function modify_point_to_user() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 272
+ERROR - 20150828160325 --> Severity: Notice --> Undefined variable: header C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 268
+ERROR - 20150828160325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 268
+ERROR - 20150828160325 --> Severity: Notice --> Undefined variable: bank C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 280
+ERROR - 20150828160325 --> Severity: Notice --> Undefined variable: bank C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 364
+ERROR - 20150828160502 --> Severity: Notice --> Undefined variable: header C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 268
+ERROR - 20150828160502 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 268
+ERROR - 20150828160502 --> Severity: Notice --> Undefined variable: bank C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 280
+ERROR - 20150828160502 --> Severity: Notice --> Undefined variable: bank C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 364
+ERROR - 20150828160544 --> Severity: Notice --> Undefined variable: header C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 268
+ERROR - 20150828160544 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 268
+ERROR - 20150828160544 --> Severity: Notice --> Undefined variable: bank C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 280
+ERROR - 20150828160544 --> Severity: Notice --> Undefined variable: bank C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 364
+ERROR - 20150828160933 --> Severity: Notice --> Undefined variable: order_done C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 232
+ERROR - 20150828160933 --> Severity: Notice --> Undefined variable: order_done C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 294
+ERROR - 20150828161626 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\makanenak\application\views\organique\checkout.php 6
+ERROR - 20150828162327 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828162510 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828162932 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163202 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163247 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163359 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163420 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163757 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163827 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163906 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828163924 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828164149 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828164210 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828164409 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828165314 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828165424 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113
+ERROR - 20150828165520 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 113

@@ -1,0 +1,14 @@
+ERROR - 20160110095818 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160110095818 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 633
+ERROR - 20160110095818 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160110095837 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 633
+ERROR - 20160110095837 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160110095837 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 633
+ERROR - 20160110095837 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160110095838 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 633
+ERROR - 20160110095838 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160110161227 --> Severity: Notice --> Undefined variable: teachers C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 15
+ERROR - 20160110161440 --> Severity: Notice --> Undefined variable: teachers C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 15
+ERROR - 20160110162642 --> Severity: Notice --> Undefined variable: teachers C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 15
+ERROR - 20160110163744 --> Severity: Notice --> Undefined variable: teachers C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 15
+ERROR - 20160110165339 --> Severity: Notice --> Undefined variable: course_cat C:\xampp\htdocs\guruprivat\application\views\iknow\teacher_list.php 5

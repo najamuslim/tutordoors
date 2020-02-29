@@ -1,0 +1,415 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Frontpage extends MY_Controller {
+	public function __construct() {
+        parent::__construct();
+        
+	}
+
+	/* pages begin */
+
+	function generate_captcha(){
+		//generate captcha
+		$this->load->helper('captcha');
+		$captcha_data = array(
+			'word' => rand(1000, 9999),
+			'img_path' => 'assets/captcha/',
+			'img_url' => base_url().'assets/captcha/',
+			//'font_path' => './path/to/fonts/texb.ttf',
+			'img_width' => '150',
+			'img_height' => 30,
+			'expiration' => 7200
+			);
+
+		$cap = create_captcha($captcha_data);
+		$insert_cap = array(
+			'captcha_time' => $cap['time'],
+			'ip_address' => $this->input->ip_address(),
+			'word' => $cap['word']
+		);
+		$query = $this->db->insert_string('captcha', $insert_cap);
+		$this->db->query($query);
+		//echo $cap['image'];
+		$captcha = $cap['image'];
+
+		return $captcha;
+	}
+
+	public function home(){ 
+		// get provinces
+		$this->load->model('Location_m', 'loc');
+		$data['provinces'] = $this->loc->get_province();
+
+		// get root course category
+		$this->load->model('Content_m', 'content');
+		
+		$data['root_courses'] = $this->content->get_root_category('course');
+		foreach($data['root_courses']->result() as $root){
+			$get_teachers = $this->teacher->get_data_concat_course_by_education_level($root->id);
+			
+			if($get_teachers<>false){
+				$this->load->model('User_m', 'user');
+				foreach($get_teachers->result() as $teacher){
+					// get more user info
+					$user_info = $this->user->get_user_info($teacher->user_id);
+					$total_viewed = $user_info->total_viewed;
+					$total_taken_course = $this->teacher->get_total_taken_course($teacher->user_id);
+
+					$data['teachers'][$root->id][] = array(
+						'user_id' => $teacher->user_id,
+						'level' => $teacher->user_level,
+						'course' => str_replace(',', ', ', $teacher->courses),
+						'first_name' => $teacher->first_name,
+						'last_name' => $teacher->last_name,
+						// 'sex' => $teacher->sex,
+						'image_file' => $teacher->file_name,
+						'about_me' => $teacher->about_me,
+						'occupation' => $teacher->occupation,
+						'total_viewed' => $total_viewed,
+						'total_taken_course' => $total_taken_course
+						);
+				}
+			}
+		}
+
+		// get testimonials
+		$testimonials = $this->content->get_post_data('post', 'b.slug', 'testimoni-siswa');
+		if($testimonials<>false){
+			foreach($testimonials->result() as $testi){
+				// get post image
+				$image = $this->content->get_post_image($testi->primary_image);
+				$data['testimonials'][] = array(
+					'id' => $testi->id,
+					'name' => $testi->title,
+					'testi' => $testi->content,
+					'photo' => $image->file_name
+					);
+			}
+		}
+
+		$data['page_title'] = 'Home';
+		// print_r($data['courses']);
+		$this->open_page('home', $data);
+	}
+
+	function order_received($order_id=null){
+		if($this->session->userdata('logged')=="in"){
+			$this->load->model('Bank_m', 'bank');
+			// get order header
+			$data['order'] = $this->order->get_order_by_id($order_id);
+			// get order detail
+			// $data['detail'] = $this->order->get_order_detail($order_id);
+			// // get order shipping
+			// $data['ship'] = $this->order->get_order_shipping($order_id);
+			// get list of bank
+			// $data['banks'] = $this->bank->get_bank_data('active', 'true');
+			$data['page_title'] = $this->lang->line('order_success');
+			$data['meta_social_title'] = '';
+			$data['meta_social_image'] = '';
+			$data['meta_social_desc'] = '';
+
+			$this->open_page('order_success', $data);
+		}
+		else
+			$this->show_error_page(204, $this->lang->line('order_received_error_not_logged_in'));
+		
+	}
+
+	function payment_confirmation(){
+		if($this->session->userdata('logged')=="in"){
+			$user_id = $this->session->userdata('userid');
+
+			$data = $this->get_data_for_profile($user_id);
+
+			$this->load->model('Bank_m', 'bank');
+			$data['banks'] = $this->bank->get_bank_data('active', 'true');
+
+			$data['page_title'] = $this->lang->line('confirm_payment');
+			$data['am'] = 'payment_confirmation';
+			$data['sub_page_title'] = $this->lang->line('confirm_payment');
+			$data['meta_social_title'] = $this->lang->line('confirm_payment');
+			$data['meta_social_image'] = '';
+			$data['meta_social_desc'] = $this->lang->line('confirm_payment_here_after_do_payment');
+
+			$this->open_page('payment_confirmation', $data);	
+		}
+		else
+			$this->show_error_page('700', $this->lang->line('error_must_login'));
+		
+	}
+
+	function login(){
+		$data['captcha'] = $this->generate_captcha();
+		$data['page_title'] = 'Login Member';
+		if($this->session->userdata('logged')=="in")
+			redirect(base_url());
+		else
+			$this->open_page('login', $data);
+	}
+
+	function my_account(){
+		if($this->session->userdata('logged')=="in"){
+			$user_id = $this->session->userdata('userid');
+			
+			$data = $this->get_data_for_profile($user_id);
+			$data['am'] = 'dashboard';
+			// for teacher
+			// if($this->session->userdata('level')=="teacher"){
+			// 	// get open courses
+			// 	$data['my_course'] = $this->order->get_open_order_by_teacherid($user_id); 
+			// }
+
+			// for student
+			if($this->session->userdata('level')=="student"){
+				
+				$data['course_order'] = $this->order->view_order_by_studentid($user_id);
+			}
+
+			$data['page_title'] = 'My Account';
+			$data['sub_page_title'] = 'Dashboard '.($this->session->userdata('level')=="teacher" ? 'Guru' : 'Siswa');
+			$this->open_page('my_account', $data);
+		}
+		else
+			$this->show_error_page('700', $this->lang->line('error_must_login'));
+	}
+
+	function messages(){
+		if($this->session->userdata('logged')=="in"){
+			$user_id = $this->session->userdata('userid');
+
+			$data = $this->get_data_for_profile($user_id);
+
+			$this->load->library('notification');
+			$data['messages'] = $this->notification->get_message_by_direction($user_id, 'in');
+
+			// update read status
+			$this->load->model('Common', 'common');
+			if($data['messages']<>false){
+				foreach($data['messages']->result() as $msg){
+					$data_upd = array('has_been_read' => 'true');
+					if($msg->receiver_id==$user_id)
+						$upd = $this->common->update_data_on_table('notifications', 'id', $msg->id, $data_upd);
+				}
+			}
+
+			$data['am'] = 'message';
+			$data['page_title'] = 'Messages';
+			$data['sub_page_title'] = $this->lang->line('message');
+			$this->open_page('message', $data);
+		}
+		else
+			$this->show_error_page('700', $this->lang->line('error_must_login'));
+	}
+
+	function running_course(){
+		if($this->session->userdata('logged')=="in"){
+			$user_id = $this->session->userdata('userid');
+			$level = $this->session->userdata('level');
+
+			$data = $this->get_data_for_profile($user_id);
+
+			$data['running_course'] = $this->course->get_course_enrollment_by_userid($level, $user_id, 'false');
+			$data['level'] = $level;                        
+
+			$data['am'] = 'running_course';
+			$data['page_title'] = $this->lang->line('course_running');
+			$data['sub_page_title'] = $this->lang->line('course_running');
+			$this->open_page('running_course', $data);
+		}
+		else
+			$this->show_error_page('700', $this->lang->line('error_must_login'));
+	}
+
+	function fill_course_monitoring($enroll_id){
+		if($this->session->userdata('logged')=="in"){
+			$this->load->model('User_m', 'user');
+			
+			$user_id = $this->session->userdata('userid');
+			$level = $this->session->userdata('level');
+
+			$data = $this->get_data_for_profile($user_id);
+
+			$data['monitoring'] = $this->course->get_course_monitoring_by_enrollid($enroll_id);
+			// print_r($this->db->last_query());
+			$data['level'] = $level;
+
+			if($data['monitoring']<>false){
+				$order = $this->order->get_order_course_by_id($data['monitoring']->row()->order_id); 
+				$data['course_name'] = str_replace(',', ', ', $order->courses);
+
+				$get_student_info = $this->user->get_user_data(array('user_id' => $data['monitoring']->row()->student_id));
+				$data['student_name'] = $get_student_info->row()->first_name.' '.$get_student_info->row()->last_name;
+				$get_teacher_info = $this->user->get_user_data(array('user_id' => $data['monitoring']->row()->teacher_id));
+				$data['teacher_name'] = $get_teacher_info->row()->first_name.' '.$get_teacher_info->row()->last_name;
+			}
+			else{
+				$course_info = $this->course->get_course_enrollment($enroll_id);
+				$order_id = $course_info->order_id;
+				$order = $this->order->get_order_course_by_id($order_id); 
+				$data['course_name'] = str_replace(',', ', ', $order->courses);
+				$order_info = $this->order->get_order_by_id($order_id);
+
+				$get_student_info = $this->user->get_user_data(array('user_id' => $order_info->student_id));
+				$data['student_name'] = $get_student_info->row()->first_name.' '.$get_student_info->row()->last_name;
+				$get_teacher_info = $this->user->get_user_data(array('user_id' => $order_info->teacher_id));
+				$data['teacher_name'] = $get_teacher_info->row()->first_name.' '.$get_teacher_info->row()->last_name;
+			}
+
+			
+
+			$data['am'] = 'running_course';
+			$data['page_title'] = $this->lang->line('course_absence');
+			$data['sub_page_title'] = $this->lang->line('course_absence');
+			$this->open_page('fill_course_monitoring', $data);
+		}
+		else
+			$this->show_error_page('700', $this->lang->line('error_must_login'));
+	}
+
+	function completed_course(){
+		if($this->session->userdata('logged')=="in"){
+			$user_id = $this->session->userdata('userid');
+			$level = $this->session->userdata('level');
+
+			$data = $this->get_data_for_profile($user_id);
+
+			$data['completed_course'] = $this->course->get_course_enrollment_by_userid($level, $user_id, 'true');
+			$data['level'] = $level;
+
+
+			$data['am'] = 'completed_course';
+			$data['page_title'] = $this->lang->line('course_completed');
+			$data['sub_page_title'] = $this->lang->line('course_completed');
+			$this->open_page('completed_course', $data);
+		}
+		else
+			$this->show_error_page('700', $this->lang->line('error_must_login'));
+	}
+	
+	public function blog(){
+		// setlocale(LC_ALL, 'IND');
+		$cat_slug = $this->uri->segment(3);
+		$limit_start = $this->input->get('ls', TRUE);
+		$limit_end = $this->input->get('le', TRUE);
+
+		$this->load->model('Content_m', 'content');
+
+		// get post
+		if($limit_start=="")
+			$get_post = $this->content->get_post_category_slug($cat_slug);
+		else
+			$get_post = $this->content->get_post_category_slug($cat_slug, $limit_start, $limit_end);
+
+		if($get_post==false)
+			$data['posts'] = false;
+		else{
+			// check if the post category match the slug
+			foreach($get_post as $post){
+				$image = $this->content->get_post_image($post->primary_image);
+				$data['posts'][] = array(
+					'id' => $post->id,
+					'title' => $post->title,
+					'content' => $post->content,
+					'tags' => $post->tags,
+					'category' => $post->category_name,
+					'image' => ($image==false ? '': $image->file_name),
+					'timestamp' => $post->creation_datetime
+					);
+			}
+		}
+
+		$data['group_month'] = $this->content->grouping_blog_month();
+
+		$data['page_title'] = $post->title;
+		$data['meta_social_title'] = $post->title;
+		$data['meta_social_image'] = '';
+		$data['meta_social_desc'] = '';
+
+		$this->open_page('blog_view', $data);
+	}
+
+	public function page_view(){
+		$url_page = $this->uri->segment(2);
+
+		$this->load->model('Content_m', 'content');
+
+		$data['page'] = $this->content->get_page_by_url($url_page);
+		$data['best_selling'] = $this->display_best_selling_product();
+		// $data['group_month'] = $this->content->grouping_blog_month();
+
+		$data['page_title'] = $data['page']->title;
+		$data['meta_social_title'] = $data['page']->title;
+		$data['meta_social_image'] = '';
+		$data['meta_social_desc'] = '';
+
+		$this->open_page('page_view', $data);
+	}
+
+	public function forgot_password(){
+		$data['message'] = $this->session->flashdata('msg_reset');
+		$data['page_title'] = $this->lang->line('password_forgot');
+		$this->open_page('forgot_password', $data);
+	}
+
+	public function reset_done(){
+		$this->open_page('reset_password_completed');
+	}
+
+	function prepare_order(){
+		$teacher_id = $this->input->get('tid', TRUE);
+		// $course_id = $this->input->get('cid', TRUE);
+
+		if($this->session->userdata('logged')<>"in"){
+			redirect('login');
+		}
+		else{
+			// get course data
+			$data['courses'] = $this->teacher->get_concat_course_by_teacher_id($teacher_id, FALSE);
+			// get open city fo course
+			$data['cities'] = $this->teacher->get_concat_city_by_teacher_id($teacher_id, FALSE);
+			// get teacher data
+			$this->load->model('User_m', 'user');
+			$data['teacher_info'] = $this->user->get_user_by_id($teacher_id);
+			
+			$data['page_title'] = $this->lang->line('order_form');
+			$this->open_page('preparing_order', $data);
+		}
+	}
+
+	function how_to_pay(){
+		$this->load->model('Bank_m', 'bank');
+		$data['banks'] = $this->bank->get_bank_data('active', 'true');
+		
+		$data['page_title'] = $this->lang->line('how_to_pay');
+		$data['meta_social_title'] = $this->lang->line('how_to_pay');
+		$data['meta_social_image'] = '';
+		$data['meta_social_desc'] = '';
+
+		$this->open_page('how_to_pay', $data);
+		
+	}
+	/* end pages */
+
+	function submit_comment(){
+		$this->load->model('Common', 'common');
+		$data = array(
+			'post_id' => $this->input->post('post-id', TRUE),
+			'content' => $this->input->post('review', TRUE),
+			'rating' => $this->input->post('rating', TRUE),
+			'user_id' => $this->session->userdata('userid')
+			);
+		$this->common->add_to_table('post_comments', $data);
+
+		redirect('product/single/'.$this->input->post('last-url', TRUE));
+	}
+
+	
+
+	function change_language($lang, $idiom){
+		$this->session->set_userdata('language', $lang);
+		$this->session->set_userdata('idiom_language', $idiom);
+
+		redirect($this->session->userdata('curr_page'));
+	}
+}

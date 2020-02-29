@@ -1,0 +1,61 @@
+ERROR - 20160128093621 --> Severity: Parsing Error --> syntax error, unexpected '=>' (T_DOUBLE_ARROW) C:\xampp\htdocs\guruprivat\application\controllers\Order.php 223
+ERROR - 20160128104908 --> 404 Page Not Found: Frontpage/cancel_course_order
+ERROR - 20160128104950 --> Severity: Warning --> Missing argument 1 for Order::cancel_course_order() C:\xampp\htdocs\guruprivat\application\controllers\Order.php 250
+ERROR - 20160128104950 --> Severity: Notice --> Undefined variable: order_info C:\xampp\htdocs\guruprivat\application\controllers\Order.php 253
+ERROR - 20160128104950 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 253
+ERROR - 20160128105117 --> Severity: Notice --> Undefined variable: order_info C:\xampp\htdocs\guruprivat\application\controllers\Order.php 253
+ERROR - 20160128105117 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 253
+ERROR - 20160128105447 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\controllers\Order.php 233
+ERROR - 20160128105447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 233
+ERROR - 20160128105447 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\controllers\Order.php 234
+ERROR - 20160128105447 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 234
+ERROR - 20160128114032 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 139
+ERROR - 20160128114050 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 139
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142124 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142125 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142125 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142125 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$city_name C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 37
+ERROR - 20160128142202 --> Severity: Notice --> Undefined property: stdClass::$phone_1 C:\xampp\htdocs\guruprivat\application\views\iknow\student_course_request.php 40
+ERROR - 20160128200814 --> Severity: Notice --> Undefined variable: open_request C:\xampp\htdocs\guruprivat\application\views\iknow\invoice.php 30
+ERROR - 20160128201602 --> Severity: Error --> Call to undefined method stdClass::result() C:\xampp\htdocs\guruprivat\application\views\iknow\invoice.php 32
+ERROR - 20160128205100 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 21
+ERROR - 20160128205100 --> Severity: Notice --> Undefined variable: unread_message C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 39
+ERROR - 20160128205100 --> Severity: Notice --> Undefined variable: messages C:\xampp\htdocs\guruprivat\application\views\iknow\message.php 31
+ERROR - 20160128205100 --> Severity: Notice --> Undefined variable: messages C:\xampp\htdocs\guruprivat\application\views\iknow\message.php 50
+ERROR - 20160128205100 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\views\iknow\message.php 50
+ERROR - 20160128205819 --> Severity: Warning --> Missing argument 1 for Notification::get_data_both_send_receiver(), called in C:\xampp\htdocs\guruprivat\application\controllers\Cms.php on line 1160 and defined C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 61
+ERROR - 20160128205819 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 66
+ERROR - 20160128205819 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 66
+ERROR - 20160128205837 --> Severity: Warning --> Missing argument 1 for Notification::get_data_both_send_receiver(), called in C:\xampp\htdocs\guruprivat\application\controllers\Cms.php on line 1160 and defined C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 61
+ERROR - 20160128205837 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 66
+ERROR - 20160128205837 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 66
+ERROR - 20160128205852 --> Severity: Warning --> Missing argument 1 for Notification::get_data_both_send_receiver(), called in C:\xampp\htdocs\guruprivat\application\controllers\Cms.php on line 1160 and defined C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 61
+ERROR - 20160128205852 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 66
+ERROR - 20160128205852 --> Severity: Notice --> Undefined variable: user_id C:\xampp\htdocs\guruprivat\application\libraries\Notification.php 66

@@ -1,0 +1,441 @@
+ERROR - 20150803202653 --> Severity: Warning --> Missing argument 2 for Cms::open_page(), called in C:\xampp\htdocs\cms\application\controllers\cms.php on line 17 and defined C:\xampp\htdocs\cms\application\controllers\cms.php 9
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\cms\application\controllers\cms.php 10
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\cms\application\views\header.php 257
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\cms\application\views\sidebar_left.php 11
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\cms\application\views\sidebar_left.php 19
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\cms\application\views\sidebar_left.php 24
+ERROR - 20150803202653 --> Could not find the language line "setting"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 31
+ERROR - 20150803202653 --> Could not find the language line "area_info"
+ERROR - 20150803202653 --> Could not find the language line "region"
+ERROR - 20150803202653 --> Could not find the language line "country"
+ERROR - 20150803202653 --> Could not find the language line "province"
+ERROR - 20150803202653 --> Could not find the language line "city"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 44
+ERROR - 20150803202653 --> Could not find the language line "organisation"
+ERROR - 20150803202653 --> Could not find the language line "location"
+ERROR - 20150803202653 --> Could not find the language line "func_level"
+ERROR - 20150803202653 --> Could not find the language line "job_title"
+ERROR - 20150803202653 --> Could not find the language line "department"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 57
+ERROR - 20150803202653 --> Could not find the language line "other"
+ERROR - 20150803202653 --> Could not find the language line "industry"
+ERROR - 20150803202653 --> Could not find the language line "education_degree"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\cms\application\views\sidebar_left.php 70
+ERROR - 20150803202653 --> Could not find the language line "emp_data"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 77
+ERROR - 20150803202653 --> Could not find the language line "personal_data"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 78
+ERROR - 20150803202653 --> Could not find the language line "allowance"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\cms\application\views\sidebar_left.php 81
+ERROR - 20150803202653 --> Could not find the language line "leave"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 88
+ERROR - 20150803202653 --> Could not find the language line "setup_master"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 91
+ERROR - 20150803202653 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 94
+ERROR - 20150803202653 --> Could not find the language line "leave_data"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 97
+ERROR - 20150803202653 --> Could not find the language line "leave_request"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 100
+ERROR - 20150803202653 --> Could not find the language line "leave_approve"
+ERROR - 20150803202653 --> Could not find the language line "config_region"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803202653 --> Could not find the language line "edit"
+ERROR - 20150803202653 --> Could not find the language line "region"
+ERROR - 20150803202653 --> Could not find the language line "region_name"
+ERROR - 20150803202653 --> Could not find the language line "close"
+ERROR - 20150803202653 --> Could not find the language line "save_change"
+ERROR - 20150803202653 --> Could not find the language line "region_list"
+ERROR - 20150803202653 --> Could not find the language line "region"
+ERROR - 20150803202653 --> Could not find the language line "action"
+ERROR - 20150803202653 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803202653 --> Could not find the language line "add"
+ERROR - 20150803202653 --> Could not find the language line "region_name"
+ERROR - 20150803202653 --> Could not find the language line "submit"
+ERROR - 20150803202843 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\cms\application\controllers\cms.php 21
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\cms\application\views\header.php 257
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\cms\application\views\sidebar_left.php 11
+ERROR - 20150803202855 --> Could not find the language line "setting"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 31
+ERROR - 20150803202855 --> Could not find the language line "area_info"
+ERROR - 20150803202855 --> Could not find the language line "region"
+ERROR - 20150803202855 --> Could not find the language line "country"
+ERROR - 20150803202855 --> Could not find the language line "province"
+ERROR - 20150803202855 --> Could not find the language line "city"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 44
+ERROR - 20150803202855 --> Could not find the language line "organisation"
+ERROR - 20150803202855 --> Could not find the language line "location"
+ERROR - 20150803202855 --> Could not find the language line "func_level"
+ERROR - 20150803202855 --> Could not find the language line "job_title"
+ERROR - 20150803202855 --> Could not find the language line "department"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 57
+ERROR - 20150803202855 --> Could not find the language line "other"
+ERROR - 20150803202855 --> Could not find the language line "industry"
+ERROR - 20150803202855 --> Could not find the language line "education_degree"
+ERROR - 20150803202855 --> Could not find the language line "emp_data"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 77
+ERROR - 20150803202855 --> Could not find the language line "personal_data"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 78
+ERROR - 20150803202855 --> Could not find the language line "allowance"
+ERROR - 20150803202855 --> Could not find the language line "leave"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 88
+ERROR - 20150803202855 --> Could not find the language line "setup_master"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 91
+ERROR - 20150803202855 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 94
+ERROR - 20150803202855 --> Could not find the language line "leave_data"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 97
+ERROR - 20150803202855 --> Could not find the language line "leave_request"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 100
+ERROR - 20150803202855 --> Could not find the language line "leave_approve"
+ERROR - 20150803202855 --> Could not find the language line "config_region"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803202855 --> Could not find the language line "edit"
+ERROR - 20150803202855 --> Could not find the language line "region"
+ERROR - 20150803202855 --> Could not find the language line "region_name"
+ERROR - 20150803202855 --> Could not find the language line "close"
+ERROR - 20150803202855 --> Could not find the language line "save_change"
+ERROR - 20150803202855 --> Could not find the language line "region_list"
+ERROR - 20150803202855 --> Could not find the language line "region"
+ERROR - 20150803202855 --> Could not find the language line "action"
+ERROR - 20150803202855 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803202855 --> Could not find the language line "add"
+ERROR - 20150803202855 --> Could not find the language line "region_name"
+ERROR - 20150803202855 --> Could not find the language line "submit"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\cms\application\views\header.php 257
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: username C:\xampp\htdocs\cms\application\views\sidebar_left.php 11
+ERROR - 20150803202935 --> Could not find the language line "setting"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 31
+ERROR - 20150803202935 --> Could not find the language line "area_info"
+ERROR - 20150803202935 --> Could not find the language line "region"
+ERROR - 20150803202935 --> Could not find the language line "country"
+ERROR - 20150803202935 --> Could not find the language line "province"
+ERROR - 20150803202935 --> Could not find the language line "city"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 44
+ERROR - 20150803202935 --> Could not find the language line "organisation"
+ERROR - 20150803202935 --> Could not find the language line "location"
+ERROR - 20150803202935 --> Could not find the language line "func_level"
+ERROR - 20150803202935 --> Could not find the language line "job_title"
+ERROR - 20150803202935 --> Could not find the language line "department"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 57
+ERROR - 20150803202935 --> Could not find the language line "other"
+ERROR - 20150803202935 --> Could not find the language line "industry"
+ERROR - 20150803202935 --> Could not find the language line "education_degree"
+ERROR - 20150803202935 --> Could not find the language line "emp_data"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 77
+ERROR - 20150803202935 --> Could not find the language line "personal_data"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 78
+ERROR - 20150803202935 --> Could not find the language line "allowance"
+ERROR - 20150803202935 --> Could not find the language line "leave"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 88
+ERROR - 20150803202935 --> Could not find the language line "setup_master"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 91
+ERROR - 20150803202935 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 94
+ERROR - 20150803202935 --> Could not find the language line "leave_data"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 97
+ERROR - 20150803202935 --> Could not find the language line "leave_request"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 100
+ERROR - 20150803202935 --> Could not find the language line "leave_approve"
+ERROR - 20150803202935 --> Could not find the language line "config_region"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803202935 --> Could not find the language line "edit"
+ERROR - 20150803202935 --> Could not find the language line "region"
+ERROR - 20150803202935 --> Could not find the language line "region_name"
+ERROR - 20150803202935 --> Could not find the language line "close"
+ERROR - 20150803202935 --> Could not find the language line "save_change"
+ERROR - 20150803202935 --> Could not find the language line "region_list"
+ERROR - 20150803202935 --> Could not find the language line "region"
+ERROR - 20150803202935 --> Could not find the language line "action"
+ERROR - 20150803202935 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803202935 --> Could not find the language line "add"
+ERROR - 20150803202935 --> Could not find the language line "region_name"
+ERROR - 20150803202935 --> Could not find the language line "submit"
+ERROR - 20150803202959 --> Could not find the language line "setting"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 31
+ERROR - 20150803202959 --> Could not find the language line "area_info"
+ERROR - 20150803202959 --> Could not find the language line "region"
+ERROR - 20150803202959 --> Could not find the language line "country"
+ERROR - 20150803202959 --> Could not find the language line "province"
+ERROR - 20150803202959 --> Could not find the language line "city"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 44
+ERROR - 20150803202959 --> Could not find the language line "organisation"
+ERROR - 20150803202959 --> Could not find the language line "location"
+ERROR - 20150803202959 --> Could not find the language line "func_level"
+ERROR - 20150803202959 --> Could not find the language line "job_title"
+ERROR - 20150803202959 --> Could not find the language line "department"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 57
+ERROR - 20150803202959 --> Could not find the language line "other"
+ERROR - 20150803202959 --> Could not find the language line "industry"
+ERROR - 20150803202959 --> Could not find the language line "education_degree"
+ERROR - 20150803202959 --> Could not find the language line "emp_data"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 77
+ERROR - 20150803202959 --> Could not find the language line "personal_data"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 78
+ERROR - 20150803202959 --> Could not find the language line "allowance"
+ERROR - 20150803202959 --> Could not find the language line "leave"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 88
+ERROR - 20150803202959 --> Could not find the language line "setup_master"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 91
+ERROR - 20150803202959 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 94
+ERROR - 20150803202959 --> Could not find the language line "leave_data"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 97
+ERROR - 20150803202959 --> Could not find the language line "leave_request"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 100
+ERROR - 20150803202959 --> Could not find the language line "leave_approve"
+ERROR - 20150803202959 --> Could not find the language line "config_region"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803202959 --> Could not find the language line "edit"
+ERROR - 20150803202959 --> Could not find the language line "region"
+ERROR - 20150803202959 --> Could not find the language line "region_name"
+ERROR - 20150803202959 --> Could not find the language line "close"
+ERROR - 20150803202959 --> Could not find the language line "save_change"
+ERROR - 20150803202959 --> Could not find the language line "region_list"
+ERROR - 20150803202959 --> Could not find the language line "region"
+ERROR - 20150803202959 --> Could not find the language line "action"
+ERROR - 20150803202959 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803202959 --> Could not find the language line "add"
+ERROR - 20150803202959 --> Could not find the language line "region_name"
+ERROR - 20150803202959 --> Could not find the language line "submit"
+ERROR - 20150803203153 --> Could not find the language line "setting"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 31
+ERROR - 20150803203153 --> Could not find the language line "area_info"
+ERROR - 20150803203153 --> Could not find the language line "region"
+ERROR - 20150803203153 --> Could not find the language line "country"
+ERROR - 20150803203153 --> Could not find the language line "province"
+ERROR - 20150803203153 --> Could not find the language line "city"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 44
+ERROR - 20150803203153 --> Could not find the language line "organisation"
+ERROR - 20150803203153 --> Could not find the language line "location"
+ERROR - 20150803203153 --> Could not find the language line "func_level"
+ERROR - 20150803203153 --> Could not find the language line "job_title"
+ERROR - 20150803203153 --> Could not find the language line "department"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 57
+ERROR - 20150803203153 --> Could not find the language line "other"
+ERROR - 20150803203153 --> Could not find the language line "industry"
+ERROR - 20150803203153 --> Could not find the language line "education_degree"
+ERROR - 20150803203153 --> Could not find the language line "emp_data"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 77
+ERROR - 20150803203153 --> Could not find the language line "personal_data"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 78
+ERROR - 20150803203153 --> Could not find the language line "allowance"
+ERROR - 20150803203153 --> Could not find the language line "leave"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 88
+ERROR - 20150803203153 --> Could not find the language line "setup_master"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 91
+ERROR - 20150803203153 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 94
+ERROR - 20150803203153 --> Could not find the language line "leave_data"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 97
+ERROR - 20150803203153 --> Could not find the language line "leave_request"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\cms\application\views\sidebar_left.php 100
+ERROR - 20150803203153 --> Could not find the language line "leave_approve"
+ERROR - 20150803203153 --> Could not find the language line "config_region"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803203153 --> Could not find the language line "edit"
+ERROR - 20150803203153 --> Could not find the language line "region"
+ERROR - 20150803203153 --> Could not find the language line "region_name"
+ERROR - 20150803203153 --> Could not find the language line "close"
+ERROR - 20150803203153 --> Could not find the language line "save_change"
+ERROR - 20150803203153 --> Could not find the language line "region_list"
+ERROR - 20150803203153 --> Could not find the language line "region"
+ERROR - 20150803203153 --> Could not find the language line "action"
+ERROR - 20150803203153 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803203153 --> Could not find the language line "add"
+ERROR - 20150803203153 --> Could not find the language line "region_name"
+ERROR - 20150803203153 --> Could not find the language line "submit"
+ERROR - 20150803203331 --> Could not find the language line "setting"
+ERROR - 20150803203331 --> Could not find the language line "area_info"
+ERROR - 20150803203331 --> Could not find the language line "region"
+ERROR - 20150803203331 --> Could not find the language line "country"
+ERROR - 20150803203331 --> Could not find the language line "province"
+ERROR - 20150803203331 --> Could not find the language line "city"
+ERROR - 20150803203331 --> Could not find the language line "organisation"
+ERROR - 20150803203331 --> Could not find the language line "location"
+ERROR - 20150803203331 --> Could not find the language line "func_level"
+ERROR - 20150803203331 --> Could not find the language line "job_title"
+ERROR - 20150803203331 --> Could not find the language line "department"
+ERROR - 20150803203331 --> Could not find the language line "other"
+ERROR - 20150803203331 --> Could not find the language line "industry"
+ERROR - 20150803203331 --> Could not find the language line "education_degree"
+ERROR - 20150803203331 --> Could not find the language line "emp_data"
+ERROR - 20150803203331 --> Could not find the language line "personal_data"
+ERROR - 20150803203331 --> Could not find the language line "allowance"
+ERROR - 20150803203331 --> Could not find the language line "leave"
+ERROR - 20150803203331 --> Could not find the language line "setup_master"
+ERROR - 20150803203331 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803203331 --> Could not find the language line "leave_data"
+ERROR - 20150803203331 --> Could not find the language line "leave_request"
+ERROR - 20150803203331 --> Could not find the language line "leave_approve"
+ERROR - 20150803203331 --> Could not find the language line "config_region"
+ERROR - 20150803203331 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803203331 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803203331 --> Could not find the language line "edit"
+ERROR - 20150803203331 --> Could not find the language line "region"
+ERROR - 20150803203331 --> Could not find the language line "region_name"
+ERROR - 20150803203331 --> Could not find the language line "close"
+ERROR - 20150803203331 --> Could not find the language line "save_change"
+ERROR - 20150803203331 --> Could not find the language line "region_list"
+ERROR - 20150803203331 --> Could not find the language line "region"
+ERROR - 20150803203331 --> Could not find the language line "action"
+ERROR - 20150803203331 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803203331 --> Could not find the language line "add"
+ERROR - 20150803203331 --> Could not find the language line "region_name"
+ERROR - 20150803203331 --> Could not find the language line "submit"
+ERROR - 20150803203608 --> Could not find the language line "setting"
+ERROR - 20150803203608 --> Could not find the language line "area_info"
+ERROR - 20150803203608 --> Could not find the language line "region"
+ERROR - 20150803203608 --> Could not find the language line "country"
+ERROR - 20150803203608 --> Could not find the language line "province"
+ERROR - 20150803203608 --> Could not find the language line "city"
+ERROR - 20150803203608 --> Could not find the language line "organisation"
+ERROR - 20150803203608 --> Could not find the language line "location"
+ERROR - 20150803203608 --> Could not find the language line "func_level"
+ERROR - 20150803203608 --> Could not find the language line "job_title"
+ERROR - 20150803203608 --> Could not find the language line "department"
+ERROR - 20150803203608 --> Could not find the language line "other"
+ERROR - 20150803203608 --> Could not find the language line "industry"
+ERROR - 20150803203608 --> Could not find the language line "education_degree"
+ERROR - 20150803203608 --> Could not find the language line "emp_data"
+ERROR - 20150803203608 --> Could not find the language line "personal_data"
+ERROR - 20150803203608 --> Could not find the language line "allowance"
+ERROR - 20150803203608 --> Could not find the language line "leave"
+ERROR - 20150803203608 --> Could not find the language line "setup_master"
+ERROR - 20150803203608 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803203608 --> Could not find the language line "leave_data"
+ERROR - 20150803203608 --> Could not find the language line "leave_request"
+ERROR - 20150803203608 --> Could not find the language line "leave_approve"
+ERROR - 20150803203608 --> Could not find the language line "config_region"
+ERROR - 20150803203608 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803203608 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803203608 --> Could not find the language line "edit"
+ERROR - 20150803203608 --> Could not find the language line "region"
+ERROR - 20150803203608 --> Could not find the language line "region_name"
+ERROR - 20150803203608 --> Could not find the language line "close"
+ERROR - 20150803203608 --> Could not find the language line "save_change"
+ERROR - 20150803203608 --> Could not find the language line "region_list"
+ERROR - 20150803203608 --> Could not find the language line "region"
+ERROR - 20150803203608 --> Could not find the language line "action"
+ERROR - 20150803203608 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803203608 --> Could not find the language line "add"
+ERROR - 20150803203608 --> Could not find the language line "region_name"
+ERROR - 20150803203608 --> Could not find the language line "submit"
+ERROR - 20150803203659 --> Could not find the language line "area_info"
+ERROR - 20150803203659 --> Could not find the language line "region"
+ERROR - 20150803203659 --> Could not find the language line "country"
+ERROR - 20150803203659 --> Could not find the language line "province"
+ERROR - 20150803203659 --> Could not find the language line "city"
+ERROR - 20150803203659 --> Could not find the language line "organisation"
+ERROR - 20150803203659 --> Could not find the language line "location"
+ERROR - 20150803203659 --> Could not find the language line "func_level"
+ERROR - 20150803203659 --> Could not find the language line "job_title"
+ERROR - 20150803203659 --> Could not find the language line "department"
+ERROR - 20150803203659 --> Could not find the language line "other"
+ERROR - 20150803203659 --> Could not find the language line "industry"
+ERROR - 20150803203659 --> Could not find the language line "education_degree"
+ERROR - 20150803203659 --> Could not find the language line "emp_data"
+ERROR - 20150803203659 --> Could not find the language line "personal_data"
+ERROR - 20150803203659 --> Could not find the language line "allowance"
+ERROR - 20150803203659 --> Could not find the language line "leave"
+ERROR - 20150803203659 --> Could not find the language line "setup_master"
+ERROR - 20150803203659 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803203659 --> Could not find the language line "leave_data"
+ERROR - 20150803203659 --> Could not find the language line "leave_request"
+ERROR - 20150803203659 --> Could not find the language line "leave_approve"
+ERROR - 20150803203659 --> Could not find the language line "config_region"
+ERROR - 20150803203659 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803203659 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803203659 --> Could not find the language line "edit"
+ERROR - 20150803203659 --> Could not find the language line "region"
+ERROR - 20150803203659 --> Could not find the language line "region_name"
+ERROR - 20150803203659 --> Could not find the language line "close"
+ERROR - 20150803203659 --> Could not find the language line "save_change"
+ERROR - 20150803203659 --> Could not find the language line "region_list"
+ERROR - 20150803203659 --> Could not find the language line "region"
+ERROR - 20150803203659 --> Could not find the language line "action"
+ERROR - 20150803203659 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803203659 --> Could not find the language line "add"
+ERROR - 20150803203659 --> Could not find the language line "region_name"
+ERROR - 20150803203659 --> Could not find the language line "submit"
+ERROR - 20150803203849 --> Could not find the language line "region"
+ERROR - 20150803203849 --> Could not find the language line "country"
+ERROR - 20150803203849 --> Could not find the language line "province"
+ERROR - 20150803203849 --> Could not find the language line "city"
+ERROR - 20150803203849 --> Could not find the language line "location"
+ERROR - 20150803203849 --> Could not find the language line "func_level"
+ERROR - 20150803203849 --> Could not find the language line "job_title"
+ERROR - 20150803203849 --> Could not find the language line "department"
+ERROR - 20150803203849 --> Could not find the language line "personal_data"
+ERROR - 20150803203849 --> Could not find the language line "allowance"
+ERROR - 20150803203849 --> Could not find the language line "setup_master"
+ERROR - 20150803203849 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803203849 --> Could not find the language line "leave_data"
+ERROR - 20150803203849 --> Could not find the language line "leave_request"
+ERROR - 20150803203849 --> Could not find the language line "leave_approve"
+ERROR - 20150803203849 --> Could not find the language line "config_region"
+ERROR - 20150803203849 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803203849 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803203849 --> Could not find the language line "edit"
+ERROR - 20150803203849 --> Could not find the language line "region"
+ERROR - 20150803203849 --> Could not find the language line "region_name"
+ERROR - 20150803203849 --> Could not find the language line "close"
+ERROR - 20150803203849 --> Could not find the language line "save_change"
+ERROR - 20150803203849 --> Could not find the language line "region_list"
+ERROR - 20150803203849 --> Could not find the language line "region"
+ERROR - 20150803203849 --> Could not find the language line "action"
+ERROR - 20150803203849 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803203849 --> Could not find the language line "add"
+ERROR - 20150803203849 --> Could not find the language line "region_name"
+ERROR - 20150803203849 --> Could not find the language line "submit"
+ERROR - 20150803204155 --> Could not find the language line "setup_master"
+ERROR - 20150803204155 --> Could not find the language line "employee_leave_setting"
+ERROR - 20150803204155 --> Could not find the language line "config_region"
+ERROR - 20150803204155 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803204155 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803204155 --> Could not find the language line "edit"
+ERROR - 20150803204155 --> Could not find the language line "region"
+ERROR - 20150803204155 --> Could not find the language line "region_name"
+ERROR - 20150803204155 --> Could not find the language line "close"
+ERROR - 20150803204155 --> Could not find the language line "save_change"
+ERROR - 20150803204155 --> Could not find the language line "region_list"
+ERROR - 20150803204155 --> Could not find the language line "region"
+ERROR - 20150803204155 --> Could not find the language line "action"
+ERROR - 20150803204155 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803204155 --> Could not find the language line "add"
+ERROR - 20150803204155 --> Could not find the language line "region_name"
+ERROR - 20150803204155 --> Could not find the language line "submit"
+ERROR - 20150803210043 --> Could not find the language line "config_region"
+ERROR - 20150803210043 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 2
+ERROR - 20150803210043 --> Severity: Notice --> Undefined variable: error_number C:\xampp\htdocs\cms\application\views\message_after_transaction.php 10
+ERROR - 20150803210043 --> Could not find the language line "edit"
+ERROR - 20150803210043 --> Could not find the language line "region"
+ERROR - 20150803210043 --> Could not find the language line "region_name"
+ERROR - 20150803210043 --> Could not find the language line "close"
+ERROR - 20150803210043 --> Could not find the language line "save_change"
+ERROR - 20150803210043 --> Could not find the language line "region_list"
+ERROR - 20150803210043 --> Could not find the language line "region"
+ERROR - 20150803210043 --> Could not find the language line "action"
+ERROR - 20150803210043 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803210043 --> Could not find the language line "add"
+ERROR - 20150803210043 --> Could not find the language line "region_name"
+ERROR - 20150803210043 --> Could not find the language line "submit"
+ERROR - 20150803210139 --> Could not find the language line "config_region"
+ERROR - 20150803210139 --> Could not find the language line "edit"
+ERROR - 20150803210139 --> Could not find the language line "region"
+ERROR - 20150803210139 --> Could not find the language line "region_name"
+ERROR - 20150803210139 --> Could not find the language line "close"
+ERROR - 20150803210139 --> Could not find the language line "save_change"
+ERROR - 20150803210139 --> Could not find the language line "region_list"
+ERROR - 20150803210139 --> Could not find the language line "region"
+ERROR - 20150803210139 --> Could not find the language line "action"
+ERROR - 20150803210139 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150803210139 --> Could not find the language line "add"
+ERROR - 20150803210139 --> Could not find the language line "region_name"
+ERROR - 20150803210139 --> Could not find the language line "submit"

@@ -1,0 +1,14 @@
+ERROR - 20150805060139 --> Severity: Notice --> Undefined property: stdClass::$author C:\xampp\htdocs\cms\application\views\post_view_all.php 40
+ERROR - 20150805060139 --> Severity: Notice --> Undefined property: stdClass::$author C:\xampp\htdocs\cms\application\views\post_view_all.php 40
+ERROR - 20150805073703 --> 404 Page Not Found: Cms/edit_post
+ERROR - 20150805073926 --> 404 Page Not Found: Emp/data
+ERROR - 20150805194748 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$title C:\xampp\htdocs\cms\application\views\post_creation.php 40
+ERROR - 20150805194836 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$title C:\xampp\htdocs\cms\application\views\post_creation.php 40
+ERROR - 20150805194936 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$title C:\xampp\htdocs\cms\application\views\post_creation.php 40
+ERROR - 20150805194946 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$title C:\xampp\htdocs\cms\application\views\post_creation.php 40
+ERROR - 20150805204401 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\cms\application\controllers\cms.php 55
+ERROR - 20150805204432 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\cms\application\controllers\cms.php 82
+ERROR - 20150805204435 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\cms\application\controllers\cms.php 82
+ERROR - 20150805204438 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\cms\application\controllers\cms.php 55
+ERROR - 20150805204516 --> 404 Page Not Found: View_post/index
+ERROR - 20150805204527 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\cms\application\controllers\cms.php 55

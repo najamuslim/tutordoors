@@ -1,0 +1,51 @@
+ERROR - 20151028085218 --> 404 Page Not Found: Product/single
+ERROR - 20151028091232 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028091358 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028091421 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028093932 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028100803 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028100816 --> 404 Page Not Found: Frontpage/%3C
+ERROR - 20151028100902 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028101053 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028101233 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028101304 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028101408 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028102740 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028102810 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028102818 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028102837 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028102848 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104327 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104333 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104344 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104402 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104454 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104600 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028104618 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028165041 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028165105 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028165816 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028170014 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028170041 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028170117 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028170217 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028170237 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028170400 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028171105 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 130
+ERROR - 20151028171105 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 130
+ERROR - 20151028171106 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028171152 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028171305 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028171332 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028172250 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028172331 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028172357 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028172447 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028172509 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028172546 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028173318 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028173430 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028180657 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028180706 --> 404 Page Not Found: Assets/themes
+ERROR - 20151028211917 --> Severity: Notice --> Undefined variable: total_qty C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 64
+ERROR - 20151028211922 --> Severity: Notice --> Undefined variable: total_qty C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 64

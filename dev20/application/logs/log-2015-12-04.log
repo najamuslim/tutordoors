@@ -1,0 +1,537 @@
+ERROR - 20151204052043 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151204052043 --> Unable to connect to the database
+ERROR - 20151204052046 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151204052048 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151204052048 --> Unable to connect to the database
+ERROR - 20151204052100 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20151204055939 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204060850 --> Severity: Notice --> Undefined variable: filter_by C:\xampp\htdocs\midaonline\application\models\Content_m.php 337
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060850 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060850 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060851 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 397
+ERROR - 20151204060911 --> Severity: Notice --> Undefined property: stdClass::$file_name C:\xampp\htdocs\midaonline\application\views\raboda\home.php 398
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060911 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060912 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204060912 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Img/best_seller
+ERROR - 20151204060944 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204061017 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204061406 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 674
+ERROR - 20151204061407 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 63
+ERROR - 20151204061420 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 63
+ERROR - 20151204061621 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1068
+ERROR - 20151204061627 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204061813 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204062328 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204062349 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204062406 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063345 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063346 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063346 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063414 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063415 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 411
+ERROR - 20151204063621 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\raboda\home.php 416
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063621 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063622 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063622 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063640 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063640 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063717 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063835 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063922 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204063923 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204063923 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064051 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064052 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204064052 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064437 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064724 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064953 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204064954 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065300 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065301 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065301 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065322 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065323 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065323 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065323 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065323 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065323 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065323 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065323 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065342 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065346 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065346 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065510 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065834 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204065835 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204065835 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073353 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204073758 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204073758 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204074226 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074632 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074633 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074633 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074716 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074717 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074717 --> 404 Page Not Found: Img/all-products
+ERROR - 20151204074917 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074917 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204074918 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204075842 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204075842 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204075842 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204075842 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204075842 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204080036 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204080036 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204080036 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204080036 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204080036 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204095717 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204095717 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204100417 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1068
+ERROR - 20151204101243 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204101243 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204101457 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204101457 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204102008 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204102008 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204110238 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204110238 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204110238 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204110238 --> 404 Page Not Found: Img/all-add
+ERROR - 20151204140146 --> 404 Page Not Found: Assets/themes
+ERROR - 20151204143030 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "29") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143032 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "43") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143037 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "31") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143039 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "43") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143059 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "29") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143059 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151204143101 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "43") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143101 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151204143131 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "31") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143131 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151204143134 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8 - Invalid query: select  id,
+				        category,
+				        parent_id 
+				from    (select * from post_categories
+				         order by parent_id, id) base,
+				        (select @pv := "43") tmp
+				where   find_in_set(parent_id, @pv) > 0
+				and     @pv := concat(@pv, 
+ERROR - 20151204143134 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21

@@ -1,0 +1,58 @@
+ERROR - 20150804053144 --> Could not find the language line "config_region"
+ERROR - 20150804053144 --> Could not find the language line "edit"
+ERROR - 20150804053144 --> Could not find the language line "region"
+ERROR - 20150804053144 --> Could not find the language line "region_name"
+ERROR - 20150804053144 --> Could not find the language line "close"
+ERROR - 20150804053144 --> Could not find the language line "save_change"
+ERROR - 20150804053144 --> Could not find the language line "region_list"
+ERROR - 20150804053144 --> Could not find the language line "region"
+ERROR - 20150804053144 --> Could not find the language line "action"
+ERROR - 20150804053144 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\config_region.php 60
+ERROR - 20150804053144 --> Could not find the language line "add"
+ERROR - 20150804053144 --> Could not find the language line "region_name"
+ERROR - 20150804053144 --> Could not find the language line "submit"
+ERROR - 20150804053419 --> Could not find the language line "region"
+ERROR - 20150804053419 --> Could not find the language line "action"
+ERROR - 20150804053419 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\create_post.php 35
+ERROR - 20150804053419 --> Could not find the language line "add"
+ERROR - 20150804053419 --> Could not find the language line "region_name"
+ERROR - 20150804053419 --> Could not find the language line "submit"
+ERROR - 20150804053419 --> Severity: Warning --> include(footer.php): failed to open stream: No such file or directory C:\xampp\htdocs\cms\application\views\create_post.php 80
+ERROR - 20150804053419 --> Severity: Warning --> include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\cms\application\views\create_post.php 80
+ERROR - 20150804053455 --> Could not find the language line "region"
+ERROR - 20150804053455 --> Could not find the language line "action"
+ERROR - 20150804053455 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\create_post.php 35
+ERROR - 20150804053455 --> Could not find the language line "add"
+ERROR - 20150804053455 --> Could not find the language line "region_name"
+ERROR - 20150804053455 --> Could not find the language line "submit"
+ERROR - 20150804053455 --> Severity: Warning --> include(footer.php): failed to open stream: No such file or directory C:\xampp\htdocs\cms\application\views\create_post.php 80
+ERROR - 20150804053455 --> Severity: Warning --> include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\cms\application\views\create_post.php 80
+ERROR - 20150804053815 --> Could not find the language line "region"
+ERROR - 20150804053815 --> Could not find the language line "action"
+ERROR - 20150804053815 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\create_post.php 36
+ERROR - 20150804053815 --> Could not find the language line "add"
+ERROR - 20150804053815 --> Could not find the language line "region_name"
+ERROR - 20150804053815 --> Could not find the language line "submit"
+ERROR - 20150804053815 --> Severity: Warning --> include(footer.php): failed to open stream: No such file or directory C:\xampp\htdocs\cms\application\views\create_post.php 81
+ERROR - 20150804053815 --> Severity: Warning --> include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\cms\application\views\create_post.php 81
+ERROR - 20150804053826 --> Could not find the language line "region"
+ERROR - 20150804053826 --> Could not find the language line "action"
+ERROR - 20150804053826 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\cms\application\views\create_post.php 36
+ERROR - 20150804053826 --> Could not find the language line "add"
+ERROR - 20150804053826 --> Could not find the language line "region_name"
+ERROR - 20150804053826 --> Could not find the language line "submit"
+ERROR - 20150804053826 --> Severity: Warning --> include(footer.php): failed to open stream: No such file or directory C:\xampp\htdocs\cms\application\views\create_post.php 81
+ERROR - 20150804053826 --> Severity: Warning --> include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\cms\application\views\create_post.php 81
+ERROR - 20150804054031 --> Could not find the language line "region_name"
+ERROR - 20150804054031 --> Could not find the language line "submit"
+ERROR - 20150804054031 --> Could not find the language line "add"
+ERROR - 20150804054031 --> Severity: Warning --> include(footer.php): failed to open stream: No such file or directory C:\xampp\htdocs\cms\application\views\create_post.php 62
+ERROR - 20150804054031 --> Severity: Warning --> include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\cms\application\views\create_post.php 62
+ERROR - 20150804054127 --> Severity: Warning --> include(footer.php): failed to open stream: No such file or directory C:\xampp\htdocs\cms\application\views\create_post.php 62
+ERROR - 20150804054127 --> Severity: Warning --> include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\cms\application\views\create_post.php 62
+ERROR - 20150804064940 --> Query error: No database selected - Invalid query: SELECT *
+FROM `post_categories`
+ORDER BY `category`
+ERROR - 20150804193404 --> 404 Page Not Found: Area/region
+ERROR - 20150804202742 --> 404 Page Not Found: Area/region
+ERROR - 20150804203352 --> 404 Page Not Found: Area/region

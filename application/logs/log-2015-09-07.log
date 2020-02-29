@@ -1,0 +1,134 @@
+ERROR - 20150907050958 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150907050958 --> Unable to connect to the database
+ERROR - 20150907051000 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150907051004 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 124
+ERROR - 20150907051004 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 132
+ERROR - 20150907051004 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 144
+ERROR - 20150907052151 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 124
+ERROR - 20150907052151 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 132
+ERROR - 20150907052151 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 144
+ERROR - 20150907052207 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907052311 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907052318 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907052434 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907055434 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907061113 --> Severity: Notice --> Undefined property: Users::$common C:\xampp\htdocs\makanenak\application\controllers\Users.php 285
+ERROR - 20150907061113 --> Severity: Error --> Call to a member function update_data_on_table() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Users.php 285
+ERROR - 20150907061128 --> Query error: Table 'makanenak.user_meta' doesn't exist - Invalid query: SELECT *
+FROM `user_meta`
+WHERE `user_id` = 'TLWxx49854'
+ERROR - 20150907061128 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Common.php 67
+ERROR - 20150907061232 --> Query error: Table 'makanenak.user_meta' doesn't exist - Invalid query: SELECT *
+FROM `user_meta`
+WHERE `user_id` = 'TLWxx49854'
+ERROR - 20150907061232 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Common.php 67
+ERROR - 20150907061249 --> Query error: Table 'makanenak.user_meta' doesn't exist - Invalid query: SELECT *
+FROM `user_meta`
+WHERE `user_id` = 'TLWxx49854'
+ERROR - 20150907061249 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\models\Common.php 67
+ERROR - 20150907061312 --> Query error: Unknown column 'province' in 'field list' - Invalid query: INSERT INTO `user_data` (`address_1`, `address_2`, `zip_code`, `city`, `province`, `phone`, `user_id`) VALUES ('Rungkut', 'Gerdhu', '21314', 'Surabaya', 'Jawa Timur', '0812222222', 'TLWxx49854')
+ERROR - 20150907061313 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907061353 --> Query error: Unknown column 'province' in 'field list' - Invalid query: INSERT INTO `user_data` (`address_1`, `address_2`, `zip_code`, `city`, `province`, `phone`, `user_id`) VALUES ('Jalan jalan', '', '', '', '', '', 'TLWxx49854')
+ERROR - 20150907061353 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907061413 --> Query error: Unknown column 'province' in 'field list' - Invalid query: INSERT INTO `user_data` (`address_1`, `address_2`, `zip_code`, `city`, `province`, `phone`, `user_id`) VALUES ('', '', '', '', '', '', 'TLWxx49854')
+ERROR - 20150907061413 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907061506 --> Query error: Unknown column 'province' in 'field list' - Invalid query: INSERT INTO `user_data` (`address_1`, `address_2`, `zip_code`, `city`, `province`, `phone`, `user_id`) VALUES ('Rungkut', '', '', '', '', '', 'TLWxx49854')
+ERROR - 20150907061526 --> Query error: Unknown column 'province' in 'field list' - Invalid query: INSERT INTO `user_data` (`address_1`, `address_2`, `zip_code`, `city`, `province`, `phone`, `user_id`) VALUES ('Rungkut', '', '', '', '', '', 'TLWxx49854')
+ERROR - 20150907061617 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907061638 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907061823 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907073055 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907073114 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907073259 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907073955 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150907095017 --> 404 Page Not Found: Users/login
+ERROR - 20150907095023 --> 404 Page Not Found: Users/login
+ERROR - 20150907172506 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\makanenak\application\controllers\Order.php 255
+ERROR - 20150907172615 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\makanenak\application\controllers\Order.php 297
+ERROR - 20150907172828 --> 404 Page Not Found: Users/change_password_view
+ERROR - 20150907173500 --> 404 Page Not Found: Users/change_password_view
+ERROR - 20150907173509 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\makanenak\application\views\admin_change_password.php 27
+ERROR - 20150907211919 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\system\database\DB_driver.php 1392
+ERROR - 20150907211919 --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `posts` (`title`, `type`, `category`, `content`, `tags`, `status`, `author`) VALUES ('Bebek Hitam Madura', 'post', Array, '<p>Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora.</p>\r\n\r\n<p>Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora. Lorem ipsum et labora.</p>\r\n', 'bebek,madura,khas', 'publish', NULL)
+ERROR - 20150907211919 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'post'
+AND `id` = ''
+ORDER BY `id` desc
+ERROR - 20150907211919 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150907212925 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'post'
+AND `id` = ''
+ORDER BY `id` desc
+ERROR - 20150907212925 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150907212934 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'post'
+AND `id` = ''
+ORDER BY `id` desc
+ERROR - 20150907212934 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150907212958 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\system\database\DB_driver.php 1392
+ERROR - 20150907212958 --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `posts` (`title`, `type`, `category`, `content`, `tags`, `status`, `author`) VALUES ('Bebek Hitam Madura', 'post', Array, '<p>Lorem Ipsum</p>\r\n', '', 'publish', NULL)
+ERROR - 20150907213103 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\system\database\DB_driver.php 1392
+ERROR - 20150907213103 --> Query error: Unknown column 'Array' in 'field list' - Invalid query: INSERT INTO `posts` (`title`, `type`, `category`, `content`, `tags`, `status`, `author`) VALUES ('Bebek Hitam Madura', 'post', Array, '<p>Lorem Ipsum</p>\r\n', '', 'publish', NULL)
+ERROR - 20150907213743 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'post'
+AND `id` = '29'
+ORDER BY `id` desc
+ERROR - 20150907213743 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150907213848 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 40
+ERROR - 20150907213848 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 40
+ERROR - 20150907213848 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 44
+ERROR - 20150907213848 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 44
+ERROR - 20150907213848 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 51
+ERROR - 20150907213848 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 67
+ERROR - 20150907213848 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 67
+ERROR - 20150907213848 --> Severity: Notice --> Undefined variable: post_image C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 74
+ERROR - 20150907213848 --> Severity: Notice --> Undefined variable: more_images C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 124
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 40
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 40
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 44
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 44
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 67
+ERROR - 20150907213858 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 67
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: post_image C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 74
+ERROR - 20150907213858 --> Severity: Notice --> Undefined variable: more_images C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 124
+ERROR - 20150907213911 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `a`.*, `b`.`category` as `category_name`
+FROM `posts` `a`
+LEFT JOIN `post_categories` `b` ON `a`.`category`=`b`.`id`
+WHERE `type` = 'post'
+AND `id` = '29'
+ORDER BY `id` desc
+ERROR - 20150907213911 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 21
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 40
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 40
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 44
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 44
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 53
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_data C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 67
+ERROR - 20150907214003 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 67
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: post_image C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 74
+ERROR - 20150907214003 --> Severity: Notice --> Undefined variable: more_images C:\xampp\htdocs\makanenak\application\views\admin_post_creation.php 124

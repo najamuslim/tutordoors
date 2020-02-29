@@ -1,0 +1,8 @@
+ERROR - 20160105094114 --> Severity: Notice --> Undefined variable: map_post_media C:\xampp\htdocs\guruprivat\application\controllers\Users.php 521
+ERROR - 20160105094114 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 166
+ERROR - 20160105094114 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 167
+ERROR - 20160105154844 --> Severity: Parsing Error --> syntax error, unexpected end of file C:\xampp\htdocs\guruprivat\application\views\iknow\open_course.php 128
+ERROR - 20160105165139 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\guruprivat\application\controllers\Course.php 32
+ERROR - 20160105165255 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\guruprivat\application\controllers\Course.php 33
+ERROR - 20160105165330 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\guruprivat\application\controllers\Course.php 33
+ERROR - 20160105165439 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\guruprivat\application\controllers\Course.php 33

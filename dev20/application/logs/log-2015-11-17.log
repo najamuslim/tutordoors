@@ -1,0 +1,15 @@
+ERROR - 20151117073927 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151117073927 --> Unable to connect to the database
+ERROR - 20151117073929 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151117073931 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20151117073931 --> Unable to connect to the database
+ERROR - 20151117073931 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\midaonline\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20151117075234 --> Severity: Notice --> Undefined variable: mapped_cats_under_root C:\xampp\htdocs\midaonline\application\views\raboda\search_result.php 13
+ERROR - 20151117075852 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 192
+ERROR - 20151117080333 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 192
+ERROR - 20151117080458 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 176
+ERROR - 20151117080842 --> Severity: Notice --> Undefined variable: banks C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 151
+ERROR - 20151117082136 --> Severity: Notice --> Undefined property: stdClass::$full_name C:\xampp\htdocs\midaonline\application\views\admin\track_shipping.php 69

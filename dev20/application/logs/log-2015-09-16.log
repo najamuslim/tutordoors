@@ -1,0 +1,61 @@
+ERROR - 20150916213910 --> Severity: Warning --> Missing argument 1 for Content_m::get_media(), called in C:\xampp\htdocs\indokatering\application\controllers\Cms.php on line 383 and defined C:\xampp\htdocs\indokatering\application\models\Content_m.php 201
+ERROR - 20150916213910 --> Severity: Warning --> Missing argument 2 for Content_m::get_media(), called in C:\xampp\htdocs\indokatering\application\controllers\Cms.php on line 383 and defined C:\xampp\htdocs\indokatering\application\models\Content_m.php 201
+ERROR - 20150916213910 --> Severity: Notice --> Undefined variable: filter_by C:\xampp\htdocs\indokatering\application\models\Content_m.php 204
+ERROR - 20150916213938 --> Severity: Warning --> Missing argument 1 for Content_m::get_media(), called in C:\xampp\htdocs\indokatering\application\controllers\Cms.php on line 383 and defined C:\xampp\htdocs\indokatering\application\models\Content_m.php 201
+ERROR - 20150916213938 --> Severity: Warning --> Missing argument 2 for Content_m::get_media(), called in C:\xampp\htdocs\indokatering\application\controllers\Cms.php on line 383 and defined C:\xampp\htdocs\indokatering\application\models\Content_m.php 201
+ERROR - 20150916213938 --> Severity: Notice --> Undefined variable: filter_by C:\xampp\htdocs\indokatering\application\models\Content_m.php 204
+ERROR - 20150916213946 --> Severity: Warning --> Missing argument 1 for Content_m::get_media(), called in C:\xampp\htdocs\indokatering\application\controllers\Cms.php on line 383 and defined C:\xampp\htdocs\indokatering\application\models\Content_m.php 201
+ERROR - 20150916213946 --> Severity: Warning --> Missing argument 2 for Content_m::get_media(), called in C:\xampp\htdocs\indokatering\application\controllers\Cms.php on line 383 and defined C:\xampp\htdocs\indokatering\application\models\Content_m.php 201
+ERROR - 20150916213946 --> Severity: Notice --> Undefined variable: filter_by C:\xampp\htdocs\indokatering\application\models\Content_m.php 204
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214636 --> Severity: Notice --> Use of undefined constant UPLOAD_IMAGE_DIR - assumed 'UPLOAD_IMAGE_DIR' C:\xampp\htdocs\indokatering\application\views\admin_media_view_all.php 42
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916214642 --> 404 Page Not Found: Cms/UPLOAD_IMAGE_DIR
+ERROR - 20150916221114 --> Severity: Notice --> Undefined property: Cms::$db_trans C:\xampp\htdocs\indokatering\application\controllers\Cms.php 878
+ERROR - 20150916221114 --> Severity: Error --> Call to a member function insert_data() on a non-object C:\xampp\htdocs\indokatering\application\controllers\Cms.php 878
+ERROR - 20150916222512 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\indokatering\application\controllers\Cms.php 893
+ERROR - 20150916222712 --> Severity: Parsing Error --> syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' C:\xampp\htdocs\indokatering\application\controllers\Cms.php 903
+ERROR - 20150916223741 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150916223751 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150916223952 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114

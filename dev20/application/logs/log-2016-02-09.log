@@ -1,0 +1,4 @@
+ERROR - 20160209190822 --> Severity: Notice --> Undefined property: Users::$bank C:\xampp\htdocs\guruprivat\application\controllers\Users.php 266
+ERROR - 20160209190822 --> Severity: Error --> Call to a member function get_bank_data() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 266
+ERROR - 20160209191329 --> Severity: Notice --> Undefined property: Users::$bank C:\xampp\htdocs\guruprivat\application\controllers\Users.php 266
+ERROR - 20160209191329 --> Severity: Error --> Call to a member function get_bank_data() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 266

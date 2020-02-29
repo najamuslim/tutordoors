@@ -1,0 +1,292 @@
+ERROR - 20150819054134 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819054134 --> Could not find the language line "currency_symbol"
+ERROR - 20150819054648 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819054648 --> Could not find the language line "currency_symbol"
+ERROR - 20150819054656 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819054656 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060239 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060239 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060239 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150819060253 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060253 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060253 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150819060259 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060259 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060259 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150819060338 --> You did not select a file to upload.
+ERROR - 20150819060338 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060338 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060338 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150819060350 --> You did not select a file to upload.
+ERROR - 20150819060350 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060350 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060350 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150819060409 --> You did not select a file to upload.
+ERROR - 20150819060409 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060409 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060409 --> 404 Page Not Found: Assets/uploads
+ERROR - 20150819060439 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060439 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060459 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060459 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060556 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060556 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060736 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060736 --> Could not find the language line "currency_symbol"
+ERROR - 20150819060748 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819060748 --> Could not find the language line "currency_symbol"
+ERROR - 20150819083748 --> Severity: Error --> Call to undefined method Cms::login() C:\xampp\htdocs\makanenak\application\controllers\Cms.php 11
+ERROR - 20150819195404 --> 404 Page Not Found: Stylesheets/bootstrap.css
+ERROR - 20150819195404 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819195404 --> 404 Page Not Found: Images/favicon.png
+ERROR - 20150819195404 --> 404 Page Not Found: Stylesheets/main.css
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/organic-slider-2.jpg
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/organic-slider-1.jpg
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/organic-slider-3.jpg
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/logo.png
+ERROR - 20150819195404 --> 404 Page Not Found: Images/logo-footer.png
+ERROR - 20150819195404 --> 404 Page Not Found: Images/quotes.png
+ERROR - 20150819195404 --> 404 Page Not Found: Images/favicon.png
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195404 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819195703 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\views\organique\home.php 11
+ERROR - 20150819195703 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819195703 --> 404 Page Not Found: Stylesheets/bootstrap.css
+ERROR - 20150819195703 --> 404 Page Not Found: Stylesheets/main.css
+ERROR - 20150819195703 --> 404 Page Not Found: Images/logo.png
+ERROR - 20150819195703 --> 404 Page Not Found: Images/organic-slider-1.jpg
+ERROR - 20150819195703 --> 404 Page Not Found: Images/organic-slider-2.jpg
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/organic-slider-3.jpg
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/logo-footer.png
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/quotes.png
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195703 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Stylesheets/bootstrap.css
+ERROR - 20150819195716 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819195716 --> 404 Page Not Found: Stylesheets/main.css
+ERROR - 20150819195716 --> 404 Page Not Found: Images/logo.png
+ERROR - 20150819195716 --> 404 Page Not Found: Images/organic-slider-1.jpg
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/organic-slider-2.jpg
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/organic-slider-3.jpg
+ERROR - 20150819195716 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/logo-footer.png
+ERROR - 20150819195716 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819195716 --> 404 Page Not Found: Images/quotes.png
+ERROR - 20150819201930 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819201930 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819201930 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819201930 --> 404 Page Not Found: Images/organic-slider-3.jpg
+ERROR - 20150819201930 --> 404 Page Not Found: Images/organic-slider-1.jpg
+ERROR - 20150819201930 --> 404 Page Not Found: Images/organic-slider-2.jpg
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/logo.png
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201930 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201931 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201931 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201931 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201931 --> 404 Page Not Found: Images/logo-footer.png
+ERROR - 20150819201931 --> 404 Page Not Found: Images/quotes.png
+ERROR - 20150819201931 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201931 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819201931 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202034 --> 404 Page Not Found: Images/organic-slider-3.jpg
+ERROR - 20150819202035 --> 404 Page Not Found: Images/organic-slider-2.jpg
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/logo.png
+ERROR - 20150819202035 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202035 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202035 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/organic-slider-1.jpg
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/quotes.png
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/logo-footer.png
+ERROR - 20150819202035 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819202035 --> 404 Page Not Found: Images/organic-slider-2.jpg
+ERROR - 20150819202035 --> 404 Page Not Found: Images/organic-slider-3.jpg
+ERROR - 20150819202035 --> 404 Page Not Found: Images/logo.png
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Bower_components/requirejs
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202225 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202503 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202503 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202503 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202503 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202504 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202514 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202602 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202603 --> 404 Page Not Found: Assets/themes
+ERROR - 20150819202622 --> 404 Page Not Found: Scripts/main.js
+ERROR - 20150819203908 --> 404 Page Not Found: Scripts/main.js
+ERROR - 20150819204733 --> 404 Page Not Found: Scripts/main.js
+ERROR - 20150819205238 --> 404 Page Not Found: Scripts/main.js
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819214347 --> 404 Page Not Found: Images/dummy
+ERROR - 20150819220012 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819220012 --> Could not find the language line "currency_symbol"
+ERROR - 20150819220116 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819220116 --> Could not find the language line "currency_symbol"
+ERROR - 20150819220142 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 207
+ERROR - 20150819220142 --> Could not find the language line "currency_symbol"
+ERROR - 20150819221531 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 248
+ERROR - 20150819221531 --> Could not find the language line "currency_symbol"
+ERROR - 20150819221953 --> Severity: Notice --> Undefined variable: emp_id C:\xampp\htdocs\makanenak\application\views\admin_setting.php 297
+ERROR - 20150819221953 --> Could not find the language line "currency_symbol"
+ERROR - 20150819232136 --> 404 Page Not Found: Single-producthtml/index
+ERROR - 20150819234352 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`makanenak`.`post_categories`, CONSTRAINT `fk_parent_id` FOREIGN KEY (`parent_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `post_categories` (`category`, `slug`, `parent_id`, `category_part`) VALUES ('Menu Lainnya', 'menu-lainnya', '', 'product')
+ERROR - 20150819234352 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 39
+ERROR - 20150819234538 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`makanenak`.`post_categories`, CONSTRAINT `fk_parent_id` FOREIGN KEY (`parent_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `post_categories` (`category`, `slug`, `parent_id`, `category_part`) VALUES ('Menu Lainnya', 'menu-lainnya', '', 'product')
+ERROR - 20150819234538 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\makanenak\application\libraries\Db_trans.php 39
+ERROR - 20150819234835 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 144
+ERROR - 20150819234844 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 144
+ERROR - 20150819234949 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 144
+ERROR - 20150819235036 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Cms.php 145

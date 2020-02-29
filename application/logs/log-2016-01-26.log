@@ -1,0 +1,13 @@
+ERROR - 20160126055235 --> 404 Page Not Found: Frontpage/%3C
+ERROR - 20160126104207 --> Severity: Parsing Error --> syntax error, unexpected 'count' (T_STRING) C:\xampp\htdocs\guruprivat\application\controllers\Order.php 19
+ERROR - 20160126110618 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\guruprivat\application\controllers\Order.php 23
+ERROR - 20160126110618 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 24
+ERROR - 20160126110618 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 25
+ERROR - 20160126110618 --> Severity: Notice --> Undefined variable: id C:\xampp\htdocs\guruprivat\application\controllers\Order.php 23
+ERROR - 20160126110618 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 24
+ERROR - 20160126110618 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Order.php 25
+ERROR - 20160126191427 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\guruprivat\application\controllers\Order.php 49
+ERROR - 20160126191502 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\guruprivat\application\controllers\Order.php 49
+ERROR - 20160126191533 --> Severity: Error --> Call to private method Order::check_input_schedule() from context 'CI_Form_validation' C:\xampp\htdocs\guruprivat\system\libraries\Form_validation.php 744
+ERROR - 20160126191554 --> Could not find the language line "form_validation_check_input_schedule"
+ERROR - 20160126191602 --> Could not find the language line "form_validation_check_input_schedule"

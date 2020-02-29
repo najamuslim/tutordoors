@@ -1,0 +1,5 @@
+ERROR - 20151012160436 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 45
+ERROR - 20151012214311 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 419
+ERROR - 20151012214328 --> 404 Page Not Found: Users/logout
+ERROR - 20151012214350 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 419
+ERROR - 20151012214502 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 419

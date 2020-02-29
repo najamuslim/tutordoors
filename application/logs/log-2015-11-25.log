@@ -1,0 +1,68 @@
+ERROR - 20151125140458 --> Query error: Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '=' - Invalid query: SELECT *
+FROM `post_comments` `pc`
+JOIN `users` `u` ON `pc`.`user_id` = `u`.`user_id`
+WHERE `post_id` = '64'
+ORDER BY `pc`.`entry_timestamp` desc
+ERROR - 20151125140458 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151125140526 --> Query error: Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '=' - Invalid query: SELECT *
+FROM `post_comments` `pc`
+JOIN `users` `u` ON `pc`.`user_id` = `u`.`user_id`
+WHERE `pc`.`post_id` = '64'
+ORDER BY `pc`.`entry_timestamp` desc
+ERROR - 20151125140526 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151125140545 --> Query error: Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation '=' - Invalid query: SELECT *
+FROM `post_comments` `pc`
+JOIN `users` `u` ON `pc`.`user_id` = `u`.`user_id`
+WHERE `pc`.`post_id` = '64'
+ORDER BY `pc`.`entry_timestamp` desc
+ERROR - 20151125140545 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151125142445 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125142607 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125142813 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125143627 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125143744 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125144013 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125144115 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125144429 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125152140 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125152343 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125153204 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125154414 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125154549 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125154619 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125154711 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125154918 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155006 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155038 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155448 --> 404 Page Not Found: Cms/submit_comment
+ERROR - 20151125155503 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155507 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155521 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155522 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155523 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155523 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155523 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155523 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155523 --> Query error: Column 'post_id' cannot be null - Invalid query: INSERT INTO `post_comments` (`post_id`, `content`, `rating`, `user_id`) VALUES (NULL, NULL, NULL, NULL)
+ERROR - 20151125155632 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155709 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125155931 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125160016 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125160029 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125160042 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125160107 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125160414 --> 404 Page Not Found: Assets/themes
+ERROR - 20151125160427 --> 404 Page Not Found: Assets/themes

@@ -1,0 +1,9 @@
+ERROR - 20150813060535 --> 404 Page Not Found: Emp/data
+ERROR - 20150813060736 --> Severity: Notice --> Undefined variable: users C:\xampp\htdocs\makanenak\application\views\user_view_all.php 40
+ERROR - 20150813060827 --> Severity: Notice --> Undefined variable: users C:\xampp\htdocs\makanenak\application\views\user_view_all.php 40
+ERROR - 20150813061410 --> Severity: Notice --> Undefined property: stdClass::$user_id C:\xampp\htdocs\makanenak\application\views\user_view_all.php 43
+ERROR - 20150813061410 --> Severity: Notice --> Undefined property: stdClass::$email_login C:\xampp\htdocs\makanenak\application\views\user_view_all.php 44
+ERROR - 20150813061410 --> Severity: Notice --> Undefined property: stdClass::$user_id C:\xampp\htdocs\makanenak\application\views\user_view_all.php 51
+ERROR - 20150813061410 --> Severity: Notice --> Undefined property: stdClass::$user_id C:\xampp\htdocs\makanenak\application\views\user_view_all.php 56
+ERROR - 20150813070939 --> 404 Page Not Found: Emp/data
+ERROR - 20150813071139 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\makanenak\application\views\admin_user_creation.php 51

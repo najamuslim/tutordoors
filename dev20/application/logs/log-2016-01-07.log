@@ -1,0 +1,62 @@
+ERROR - 20160107060728 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107060836 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107060852 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107060908 --> Severity: Error --> Call to undefined method Frontpage::check_user_access() C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 579
+ERROR - 20160107060943 --> Severity: Notice --> Undefined variable: page_title C:\xampp\htdocs\guruprivat\application\views\iknow\header.php 11
+ERROR - 20160107060944 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107060944 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061147 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 583
+ERROR - 20160107061149 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061149 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061253 --> Query error: Column 'user_id' in where clause is ambiguous - Invalid query: SELECT *
+FROM `users` `u`
+JOIN `user_info_data` `ui` ON `u`.`user_id` = `ui`.`user_id`
+LEFT JOIN `media_files` `m` ON `ui`.`photo_primary_id` = `m`.`id`
+WHERE `user_id` = 'qsRIG09146'
+ERROR - 20160107061253 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 28
+ERROR - 20160107061321 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061321 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061345 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061345 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061555 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061555 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061838 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061838 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061902 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107061902 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062017 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062017 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062157 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062157 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062612 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 34
+ERROR - 20160107062615 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062615 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062637 --> Severity: Error --> Cannot use object of type stdClass as array C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 34
+ERROR - 20160107062638 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062638 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062650 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062650 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062731 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062731 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062836 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107062836 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107063309 --> 404 Page Not Found: Profile/teacher
+ERROR - 20160107063547 --> Severity: Notice --> Undefined variable: sub_page_title C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 4
+ERROR - 20160107070257 --> 404 Page Not Found: Assets/themes
+ERROR - 20160107145539 --> Severity: Notice --> Undefined variable: filter_by C:\xampp\htdocs\guruprivat\application\models\Course_m.php 41
+ERROR - 20160107160910 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\guruprivat\application\views\iknow\my_account.php 60
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 66
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 67
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 71
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 75
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 79
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 83
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 87
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 91
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 95
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 99
+ERROR - 20160107161245 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 103
+ERROR - 20160107162800 --> Severity: Warning --> getimagesize(C:/xampp/htdocs/guruprivat/assets/uploads): failed to open stream: Permission denied C:\xampp\htdocs\guruprivat\system\libraries\Image_lib.php 1637
+ERROR - 20160107162800 --> Your server does not support the GD function required to process this type of image.
+ERROR - 20160107162820 --> Severity: Warning --> getimagesize(C:/xampp/htdocs/guruprivat/assets/uploads): failed to open stream: Permission denied C:\xampp\htdocs\guruprivat\system\libraries\Image_lib.php 1637
+ERROR - 20160107162820 --> Your server does not support the GD function required to process this type of image.

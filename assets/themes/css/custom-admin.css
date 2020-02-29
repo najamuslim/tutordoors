@@ -1,0 +1,42 @@
+/* This CSS only for custom style in Admin page */
+
+.wrong-submitted-answer{
+	font-style: italic;
+	color: #E62129;
+}
+.right-submitted-answer{
+	font-style: italic;
+	color: #3ADF00;
+}
+.label-required{
+	color: #ff0000;
+	font-style: italic;
+}
+.table-question img, .table-question p{
+	max-width: 400px
+}
+
+.left-inner-addon {
+    position: relative;
+}
+.left-inner-addon input {
+    padding-left: 22px;    
+}
+.left-inner-addon span {
+    position: absolute;
+    padding: 7px 12px;
+    pointer-events: none;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon span {
+    position: absolute;
+    right: 0px;
+    padding: 7px 12px;
+    pointer-events: none;
+}

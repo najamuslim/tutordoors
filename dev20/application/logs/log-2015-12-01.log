@@ -1,0 +1,5 @@
+ERROR - 20151201161826 --> 404 Page Not Found: Cms/coupon_report_all
+ERROR - 20151201165523 --> 404 Page Not Found: Assets/themes
+ERROR - 20151201202336 --> Severity: Parsing Error --> syntax error, unexpected '>' C:\xampp\htdocs\midaonline\application\views\raboda\login.php 35
+ERROR - 20151201202336 --> Severity: Parsing Error --> syntax error, unexpected '>' C:\xampp\htdocs\midaonline\application\views\raboda\login.php 35
+ERROR - 20151201202352 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\midaonline\application\views\raboda\forgot_password.php 64

@@ -1,0 +1,268 @@
+ERROR - 20151019103311 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 50
+ERROR - 20151019103541 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 51
+ERROR - 20151019110923 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 59
+ERROR - 20151019152052 --> 404 Page Not Found: Assets/themes
+ERROR - 20151019152117 --> 404 Page Not Found: Assets/uploads
+ERROR - 20151019163829 --> You did not select a file to upload.
+ERROR - 20151019163829 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 641
+ERROR - 20151019164035 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 710
+ERROR - 20151019164135 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 711
+ERROR - 20151019164531 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 593
+ERROR - 20151019164531 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (51, 'GTGTGETGT', '25', '111111', '222222', 'Rp')
+ERROR - 20151019164531 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 685
+ERROR - 20151019164531 --> You did not select a file to upload.
+ERROR - 20151019164531 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 641
+ERROR - 20151019164531 --> Severity: Notice --> Undefined variable: product_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 701
+ERROR - 20151019164531 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 228
+ERROR - 20151019164944 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (52, 'RFRSGTHFYY', '10', '10000', '14000', 'Rp')
+ERROR - 20151019164944 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 685
+ERROR - 20151019164944 --> You did not select a file to upload.
+ERROR - 20151019164944 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 641
+ERROR - 20151019164944 --> Severity: Notice --> Undefined variable: product_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 709
+ERROR - 20151019164944 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 43
+ERROR - 20151019164944 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 87
+ERROR - 20151019164944 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 94
+ERROR - 20151019164944 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 101
+ERROR - 20151019165043 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (53, 'EREREETTRTR', '11', '111', '122', 'Rp')
+ERROR - 20151019165043 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 685
+ERROR - 20151019165043 --> You did not select a file to upload.
+ERROR - 20151019165043 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 641
+ERROR - 20151019165209 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (54, 'EREREETTRTR', '11', '111', '122', 'Rp')
+ERROR - 20151019165209 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 686
+ERROR - 20151019165210 --> You did not select a file to upload.
+ERROR - 20151019165210 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 641
+ERROR - 20151019165312 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (55, 'EREREETTRTR', '11', '111', '122', 'Rp')
+ERROR - 20151019165312 --> Severity: Notice --> Undefined property: Cms::$any_error C:\xampp\htdocs\midaonline\application\controllers\Cms.php 684
+ERROR - 20151019165312 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 686
+ERROR - 20151019165313 --> You did not select a file to upload.
+ERROR - 20151019165313 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given C:\xampp\htdocs\midaonline\application\controllers\Cms.php 641
+ERROR - 20151019165342 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (56, 'EREREETTRTR', '11', '111', '122', 'Rp')
+ERROR - 20151019165342 --> You did not select a file to upload.
+ERROR - 20151019165438 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (57, 'EREREETTRTR', '11', '111', '122', 'Rp')
+ERROR - 20151019165439 --> You did not select a file to upload.
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 57 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 56 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 55 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 54 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 53 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 52 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165439 --> Severity: Notice --> Undefined offset: 51 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165439 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 57 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 56 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 55 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 54 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 53 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 52 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019165833 --> Severity: Notice --> Undefined offset: 51 C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019165833 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170207 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined property: stdClass::$post_id C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170207 --> Severity: Notice --> Undefined index:  C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 54
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170505 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 58
+ERROR - 20151019170558 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170642 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 65
+ERROR - 20151019170825 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 43
+ERROR - 20151019170825 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 87
+ERROR - 20151019170825 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 94
+ERROR - 20151019170825 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 101
+ERROR - 20151019171105 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 87
+ERROR - 20151019171105 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 94
+ERROR - 20151019171105 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 101
+ERROR - 20151019171203 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 87
+ERROR - 20151019171203 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 94
+ERROR - 20151019171203 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 101
+ERROR - 20151019171522 --> Query error: Unknown column 'stock_id' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `stock_id`, `stock_qty`, `price_buy`, `price_sell`, `currency`) VALUES (58, 'CBCBCBCB', '5', '5000', '10000', 'Rp')
+ERROR - 20151019171523 --> You did not select a file to upload.
+ERROR - 20151019171711 --> You did not select a file to upload.
+ERROR - 20151019172741 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 583
+ERROR - 20151019172741 --> You did not select a file to upload.
+ERROR - 20151019172741 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 123
+ERROR - 20151019172821 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 123
+ERROR - 20151019172953 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 585
+ERROR - 20151019172953 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 220
+ERROR - 20151019173042 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 943
+ERROR - 20151019173130 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019173133 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 943
+ERROR - 20151019175910 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019175910 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019175910 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019175910 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019175911 --> You did not select a file to upload.
+ERROR - 20151019175914 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 959
+ERROR - 20151019175941 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019175941 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019175941 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019175941 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019175945 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 959
+ERROR - 20151019194011 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 959
+ERROR - 20151019194030 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019194030 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019194030 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019194031 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019194036 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 959
+ERROR - 20151019194851 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 959
+ERROR - 20151019194858 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019194858 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019194858 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019194858 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019194900 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 959
+ERROR - 20151019194950 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019194950 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019194950 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019194950 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019194952 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 960
+ERROR - 20151019195102 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019195102 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019195102 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 588
+ERROR - 20151019195102 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 75
+ERROR - 20151019195107 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 960
+ERROR - 20151019201548 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 63
+ERROR - 20151019202152 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202152 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202152 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202209 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202209 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202209 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202216 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202216 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202216 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202239 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202239 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202239 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202246 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202246 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202246 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202253 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202253 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202253 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202300 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202300 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202300 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202306 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202306 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202306 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019202312 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 556
+ERROR - 20151019202312 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\midaonline\application\models\Common.php 40
+ERROR - 20151019202312 --> Severity: Warning --> unlink(./assets/uploads/): Permission denied C:\xampp\htdocs\midaonline\application\controllers\Cms.php 562
+ERROR - 20151019205005 --> Severity: Parsing Error --> syntax error, unexpected '$add_cat' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 854
+ERROR - 20151019205833 --> 404 Page Not Found: Assets/uploads

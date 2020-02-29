@@ -1,0 +1,2 @@
+ERROR - 20160211163235 --> Severity: Notice --> Undefined variable: invoice_id C:\xampp\htdocs\guruprivat\application\views\email_tpl\course_request_confirmed.php 29
+ERROR - 20160211163235 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\guruprivat\application\views\email_tpl\course_request_confirmed.php 37

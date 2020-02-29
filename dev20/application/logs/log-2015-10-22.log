@@ -1,0 +1,87 @@
+ERROR - 20151022045309 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151022091358 --> 404 Page Not Found: Product/root_cat
+ERROR - 20151022091609 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 430
+ERROR - 20151022091609 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 431
+ERROR - 20151022091609 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 432
+ERROR - 20151022091609 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 430
+ERROR - 20151022091609 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 431
+ERROR - 20151022091609 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 432
+ERROR - 20151022091836 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 437
+ERROR - 20151022091836 --> Severity: Warning --> Creating default object from empty value C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 437
+ERROR - 20151022093112 --> 404 Page Not Found: Product/root_cat
+ERROR - 20151022093112 --> 404 Page Not Found: Product/root_cat
+ERROR - 20151022093115 --> 404 Page Not Found: Product/root_cat
+ERROR - 20151022093115 --> 404 Page Not Found: Product/root_cat
+ERROR - 20151022093115 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022093221 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022093432 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022093509 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 425
+ERROR - 20151022093522 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022093808 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022103944 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151022105314 --> Severity: Parsing Error --> syntax error, unexpected '{' C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 106
+ERROR - 20151022105331 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022105504 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022105538 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022105709 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022110432 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022110453 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022110542 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022110639 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022110808 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022120245 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`id`, `pc`.`category`, `pc`.`slug`
+FROM `posts` `p`
+JOIN `post_categories_mappi' at line 1 - Invalid query: SELECT `DISTINCT` `pc`.`id`, `pc`.`category`, `pc`.`slug`
+FROM `posts` `p`
+JOIN `post_categories_mapping` `pcm` ON `p`.`id` = `pcm`.`post_id`
+JOIN `post_categories` `pc` ON `pcm`.`category_id` = `pc`.`id`
+JOIN `post_categories` `pc_pc` ON `p`.`category` = `pc_pc`.`id`
+WHERE `pc_pc`.`slug` = 'pakaian'
+ERROR - 20151022120245 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151022120315 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`id`, `pc`.`category`, `pc`.`slug`
+FROM `posts` `p`
+JOIN `post_categories_mappi' at line 1 - Invalid query: SELECT `DISTINCT` `pc`.`id`, `pc`.`category`, `pc`.`slug`
+FROM `posts` `p`
+JOIN `post_categories_mapping` `pcm` ON `p`.`id` = `pcm`.`post_id`
+JOIN `post_categories` `pc` ON `pcm`.`category_id` = `pc`.`id`
+JOIN `post_categories` `pc_pc` ON `p`.`category` = `pc_pc`.`id`
+WHERE `pc_pc`.`slug` = 'pakaian'
+ERROR - 20151022120315 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\libraries\Db_trans.php 21
+ERROR - 20151022120442 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022120759 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022120911 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022121013 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022122414 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022125106 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022125448 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022125915 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022125946 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130029 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130130 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130251 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130316 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 396
+ERROR - 20151022130407 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130441 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130521 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130640 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022130948 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131017 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131244 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131348 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131410 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131453 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131517 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Frontpage.php 240
+ERROR - 20151022131630 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131811 --> Severity: Notice --> Undefined variable: slug C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 82
+ERROR - 20151022131815 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022131843 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022151759 --> Severity: Parsing Error --> syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 94
+ERROR - 20151022151817 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 94
+ERROR - 20151022151858 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\midaonline\application\views\raboda\products_grid_view.php 104
+ERROR - 20151022170912 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022170915 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022170919 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151022170928 --> 404 Page Not Found: Assets/uploads
+ERROR - 20151022170930 --> 404 Page Not Found: Assets/uploads
+ERROR - 20151022170931 --> 404 Page Not Found: Assets/themes
+ERROR - 20151022170941 --> 404 Page Not Found: Assets/uploads

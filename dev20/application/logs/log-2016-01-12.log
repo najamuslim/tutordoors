@@ -1,0 +1,9 @@
+ERROR - 20160112094501 --> Severity: Notice --> Undefined property: stdClass::$course_id C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 105
+ERROR - 20160112094501 --> Severity: Notice --> Undefined property: stdClass::$course_id C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 105
+ERROR - 20160112094501 --> Severity: Notice --> Undefined property: stdClass::$course_id C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 105
+ERROR - 20160112094606 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\preparing_order.php 4
+ERROR - 20160112094734 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\preparing_order.php 4
+ERROR - 20160112095226 --> Query error: Duplicate entry 'qsRIG09146-4' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('qsRIG09146', '4', '60000')
+ERROR - 20160112095233 --> Severity: Error --> Call to undefined method Course_m::get_course_data() C:\xampp\htdocs\guruprivat\application\controllers\Course.php 79
+ERROR - 20160112105126 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\preparing_order.php 49
+ERROR - 20160112105126 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\preparing_order.php 50

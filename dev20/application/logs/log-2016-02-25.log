@@ -1,0 +1,231 @@
+ERROR - 20160225101326 --> 404 Page Not Found: Frontpage/edit_open_course
+ERROR - 20160225101353 --> Severity: Error --> Call to undefined method Teacher::get_user_info() C:\xampp\htdocs\guruprivat\application\core\MY_Controller.php 57
+ERROR - 20160225101705 --> Severity: Error --> Call to undefined method Teacher::set_image_thumb_name() C:\xampp\htdocs\guruprivat\application\core\MY_Controller.php 61
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 31
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 37
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 43
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 58
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 64
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 79
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 85
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 100
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 106
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 112
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 118
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 148
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 154
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 160
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 175
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 181
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 196
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 202
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 208
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 230
+ERROR - 20160225102348 --> Severity: Notice --> Undefined variable: asm_1 C:\xampp\htdocs\guruprivat\application\views\admin\sidebar_left.php 235
+ERROR - 20160225132510 --> 404 Page Not Found: Frontpage/edit_profile
+ERROR - 20160225200920 --> Query error: Unknown column 'tariff_hourly' in 'field list' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('UCcLv49554', 'all', '')
+ERROR - 20160225200923 --> Query error: Unknown column 'tariff_hourly' in 'field list' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('UCcLv49554', NULL, NULL)
+ERROR - 20160225201059 --> Query error: Unknown column 'tariff_hourly' in 'field list' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('UCcLv49554', 'all', 'undefined')
+ERROR - 20160225201102 --> Query error: Unknown column 'tariff_hourly' in 'field list' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('UCcLv49554', NULL, NULL)
+ERROR - 20160225201422 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`hexxa_guruprivat`.`teacher_open_courses`, CONSTRAINT `fk_course_cat` FOREIGN KEY (`course_category_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`) VALUES ('UCcLv49554', 'all')
+ERROR - 20160225201426 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225201429 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225201834 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`hexxa_guruprivat`.`teacher_open_courses`, CONSTRAINT `fk_course_cat` FOREIGN KEY (`course_category_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`) VALUES ('UCcLv49554', '')
+ERROR - 20160225201843 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225201848 --> Query error: Duplicate entry 'UCcLv49554-2' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`) VALUES ('UCcLv49554', '2')
+ERROR - 20160225201849 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225201852 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225202048 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225204915 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205100 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205203 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205221 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205255 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205345 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205409 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205532 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205554 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225205601 --> Severity: Error --> Call to undefined method Course_m::get_open_city() C:\xampp\htdocs\guruprivat\application\controllers\Teacher.php 66
+ERROR - 20160225205633 --> Severity: Notice --> Undefined property: stdClass::$tariff_hourly C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 97
+ERROR - 20160225205633 --> Severity: Notice --> Undefined property: stdClass::$tariff_hourly C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 97
+ERROR - 20160225205702 --> Severity: Notice --> Undefined property: stdClass::$tariff_hourly C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 97
+ERROR - 20160225205702 --> Severity: Notice --> Undefined property: stdClass::$tariff_hourly C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 97
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210301 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210352 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 245
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 248
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 249
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 250
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210430 --> Severity: Notice --> Undefined variable: course C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 252
+ERROR - 20160225210520 --> 404 Page Not Found: Course/add_course
+ERROR - 20160225211217 --> Severity: Warning --> Missing argument 1 for Db_trans::return_select_first_row(), called in C:\xampp\htdocs\guruprivat\application\models\Teacher_m.php on line 18 and defined C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 27
+ERROR - 20160225211217 --> Severity: Notice --> Undefined variable: result C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 28
+ERROR - 20160225211217 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 28
+ERROR - 20160225211229 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\guruprivat\application\views\iknow\profile.php 54
+ERROR - 20160225211252 --> Severity: Error --> Call to undefined method stdClass::row() C:\xampp\htdocs\guruprivat\application\controllers\Teacher.php 68
+ERROR - 20160225211301 --> Severity: Notice --> Undefined property: stdClass::$courses C:\xampp\htdocs\guruprivat\application\controllers\Teacher.php 68
+ERROR - 20160225212152 --> 404 Page Not Found: Frontpage/edit_profile

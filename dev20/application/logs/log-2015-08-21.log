@@ -1,0 +1,101 @@
+ERROR - 20150821055620 --> Severity: Notice --> Undefined variable: menu_today C:\xampp\htdocs\makanenak\application\views\organique\home.php 213
+ERROR - 20150821055620 --> Severity: Notice --> Undefined variable: menu_other C:\xampp\htdocs\makanenak\application\views\organique\home.php 303
+ERROR - 20150821055829 --> Severity: Notice --> Undefined variable: menu_today C:\xampp\htdocs\makanenak\application\views\organique\home.php 213
+ERROR - 20150821055829 --> Severity: Notice --> Undefined variable: menu_other C:\xampp\htdocs\makanenak\application\views\organique\home.php 303
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060011 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060352 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060412 --> 404 Page Not Found: Product/images
+ERROR - 20150821060636 --> 404 Page Not Found: Product/images
+ERROR - 20150821060636 --> 404 Page Not Found: Product/images
+ERROR - 20150821060636 --> 404 Page Not Found: Product/images
+ERROR - 20150821060636 --> 404 Page Not Found: Product/images
+ERROR - 20150821060656 --> 404 Page Not Found: Product/images
+ERROR - 20150821060656 --> 404 Page Not Found: Product/images
+ERROR - 20150821060656 --> 404 Page Not Found: Product/images
+ERROR - 20150821060656 --> 404 Page Not Found: Product/images
+ERROR - 20150821060656 --> 404 Page Not Found: Product/images
+ERROR - 20150821060954 --> 404 Page Not Found: Product/images
+ERROR - 20150821060954 --> 404 Page Not Found: Product/images
+ERROR - 20150821060954 --> 404 Page Not Found: Product/images
+ERROR - 20150821060954 --> 404 Page Not Found: Product/images
+ERROR - 20150821061206 --> 404 Page Not Found: Product/images
+ERROR - 20150821061206 --> 404 Page Not Found: Product/images
+ERROR - 20150821061206 --> 404 Page Not Found: Product/images
+ERROR - 20150821061206 --> 404 Page Not Found: Product/images
+ERROR - 20150821061357 --> Severity: Notice --> Undefined index: post C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 67
+ERROR - 20150821061357 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 67
+ERROR - 20150821061412 --> Severity: Error --> Call to undefined method stdClass::result() C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 67
+ERROR - 20150821061455 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\views\organique\single_product.php 34
+ERROR - 20150821061455 --> 404 Page Not Found: Product/images
+ERROR - 20150821061455 --> 404 Page Not Found: Product/images
+ERROR - 20150821061455 --> 404 Page Not Found: Product/images
+ERROR - 20150821061455 --> 404 Page Not Found: Product/images
+ERROR - 20150821061611 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 72
+ERROR - 20150821061611 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 72
+ERROR - 20150821061611 --> Severity: Notice --> Undefined variable: row C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 72
+ERROR - 20150821061611 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\Frontpage.php 72
+ERROR - 20150821061611 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\views\organique\single_product.php 34
+ERROR - 20150821061611 --> 404 Page Not Found: Product/images
+ERROR - 20150821061611 --> 404 Page Not Found: Product/images
+ERROR - 20150821061611 --> 404 Page Not Found: Product/images
+ERROR - 20150821061611 --> 404 Page Not Found: Product/images
+ERROR - 20150821061626 --> 404 Page Not Found: Product/images
+ERROR - 20150821061626 --> 404 Page Not Found: Product/images
+ERROR - 20150821061626 --> 404 Page Not Found: Product/images
+ERROR - 20150821061626 --> 404 Page Not Found: Product/images
+ERROR - 20150821061724 --> 404 Page Not Found: Product/images
+ERROR - 20150821061724 --> 404 Page Not Found: Product/images
+ERROR - 20150821061724 --> 404 Page Not Found: Product/images
+ERROR - 20150821061724 --> 404 Page Not Found: Product/images
+ERROR - 20150821061736 --> 404 Page Not Found: Product/images
+ERROR - 20150821061736 --> 404 Page Not Found: Product/images
+ERROR - 20150821061736 --> 404 Page Not Found: Product/images
+ERROR - 20150821061736 --> 404 Page Not Found: Product/images
+ERROR - 20150821061923 --> 404 Page Not Found: Product/images
+ERROR - 20150821061923 --> 404 Page Not Found: Product/images
+ERROR - 20150821061923 --> 404 Page Not Found: Product/images
+ERROR - 20150821061923 --> 404 Page Not Found: Product/images
+ERROR - 20150821061923 --> 404 Page Not Found: Product/images
+ERROR - 20150821061923 --> 404 Page Not Found: Product/images
+ERROR - 20150821061957 --> 404 Page Not Found: Product/images
+ERROR - 20150821061957 --> 404 Page Not Found: Product/images
+ERROR - 20150821061957 --> 404 Page Not Found: Product/images
+ERROR - 20150821061957 --> 404 Page Not Found: Product/images
+ERROR - 20150821061957 --> 404 Page Not Found: Product/images
+ERROR - 20150821061957 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062014 --> 404 Page Not Found: Product/images
+ERROR - 20150821062245 --> 404 Page Not Found: Product/images
+ERROR - 20150821062245 --> 404 Page Not Found: Product/images
+ERROR - 20150821062245 --> 404 Page Not Found: Product/images
+ERROR - 20150821062245 --> 404 Page Not Found: Product/images
+ERROR - 20150821071707 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\makanenak\application\controllers\Order.php 23
+ERROR - 20150821223559 --> Severity: Notice --> Undefined property: Order::$content C:\xampp\htdocs\makanenak\application\controllers\Order.php 27
+ERROR - 20150821223559 --> Severity: Error --> Call to a member function get_post_data() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 27
+ERROR - 20150821223630 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\Order.php 29
+ERROR - 20150821223746 --> Severity: Parsing Error --> syntax error, unexpected 'dest' (T_STRING), expecting variable (T_VARIABLE) C:\xampp\htdocs\makanenak\application\controllers\Order.php 46

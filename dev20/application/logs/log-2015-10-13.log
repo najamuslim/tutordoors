@@ -1,0 +1,96 @@
+ERROR - 20151013050809 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 50
+ERROR - 20151013055925 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060025 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060104 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060125 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060226 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060326 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060426 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060526 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060626 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060726 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060826 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013060926 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061026 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061126 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061226 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061326 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061426 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061527 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061627 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061727 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061827 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013061927 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062027 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062127 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062227 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062327 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062427 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062527 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062627 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013062727 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 548
+ERROR - 20151013101948 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 50
+ERROR - 20151013102450 --> Query error: Column 'type' cannot be null - Invalid query: INSERT INTO `posts` (`title`, `type`, `content`, `tags`, `status`, `author`, `url`) VALUES ('', NULL, NULL, NULL, NULL, 'EkyUU12669', NULL)
+ERROR - 20151013102450 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 547
+ERROR - 20151013102450 --> Query error: Unknown column 'price' in 'field list' - Invalid query: INSERT INTO `products` (`post_id`, `price`, `discount_per_item`, `quantity_get_discount`, `discount_on_quantity`, `currency`) VALUES (0, NULL, NULL, NULL, NULL, 'Rp')
+ERROR - 20151013102802 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102802 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102802 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$price C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 50
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$equal_to_point C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 51
+ERROR - 20151013102803 --> Severity: Notice --> Undefined property: stdClass::$discount C:\xampp\htdocs\midaonline\application\views\admin\product_view_all.php 52
+ERROR - 20151013103745 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 187
+ERROR - 20151013103745 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 47
+ERROR - 20151013103745 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 47
+ERROR - 20151013103746 --> Severity: Warning --> Missing argument 1 for Cms::get_category_under_root() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 837
+ERROR - 20151013103746 --> Severity: Notice --> Undefined variable: root_id C:\xampp\htdocs\midaonline\application\controllers\Cms.php 840
+ERROR - 20151013105622 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 51
+ERROR - 20151013105622 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 51
+ERROR - 20151013105622 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013105706 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013105718 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013105909 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013110751 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013111052 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013111115 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013111452 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013111617 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013111641 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013111709 --> Severity: Notice --> Undefined variable: currenct_root_category C:\xampp\htdocs\midaonline\application\views\admin\product_creation.php 219
+ERROR - 20151013133512 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 192
+ERROR - 20151013133524 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 192
+ERROR - 20151013133613 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 192
+ERROR - 20151013133625 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 192
+ERROR - 20151013142354 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\midaonline\application\controllers\Cms.php 853
+ERROR - 20151013142354 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 853
+ERROR - 20151013142354 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\midaonline\application\controllers\Cms.php 855
+ERROR - 20151013142354 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 855
+ERROR - 20151013142424 --> Severity: Notice --> Undefined variable: category C:\xampp\htdocs\midaonline\application\controllers\Cms.php 855
+ERROR - 20151013142424 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 855

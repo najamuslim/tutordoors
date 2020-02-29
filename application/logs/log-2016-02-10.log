@@ -1,0 +1,46 @@
+ERROR - 20160210075749 --> Severity: Notice --> Undefined variable: upd_info C:\xampp\htdocs\guruprivat\application\controllers\Users.php 532
+ERROR - 20160210075749 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 166
+ERROR - 20160210075749 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 167
+ERROR - 20160210080119 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 96
+ERROR - 20160210080119 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 97
+ERROR - 20160210080119 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 98
+ERROR - 20160210080119 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 99
+ERROR - 20160210080123 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 96
+ERROR - 20160210080123 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 97
+ERROR - 20160210080123 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 98
+ERROR - 20160210080123 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 99
+ERROR - 20160210080132 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 96
+ERROR - 20160210080132 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 97
+ERROR - 20160210080132 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 98
+ERROR - 20160210080132 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 99
+ERROR - 20160210080139 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 96
+ERROR - 20160210080139 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 97
+ERROR - 20160210080139 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 98
+ERROR - 20160210080139 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 99
+ERROR - 20160210080143 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 96
+ERROR - 20160210080143 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 97
+ERROR - 20160210080143 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 98
+ERROR - 20160210080143 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Course.php 99
+ERROR - 20160210081634 --> Severity: Notice --> Undefined variable: upd_info C:\xampp\htdocs\guruprivat\application\controllers\Users.php 532
+ERROR - 20160210081634 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 166
+ERROR - 20160210081634 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 167
+ERROR - 20160210085117 --> Severity: Notice --> Undefined variable: filter_by C:\xampp\htdocs\guruprivat\application\models\User_m.php 13
+ERROR - 20160210101943 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160210101943 --> Unable to connect to the database
+ERROR - 20160210101946 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160210101948 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160210101948 --> Unable to connect to the database
+ERROR - 20160210101948 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20160210102009 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160210102009 --> Unable to connect to the database
+ERROR - 20160210102011 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160210102013 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20160210102013 --> Unable to connect to the database
+ERROR - 20160210102013 --> Severity: Error --> Call to a member function query() on a non-object C:\xampp\htdocs\guruprivat\system\database\drivers\mysqli\mysqli_driver.php 221
+ERROR - 20160210112007 --> Severity: Parsing Error --> syntax error, unexpected '$user_info' (T_VARIABLE) C:\xampp\htdocs\guruprivat\application\controllers\Order.php 164

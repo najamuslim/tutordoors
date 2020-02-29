@@ -1,0 +1,26 @@
+ERROR - 20150917060550 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917062602 --> Severity: Notice --> Undefined variable: slider C:\xampp\htdocs\indokatering\application\views\admin_home_image_slider_view_all.php 56
+ERROR - 20150917063405 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\indokatering\application\controllers\Cms.php 78
+ERROR - 20150917063730 --> Severity: Notice --> Undefined variable: posts C:\xampp\htdocs\indokatering\application\views\admin_home_image_slider_view_all.php 54
+ERROR - 20150917110045 --> Severity: Notice --> Undefined variable: asm_2 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 77
+ERROR - 20150917110045 --> Severity: Notice --> Undefined variable: asm_2 C:\xampp\htdocs\indokatering\application\views\admin_sidebar_left.php 83
+ERROR - 20150917110202 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917111045 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\indokatering\application\controllers\Cms.php 106
+ERROR - 20150917112029 --> Severity: Error --> Call to undefined method stdClass::row() C:\xampp\htdocs\indokatering\application\controllers\Cms.php 83
+ERROR - 20150917113211 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\indokatering\application\controllers\Cms.php 409
+ERROR - 20150917113249 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\indokatering\application\views\admin_home_image_slider_view_all.php 35
+ERROR - 20150917114940 --> Severity: Notice --> Undefined index: image_slider C:\xampp\htdocs\indokatering\application\controllers\Frontpage.php 131
+ERROR - 20150917114940 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\indokatering\application\controllers\Frontpage.php 131
+ERROR - 20150917114958 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917115035 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917115057 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917115430 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917120548 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140109 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140109 --> Severity: Parsing Error --> syntax error, unexpected ')' C:\xampp\htdocs\indokatering\application\views\organique\home.php 6
+ERROR - 20150917140129 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140557 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140631 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140652 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140808 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114
+ERROR - 20150917140821 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\indokatering\application\views\organique\header.php 114

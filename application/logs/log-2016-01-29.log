@@ -1,0 +1,293 @@
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: sub_page_title C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 4
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 21
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 38
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 39
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: unread_message C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 39
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 50
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 52
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 53
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: am C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 55
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 24
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 25
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 29
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 33
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 37
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 41
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 45
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 49
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 53
+ERROR - 20160129055627 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 57
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: image_thumb C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 21
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: unread_message C:\xampp\htdocs\guruprivat\application\views\iknow\sidebar_menu.php 39
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 24
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 25
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 29
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 33
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 37
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 41
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 45
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 49
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 53
+ERROR - 20160129055803 --> Severity: Notice --> Undefined variable: user_info C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 57
+ERROR - 20160129062233 --> Query error: Unknown column 'order_id' in 'field list' - Invalid query: INSERT INTO `payment_transfer` (`order_id`, `sender_name`, `bank_dest_id`, `transfer_date`, `total_paid`, `note`, `status`) VALUES ('', 'Eduardo', '1', '2016-01-29', '100000', '', 'Open')
+ERROR - 20160129062350 --> Severity: Notice --> Undefined variable: error C:\xampp\htdocs\guruprivat\application\views\iknow\payment_confirmation.php 28
+ERROR - 20160129063733 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Cms.php 57
+ERROR - 20160129064038 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Cms.php 57
+ERROR - 20160129064051 --> Severity: Notice --> Undefined variable: count_order C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 36
+ERROR - 20160129064052 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20160129064052 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20160129064052 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20160129064052 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20160129064052 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129064237 --> Severity: Notice --> Undefined variable: count_customer C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 23
+ERROR - 20160129064237 --> Severity: Notice --> Undefined variable: count_order C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 36
+ERROR - 20160129064237 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20160129064237 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20160129064237 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20160129064237 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20160129064237 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129065634 --> Severity: Notice --> Undefined variable: count_order C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 49
+ERROR - 20160129065634 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129065634 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129065634 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129065634 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129065635 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129070027 --> Severity: Error --> Call to undefined method Course_m::count_course_enrollment() C:\xampp\htdocs\guruprivat\application\controllers\Cms.php 59
+ERROR - 20160129070055 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129070055 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129070055 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129070055 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129070055 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129072113 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129072113 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129072113 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129072113 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129072114 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129072238 --> Severity: Notice --> Undefined property: stdClass::$order_id C:\xampp\htdocs\guruprivat\application\views\admin\payment_view_all.php 49
+ERROR - 20160129072238 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129072258 --> Could not find the language line "referrence_id"
+ERROR - 20160129072258 --> Severity: Notice --> Undefined property: stdClass::$order_id C:\xampp\htdocs\guruprivat\application\views\admin\payment_view_all.php 49
+ERROR - 20160129072259 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129072443 --> Could not find the language line "referrence_id"
+ERROR - 20160129072444 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129072955 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073054 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073120 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073433 --> Query error: Unknown column 'c.status' in 'field list' - Invalid query: SELECT *, `c`.`status` as `invoice_status`
+FROM `payment_transfer` `a`
+JOIN `bank_accounts` `b` ON `a`.`bank_dest_id`=`b`.`bank_id`
+LEFT JOIN `invoices` `i` ON `a`.`referrence_id` = `i`.`invoice_id`
+ORDER BY `a`.`payment_id` desc
+ERROR - 20160129073433 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160129073501 --> Query error: Unknown column 'c.status' in 'field list' - Invalid query: SELECT `a`.*, `b`.*, `c`.`status` as `invoice_status`
+FROM `payment_transfer` `a`
+JOIN `bank_accounts` `b` ON `a`.`bank_dest_id`=`b`.`bank_id`
+LEFT JOIN `invoices` `i` ON `a`.`referrence_id` = `i`.`invoice_id`
+ORDER BY `a`.`payment_id` desc
+ERROR - 20160129073501 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160129073518 --> Query error: Unknown column 'c.status' in 'field list' - Invalid query: SELECT `a`.*, `b`.*, `c`.`status` as `invoice_status`
+FROM `payment_transfer` `a`
+JOIN `bank_accounts` `b` ON `a`.`bank_dest_id`=`b`.`bank_id`
+LEFT JOIN `invoices` `i` ON `a`.`referrence_id` = `i`.`invoice_id`
+ORDER BY `a`.`payment_id` desc
+ERROR - 20160129073518 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160129073542 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073647 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073704 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073728 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073745 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129073901 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129074618 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129074716 --> Severity: Notice --> Undefined property: stdClass::$order_id C:\xampp\htdocs\guruprivat\application\views\admin\payment_view_all.php 99
+ERROR - 20160129074717 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129074858 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129101020 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129101031 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129101133 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129101133 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 95
+ERROR - 20160129101133 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129101133 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 104
+ERROR - 20160129101133 --> 404 Page Not Found: Assets/themes
+ERROR - 20160129103818 --> Severity: Notice --> Undefined variable: open_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 30
+ERROR - 20160129104256 --> Severity: Error --> Call to undefined method stdClass::result() C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 36
+ERROR - 20160129104434 --> Severity: Error --> Call to undefined method stdClass::result() C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 36
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104443 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$first_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$last_name C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 44
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 48
+ERROR - 20160129104444 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 49
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$hours_request C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 56
+ERROR - 20160129105608 --> Severity: Notice --> Undefined property: stdClass::$grand_total C:\xampp\htdocs\guruprivat\application\views\iknow\running_course.php 57
+ERROR - 20160129133959 --> 404 Page Not Found: Frontpage/absence_checklist
+ERROR - 20160129140308 --> Severity: Warning --> Missing argument 2 for CI_DB_query_builder::join(), called in C:\xampp\htdocs\guruprivat\application\models\Course_m.php on line 196 and defined C:\xampp\htdocs\guruprivat\system\database\DB_query_builder.php 512
+ERROR - 20160129140308 --> Severity: Notice --> Undefined variable: cond C:\xampp\htdocs\guruprivat\system\database\DB_query_builder.php 535
+ERROR - 20160129140308 --> Severity: Notice --> Undefined variable: cond C:\xampp\htdocs\guruprivat\system\database\DB_query_builder.php 556
+ERROR - 20160129140308 --> Severity: Notice --> Undefined variable: cond C:\xampp\htdocs\guruprivat\system\database\DB_query_builder.php 560
+ERROR - 20160129140308 --> Severity: Notice --> Undefined variable: cond C:\xampp\htdocs\guruprivat\system\database\DB_query_builder.php 562
+ERROR - 20160129140308 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_cours' at line 3 - Invalid query: SELECT `cm`.*, `ce`.*, `p`.`category` as `course_category`, `ci`.`city_name`, `ui`.*
+FROM `course_monitoring` `cm`
+JOIN `course_enrollment` `ce` USING ()
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `cities` `ci` ON `o`.`city_id` = `ci`.`city_id`
+WHERE `ce`.`teacher_id` = 'qsRIG09146'
+ERROR - 20160129140308 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\guruprivat\system\core\Exceptions.php:272) C:\xampp\htdocs\guruprivat\system\core\Common.php 569
+ERROR - 20160129140308 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160129140339 --> Query error: Unknown table 'ui' - Invalid query: SELECT `cm`.*, `ce`.*, `p`.`category` as `course_category`, `ci`.`city_name`, `ui`.*
+FROM `course_monitoring` `cm`
+JOIN `course_enrollment` `ce` ON `cm`.`enroll_id` = `ce`.`enroll_id`
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `cities` `ci` ON `o`.`city_id` = `ci`.`city_id`
+WHERE `ce`.`teacher_id` = 'qsRIG09146'
+ERROR - 20160129140339 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21
+ERROR - 20160129140350 --> Query error: Unknown table 'ui' - Invalid query: SELECT `cm`.*, `ce`.*, `p`.`category` as `course_category`, `ci`.`city_name`, `ui`.*
+FROM `course_monitoring` `cm`
+JOIN `course_enrollment` `ce` ON `cm`.`enroll_id` = `ce`.`enroll_id`
+JOIN `orders` `o` ON `ce`.`order_id` = `o`.`order_id`
+JOIN `teacher_open_courses` `toc` ON `ce`.`course_id` = `toc`.`id`
+JOIN `post_categories` `p` ON `toc`.`course_category_id` = `p`.`id`
+JOIN `cities` `ci` ON `o`.`city_id` = `ci`.`city_id`
+WHERE `ce`.`teacher_id` = 'qsRIG09146'
+ERROR - 20160129140350 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 21

@@ -1,0 +1,22 @@
+ERROR - 20150905051638 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905053442 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905053454 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060446 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060518 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060559 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060648 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060710 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060816 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905060828 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905061001 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905061013 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905061035 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905061721 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905062015 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150905062015 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 167
+ERROR - 20150905062015 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 168
+ERROR - 20150905062015 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 176
+ERROR - 20150905062015 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 191
+ERROR - 20150905062015 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 202
+ERROR - 20150905062015 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 213
+ERROR - 20150905062152 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114

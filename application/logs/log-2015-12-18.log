@@ -1,0 +1,42 @@
+ERROR - 20151218132651 --> Severity: Notice --> Undefined variable: count_order C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 36
+ERROR - 20151218132651 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20151218132651 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20151218132651 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20151218132651 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20151218133751 --> Severity: Notice --> Undefined variable: count_order C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 36
+ERROR - 20151218133751 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20151218133751 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20151218133751 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20151218133751 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20151218134540 --> Severity: Notice --> Undefined variable: count_order C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 36
+ERROR - 20151218134540 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20151218134540 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 82
+ERROR - 20151218134540 --> Severity: Notice --> Undefined variable: total_sales_per_date C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20151218134540 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\guruprivat\application\views\admin\dashboard.php 91
+ERROR - 20151218134548 --> Could not find the language line "course"
+ERROR - 20151218135625 --> Could not find the language line "course"
+ERROR - 20151218140316 --> Could not find the language line "course"
+ERROR - 20151218165406 --> 404 Page Not Found: Login/index
+ERROR - 20151218201008 --> Query error: Table 'hexxa_guruprivat.user_data' doesn't exist - Invalid query: SELECT *
+FROM `user_data`
+WHERE `user_id` = 'qsRIG09146'
+ERROR - 20151218201008 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\guruprivat\application\libraries\Db_trans.php 28
+ERROR - 20151218221353 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218221739 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218221943 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218221952 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222020 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222039 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222044 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222052 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222107 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222125 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222150 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222211 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222235 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222255 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222314 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222326 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222335 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222341 --> 404 Page Not Found: Images/profile-img.jpg
+ERROR - 20151218222641 --> 404 Page Not Found: Images/profile-img.jpg

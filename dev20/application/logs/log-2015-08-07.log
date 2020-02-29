@@ -1,0 +1,2 @@
+ERROR - 20150807072939 --> Query error: Column 'type' cannot be null - Invalid query: INSERT INTO `posts` (`title`, `type`, `category`, `content`, `tags`, `status`, `author`) VALUES ('', NULL, NULL, NULL, NULL, NULL, 'OCKY')
+ERROR - 20150807072952 --> Query error: Column 'type' cannot be null - Invalid query: INSERT INTO `posts` (`title`, `type`, `category`, `content`, `tags`, `status`, `author`) VALUES ('', NULL, NULL, NULL, NULL, NULL, 'OCKY')

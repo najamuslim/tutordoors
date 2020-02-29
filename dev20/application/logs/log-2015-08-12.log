@@ -1,0 +1,194 @@
+ERROR - 20150812193232 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\views\product_creation.php 102
+ERROR - 20150812193748 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\makanenak\application\views\product_creation.php 102
+ERROR - 20150812193749 --> 404 Page Not Found: Cms/assets
+ERROR - 20150812193901 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\xampp\htdocs\makanenak\application\views\product_creation.php 102
+ERROR - 20150812193902 --> 404 Page Not Found: Cms/assets
+ERROR - 20150812193924 --> 404 Page Not Found: Cms/assets
+ERROR - 20150812193939 --> 404 Page Not Found: Cms/assets
+ERROR - 20150812193951 --> 404 Page Not Found: Cms/assets
+ERROR - 20150812194002 --> 404 Page Not Found: Cms/assets
+ERROR - 20150812200530 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 122
+ERROR - 20150812200628 --> Severity: Error --> Call to a member function row() on a non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 122
+ERROR - 20150812205633 --> Could not find the language line "edit"
+ERROR - 20150812205633 --> Could not find the language line "region"
+ERROR - 20150812205633 --> Could not find the language line "region_name"
+ERROR - 20150812205633 --> Could not find the language line "close"
+ERROR - 20150812205633 --> Could not find the language line "save_change"
+ERROR - 20150812205633 --> Could not find the language line "region_list"
+ERROR - 20150812205633 --> Severity: Notice --> Undefined variable: area C:\xampp\htdocs\makanenak\application\views\category_crud.php 60
+ERROR - 20150812205633 --> Could not find the language line "add"
+ERROR - 20150812205633 --> Could not find the language line "region_name"
+ERROR - 20150812205633 --> Could not find the language line "submit"
+ERROR - 20150812210014 --> Could not find the language line "edit"
+ERROR - 20150812210014 --> Could not find the language line "region"
+ERROR - 20150812210014 --> Could not find the language line "region_name"
+ERROR - 20150812210014 --> Could not find the language line "close"
+ERROR - 20150812210014 --> Could not find the language line "save_change"
+ERROR - 20150812210014 --> Could not find the language line "region_list"
+ERROR - 20150812210014 --> Could not find the language line "add"
+ERROR - 20150812210014 --> Could not find the language line "region_name"
+ERROR - 20150812210014 --> Could not find the language line "submit"
+ERROR - 20150812210130 --> 404 Page Not Found: Cms/product_category
+ERROR - 20150812210135 --> Could not find the language line "edit"
+ERROR - 20150812210135 --> Could not find the language line "region"
+ERROR - 20150812210135 --> Could not find the language line "region_name"
+ERROR - 20150812210135 --> Could not find the language line "close"
+ERROR - 20150812210135 --> Could not find the language line "save_change"
+ERROR - 20150812210135 --> Could not find the language line "region_list"
+ERROR - 20150812210135 --> Could not find the language line "add"
+ERROR - 20150812210135 --> Could not find the language line "region_name"
+ERROR - 20150812210135 --> Could not find the language line "submit"
+ERROR - 20150812210151 --> Could not find the language line "edit"
+ERROR - 20150812210151 --> Could not find the language line "region"
+ERROR - 20150812210151 --> Could not find the language line "region_name"
+ERROR - 20150812210151 --> Could not find the language line "close"
+ERROR - 20150812210151 --> Could not find the language line "save_change"
+ERROR - 20150812210151 --> Could not find the language line "region_list"
+ERROR - 20150812210151 --> Could not find the language line "add"
+ERROR - 20150812210151 --> Could not find the language line "region_name"
+ERROR - 20150812210151 --> Could not find the language line "submit"
+ERROR - 20150812210314 --> Severity: Notice --> Undefined property: mysqli::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210314 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210314 --> Severity: Notice --> Undefined property: mysqli_result::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210314 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210314 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210314 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210315 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210315 --> Could not find the language line "edit"
+ERROR - 20150812210315 --> Could not find the language line "region"
+ERROR - 20150812210315 --> Could not find the language line "region_name"
+ERROR - 20150812210315 --> Could not find the language line "close"
+ERROR - 20150812210315 --> Could not find the language line "save_change"
+ERROR - 20150812210315 --> Could not find the language line "region_list"
+ERROR - 20150812210315 --> Severity: Notice --> Undefined offset: 1 C:\xampp\htdocs\makanenak\application\views\category_crud.php 65
+ERROR - 20150812210315 --> Could not find the language line "add"
+ERROR - 20150812210315 --> Could not find the language line "region_name"
+ERROR - 20150812210315 --> Could not find the language line "submit"
+ERROR - 20150812210325 --> Severity: Notice --> Undefined property: mysqli::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Undefined property: mysqli_result::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210325 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210325 --> Could not find the language line "edit"
+ERROR - 20150812210325 --> Could not find the language line "region"
+ERROR - 20150812210325 --> Could not find the language line "region_name"
+ERROR - 20150812210325 --> Could not find the language line "close"
+ERROR - 20150812210325 --> Could not find the language line "save_change"
+ERROR - 20150812210325 --> Could not find the language line "region_list"
+ERROR - 20150812210325 --> Severity: Notice --> Undefined offset: 2 C:\xampp\htdocs\makanenak\application\views\category_crud.php 65
+ERROR - 20150812210325 --> Severity: Notice --> Undefined offset: 3 C:\xampp\htdocs\makanenak\application\views\category_crud.php 65
+ERROR - 20150812210325 --> Could not find the language line "add"
+ERROR - 20150812210325 --> Could not find the language line "region_name"
+ERROR - 20150812210325 --> Could not find the language line "submit"
+ERROR - 20150812210345 --> Severity: Notice --> Undefined property: mysqli::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Undefined property: mysqli_result::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 150
+ERROR - 20150812210345 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 155
+ERROR - 20150812210434 --> Severity: Notice --> Undefined property: mysqli::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Undefined property: mysqli::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Undefined property: mysqli_result::$parent_id C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Undefined property: mysqli_result::$id C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 151
+ERROR - 20150812210434 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\makanenak\application\controllers\cms.php 156
+ERROR - 20150812210527 --> Severity: Error --> Cannot use object of type CI_DB_mysqli_result as array C:\xampp\htdocs\makanenak\application\controllers\cms.php 153
+ERROR - 20150812210545 --> Severity: Error --> Cannot use object of type CI_DB_mysqli_result as array C:\xampp\htdocs\makanenak\application\controllers\cms.php 154
+ERROR - 20150812210623 --> Could not find the language line "edit"
+ERROR - 20150812210623 --> Could not find the language line "region"
+ERROR - 20150812210623 --> Could not find the language line "region_name"
+ERROR - 20150812210623 --> Could not find the language line "close"
+ERROR - 20150812210623 --> Could not find the language line "save_change"
+ERROR - 20150812210623 --> Could not find the language line "region_list"
+ERROR - 20150812210623 --> Could not find the language line "add"
+ERROR - 20150812210623 --> Could not find the language line "region_name"
+ERROR - 20150812210623 --> Could not find the language line "submit"
+ERROR - 20150812210641 --> Could not find the language line "edit"
+ERROR - 20150812210641 --> Could not find the language line "region"
+ERROR - 20150812210641 --> Could not find the language line "region_name"
+ERROR - 20150812210641 --> Could not find the language line "close"
+ERROR - 20150812210641 --> Could not find the language line "save_change"
+ERROR - 20150812210641 --> Could not find the language line "region_list"
+ERROR - 20150812210641 --> Could not find the language line "add"
+ERROR - 20150812210641 --> Could not find the language line "region_name"
+ERROR - 20150812210641 --> Could not find the language line "submit"
+ERROR - 20150812211924 --> Could not find the language line "edit"
+ERROR - 20150812211924 --> Could not find the language line "region"
+ERROR - 20150812211924 --> Could not find the language line "region_name"
+ERROR - 20150812211924 --> Could not find the language line "close"
+ERROR - 20150812211924 --> Could not find the language line "save_change"
+ERROR - 20150812211924 --> Could not find the language line "region_list"
+ERROR - 20150812211924 --> Could not find the language line "add"
+ERROR - 20150812211924 --> Could not find the language line "region_name"
+ERROR - 20150812211924 --> Could not find the language line "submit"
+ERROR - 20150812212403 --> Could not find the language line "edit"
+ERROR - 20150812212403 --> Could not find the language line "region"
+ERROR - 20150812212403 --> Could not find the language line "region_name"
+ERROR - 20150812212403 --> Could not find the language line "close"
+ERROR - 20150812212403 --> Could not find the language line "save_change"
+ERROR - 20150812212403 --> Could not find the language line "region_list"
+ERROR - 20150812212503 --> Could not find the language line "edit"
+ERROR - 20150812212503 --> Could not find the language line "region"
+ERROR - 20150812212503 --> Could not find the language line "region_name"
+ERROR - 20150812212503 --> Could not find the language line "close"
+ERROR - 20150812212503 --> Could not find the language line "save_change"
+ERROR - 20150812212503 --> Could not find the language line "region_list"
+ERROR - 20150812213148 --> Could not find the language line "region_list"
+ERROR - 20150812213800 --> Could not find the language line "region_list"
+ERROR - 20150812214156 --> Could not find the language line "region_list"
+ERROR - 20150812214255 --> Could not find the language line "region_list"
+ERROR - 20150812214431 --> Could not find the language line "region_list"
+ERROR - 20150812214753 --> Could not find the language line "region_list"
+ERROR - 20150812214802 --> Query error: Cannot delete or update a parent row: a foreign key constraint fails (`makanenak`.`post_categories`, CONSTRAINT `fk_parent_id` FOREIGN KEY (`parent_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: DELETE FROM `post_categories`
+WHERE `id` = '2'
+ERROR - 20150812214816 --> Could not find the language line "region_list"
+ERROR - 20150812214857 --> Query error: Cannot delete or update a parent row: a foreign key constraint fails (`makanenak`.`post_categories`, CONSTRAINT `fk_parent_id` FOREIGN KEY (`parent_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: DELETE FROM `post_categories`
+WHERE `id` = '2'
+ERROR - 20150812214857 --> Could not find the language line "region_list"
+ERROR - 20150812214919 --> Could not find the language line "region_list"
+ERROR - 20150812215000 --> Query error: Cannot delete or update a parent row: a foreign key constraint fails (`makanenak`.`post_categories`, CONSTRAINT `fk_parent_id` FOREIGN KEY (`parent_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: DELETE FROM `post_categories`
+WHERE `id` = '2'
+ERROR - 20150812215000 --> Could not find the language line "region_list"
+ERROR - 20150812215011 --> Query error: Cannot delete or update a parent row: a foreign key constraint fails (`makanenak`.`post_categories`, CONSTRAINT `fk_parent_id` FOREIGN KEY (`parent_id`) REFERENCES `post_categories` (`id`) ON UPDATE CASCADE) - Invalid query: DELETE FROM `post_categories`
+WHERE `id` = '3'
+ERROR - 20150812215011 --> Could not find the language line "region_list"

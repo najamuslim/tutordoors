@@ -1,0 +1,39 @@
+ERROR - 20150904061128 --> 404 Page Not Found: Profile/index
+ERROR - 20150904061259 --> 404 Page Not Found: Profile/profile
+ERROR - 20150904080723 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150904080723 --> Unable to connect to the database
+ERROR - 20150904080725 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\makanenak\system\database\drivers\mysqli\mysqli_driver.php 135
+ERROR - 20150904081934 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082024 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082024 --> Severity: Parsing Error --> syntax error, unexpected '>' C:\xampp\htdocs\makanenak\application\views\organique\my_account.php 222
+ERROR - 20150904082037 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082313 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082324 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082405 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082551 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082714 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082746 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082805 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58
+ERROR - 20150904082809 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082924 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082929 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082934 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904082950 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904083008 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904083308 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904083324 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58
+ERROR - 20150904083332 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904083516 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904083530 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58
+ERROR - 20150904083534 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904084654 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904084713 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58
+ERROR - 20150904084715 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904084849 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58
+ERROR - 20150904084857 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904085017 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904085056 --> Severity: Notice --> Undefined variable: captcha C:\xampp\htdocs\makanenak\application\views\organique\header.php 114
+ERROR - 20150904085124 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58
+ERROR - 20150904085141 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$affected_rows C:\xampp\htdocs\makanenak\application\models\User_m.php 58

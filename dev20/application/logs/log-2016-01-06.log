@@ -1,0 +1,42 @@
+ERROR - 20160106102824 --> Query error: Duplicate entry 'qsRIG09146-3204' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_course_cities` (`user_id`, `city_id`) VALUES ('qsRIG09146', '3204')
+ERROR - 20160106103026 --> Query error: Duplicate entry 'qsRIG09146-3204' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_course_cities` (`user_id`, `city_id`) VALUES ('qsRIG09146', '3204')
+ERROR - 20160106103143 --> Query error: Duplicate entry 'qsRIG09146-3204' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_course_cities` (`user_id`, `city_id`) VALUES ('qsRIG09146', '3204')
+ERROR - 20160106103305 --> Query error: Duplicate entry 'qsRIG09146-3204' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_course_cities` (`user_id`, `city_id`) VALUES ('qsRIG09146', '3204')
+ERROR - 20160106103501 --> Query error: Duplicate entry 'qsRIG09146-3204' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_course_cities` (`user_id`, `city_id`) VALUES ('qsRIG09146', '3204')
+ERROR - 20160106131211 --> Query error: Duplicate entry 'qsRIG09146-6' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('qsRIG09146', '6', '50000')
+ERROR - 20160106131337 --> Query error: Duplicate entry 'qsRIG09146-2' for key 'user_id' - Invalid query: INSERT INTO `teacher_open_courses` (`user_id`, `course_category_id`, `tariff_hourly`) VALUES ('qsRIG09146', '2', '40000')
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 66
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 67
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 71
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 75
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 79
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 83
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 87
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 91
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 95
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 99
+ERROR - 20160106164722 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\views\iknow\edit_profile.php 103
+ERROR - 20160106164753 --> Severity: Notice --> Undefined variable: map_post_media C:\xampp\htdocs\guruprivat\application\controllers\Users.php 521
+ERROR - 20160106164753 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 166
+ERROR - 20160106164753 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\guruprivat\application\controllers\Users.php 167
+ERROR - 20160106212355 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 115
+ERROR - 20160106212444 --> Severity: Error --> Call to a member function result() on a non-object C:\xampp\htdocs\guruprivat\application\controllers\Frontpage.php 103
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212640 --> Severity: Warning --> Illegal string offset 'image_file' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 206
+ERROR - 20160106212811 --> Severity: Parsing Error --> syntax error, unexpected '?>', expecting ')' C:\xampp\htdocs\guruprivat\application\views\iknow\home.php 202

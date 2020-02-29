@@ -1,0 +1,62 @@
+ERROR - 20151021055517 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151021061801 --> Severity: Parsing Error --> syntax error, unexpected '{' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 513
+ERROR - 20151021061853 --> Severity: Parsing Error --> syntax error, unexpected '{' C:\xampp\htdocs\midaonline\application\controllers\Cms.php 514
+ERROR - 20151021061939 --> Severity: Notice --> Undefined variable: post C:\xampp\htdocs\midaonline\application\views\admin\coupon_view_all.php 40
+ERROR - 20151021062729 --> Severity: Error --> Call to undefined method Db_trans::get_coupons() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 521
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 1
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 2
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 11
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 17
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 28
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 33
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 40
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 44
+ERROR - 20151021072444 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 48
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 1
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 2
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 11
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 17
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: post_title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 28
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 33
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 40
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 44
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 48
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 53
+ERROR - 20151021073337 --> Severity: Notice --> Undefined variable: title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 57
+ERROR - 20151021075405 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1259
+ERROR - 20151021075505 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1263
+ERROR - 20151021075605 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1263
+ERROR - 20151021075705 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1263
+ERROR - 20151021075805 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1263
+ERROR - 20151021075905 --> Severity: Parsing Error --> syntax error, unexpected '$data' (T_VARIABLE) C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1263
+ERROR - 20151021110511 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151021110519 --> 404 Page Not Found: Assets/uploads
+ERROR - 20151021110942 --> Severity: Notice --> Undefined index: company_logo C:\xampp\htdocs\midaonline\application\views\raboda\home.php 87
+ERROR - 20151021111233 --> 404 Page Not Found: Assets/themes
+ERROR - 20151021111529 --> 404 Page Not Found: Assets/themes
+ERROR - 20151021111725 --> 404 Page Not Found: Assets/themes
+ERROR - 20151021111829 --> 404 Page Not Found: Assets/themes
+ERROR - 20151021141932 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 40
+ERROR - 20151021141932 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 40
+ERROR - 20151021141932 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 44
+ERROR - 20151021141932 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 44
+ERROR - 20151021141932 --> Severity: Notice --> Undefined variable: page_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 48
+ERROR - 20151021141932 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 48
+ERROR - 20151021141932 --> Severity: Notice --> Undefined variable: active_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 55
+ERROR - 20151021141932 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 55
+ERROR - 20151021141932 --> Severity: Notice --> Undefined variable: active_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 62
+ERROR - 20151021141932 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 62
+ERROR - 20151021142021 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$title C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 40
+ERROR - 20151021142021 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$url C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 44
+ERROR - 20151021142021 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$content C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 48
+ERROR - 20151021142021 --> Severity: Notice --> Undefined variable: active_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 55
+ERROR - 20151021142021 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 55
+ERROR - 20151021142021 --> Severity: Notice --> Undefined variable: active_data C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 62
+ERROR - 20151021142021 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 62
+ERROR - 20151021142116 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$coupon_code C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 40
+ERROR - 20151021142116 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$description C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 44
+ERROR - 20151021142116 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$start_time C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 51
+ERROR - 20151021142116 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$end_time C:\xampp\htdocs\midaonline\application\views\admin\coupon_creation.php 58
+ERROR - 20151021145314 --> Severity: Compile Error --> Cannot redeclare Cms::update_coupon() C:\xampp\htdocs\midaonline\application\controllers\Cms.php 1277
+ERROR - 20151021201253 --> Severity: Error --> Call to a member function num_rows() on a non-object C:\xampp\htdocs\midaonline\application\controllers\Cms.php 62
+ERROR - 20151021204103 --> 404 Page Not Found: Assets/themes
